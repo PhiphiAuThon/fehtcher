@@ -1,0 +1,410 @@
+Key,Name,Default,Unlock
+Alcryst:_Tender_Groom,Draw Back,4,3
+Anna:_Secret_Seller,Rally Atk/Spd+,—,5
+Anna:_Wealth-Wisher,Rally Def/Res+,—,5
+Annette:_Overachiever,Rally Atk/Spd+,—,5
+Arthur:_Hapless_Hero,Swap,4,3
+Ashe:_Budding_Chivalry,Rally Up Spd+,—,5
+Astrid:_Resolute_Damsel,Rally Atk/Def+,—,5
+August:_Astute_Tactician,Nudge+,5,5
+Azama:_Carefree_Monk,Martyr+,—,5
+Azelle:_Youthful_Flame,Rally Up Spd+,—,5
+Azura:_Celebratory_Spirit,Sing,4,3
+Azura:_Hatari_Duet,Gray Waves,—,5
+Azura:_Lady_of_Ballads,Sing,4,3
+Azura:_Lady_of_the_Lake,Sing,4,3
+Azura:_Song's_Reflection,Changing Waters,—,5
+Azura:_Vallite_Songstress,Gray Waves II,—,5
+Azura:_Young_Songstress,Sing,4,3
+Barst:_The_Hatchet,Reposition,4,3
+Bartre:_Earsome_Warrior,Smite,4,3
+Bartre:_Fearless_Warrior,Smite,4,3
+Berkut:_Debonair_Noble,Dance,4,3
+Bernadetta:_Eternal_Loner,Ardent Sacrifice,4,3
+Boyd:_Future_Great,Shove,4,3
+Elincia:_Lost_Princess,Ardent Sacrifice,4,3
+Canas:_Wisdom_Seeker,Reciprocal Aid,4,3
+Eliwood:_Blazing_Knight,Rally Spd/Res+,—,5
+Brady:_Daunting_Priest,Recover+,5,5
+Brigid:_Orgahil_Pirate,Harsh Command+,—,5
+Bruno:_Masked_Hare,Martyr+,5,5
+Bruno:_Masked_Reveler,Reciprocal Aid,4,3
+Caeda:_Sea-Blossom_Pair,Harsh Command+,—,5
+Caeda:_Talys's_Heart,Rally Speed,4,3
+Camilla:_Flower_of_Fantasy,Draw Back,4,3
+Camilla:_Light_of_Nohr,Restore+,5,5
+Camilla:_Spring_Princess,Rally Attack,4,3
+Caspar:_Summer_Intensity,Smite,4,3
+Cath:_Caper_Captain,Draw Back,4,3
+Cath:_Master_Thief,Reposition,4,3
+Catria:_Mild_Middle_Sister,Harsh Command+,—,5
+Catria:_Spring_Whitewing,Draw Back,4,3
+Catria:_Windswept_Knight,Harsh Command+,—,5
+Cecilia:_Etrurian_Bride,Rally Atk/Res+,—,5
+Cecilia:_Etrurian_General,Rally Resistance,4,3
+Chad:_Lycian_Wildcat,Draw Back,4,3
+Charlotte:_Money_Maiden,Smite,4,3
+Cherche:_Wyvern_Friend,Pivot,4,3
+Chrom:_Crowned_Exalt,To Change Fate! II,—,5
+Chrom:_Fate-Defying_Duo,To Change Fate!,—,5
+Chrom:_Fated_Honor,A Fate Changed!,—,5
+Chrom:_Fell_Exalt,Fate Unchanged...,—,5
+Chrom:_Gifted_Leader,Pivot,4,3
+Chrom:_Spring_Exalt,Shove,4,3
+Clair:_Highborn_Flier,Harsh Command,4,3
+Clarine:_Refined_Noble,Martyr+,—,5
+Colm:_Capable_Thief,Pivot,4,3
+Conrad:_Unmasked_Knight,Ardent Sacrifice,4,3
+Constance:_Fallen_Noble,Harsh Command+,—,5
+Cordelia:_Knight_Paradise,Harsh Command,4,3
+Lilith:_Astral_Daughter,Reposition,4,3
+Linde:_Light_Mage,Ardent Sacrifice,4,3
+Roy:_Young_Lion,Shove,4,3
+Mae:_Bundle_of_Energy,Draw Back,4,3
+Shiro:_Raw_Talent,Swap,4,3
+Sully:_Crimson_Knight,Draw Back,4,3
+Fir:_Student_of_Spring,Harsh Command+,—,5
+Flayn:_Playing_Innocent,Rescue+,5,5
+Gaius:_Candy_Stealer,Rally Speed,4,3
+Gatekeeper:_Nothing_to_Report,Harsh Command+,—,5
+Sigrun:_Loyal_Protector,Swap,4,3
+Leila:_Rose_amid_Fangs,Rally Atk/Spd+,—,5
+Merlinus:_Pherae's_Clerk,Reposition,4,3
+Ranulf:_Friend_of_Nations,Rally Atk/Def+,—,5
+Sanaki:_Begnion's_Apostle,Harsh Command,4,3
+Lyn:_Lady_of_the_Beach,Reposition,4,3
+Deirdre:_Lady_of_the_Forest,Ardent Sacrifice,4,3
+Mikoto:_Caring_Mother,Martyr+,5,5
+Titania:_Mighty_Mercenary,Reciprocal Aid,4,3
+Corrin:_Dream_Princess,Rally Atk/Spd+,—,5
+Cordelia:_Perfect_Bride,Rally Atk/Spd,—,4
+Cornelia:_Saint_Consumed,Rehabilitate+,5,5
+Corrin:_Enjoying_Tradition,Rally Def/Res,—,4
+Corrin:_Nightfall_Ninja_Act,Rally Up Def+,—,5
+Cynthia:_Hero_Chaser,Shove,4,3
+Dagr:_Sunny_Bloom,Reposition Gait,—,5
+Darros:_Seawalker,Shove,4,3
+Deen:_Bladed_Sandstorm,Swap,4,3
+Donnel:_Sunny_Villager,Reciprocal Aid,4,3
+Donnel:_Village_Hero,Reciprocal Aid,4,3
+Dorcas:_Pumpkin_Smasher,Swap,4,3
+Dorothea:_Daring_Ex-Singer,Sing,4,3
+Dorothea:_Solar_Songstress,Dance,4,3
+Dorothea:_Twilit_Harmony,Dance,4,3
+Dorothea:_Yuletide_Dancer,Sing,4,3
+Dorothy:_Devoted_Archer,Ardent Sacrifice,4,3
+Dozla:_Harvest_Attendant,Rally Atk/Def+,—,5
+Dwyer:_Sleepy_Butler,Martyr+,5,5
+Edain:_Lady_of_Yngvi,Magic Shield+,5,5
+Effie:_Army_of_One,Smite,4,3
+Effie:_Dedicated_Heart,Smite,4,3
+Eikþyrnir:_Blessed_Strength,Smite,5,3
+Eir:_Renewed_Life,Shove,4,3
+Eirika:_Anamnesis_Lady,Rally Atk/Spd,—,4
+Eirika:_Gentle_as_Snow,Restore+,5,5
+Eirika:_Restoration_Lady,Pivot,4,3
+Eldigan:_Strutting_Lion,Dance,4,3
+Eleonora:_Shooting_Starlet,Rally Atk/Spd+,—,5
+Elffin:_Truth_Beholden,Play,4,3
+Elice:_Altean_Princess,Restore+,5,5
+Elimine:_Scouring_Saint,Nudge+,5,5
+Elincia:_Devoted_Queen,Rescue+,5,5
+Elincia:_Estival_Princess,Dance,4,3
+Elincia:_Seaside_Queen,Draw Back,4,3
+Elise:_Bubbling_Flower,Rally Up Atk+,—,5
+Elise:_Budding_Flower,Recover+,—,5
+Elise:_Sparkling_Smile,Return+,5,5
+Elise:_Sweetheart_Royals,Return+,5,5
+Elise:_Tropical_Flower,Rally Atk/Res,—,4
+Eliwood:_Devoted_Love,Rally Atk/Def,—,4
+Eliwood:_Marquess_Pherae,Rally Atk/Def+,—,5
+Emmeryn:_Gentle_Exalt,Rehabilitate+,5,5
+Emmeryn:_Selfless_Exalt,Magic Shield+,5,5
+Ena:_Autumn_Tactician,Swap,4,3
+Eremiya:_Bishop_of_Woe,Physic+,5,5
+Erinys:_Earnest_Knight,Harsh Command+,—,5
+Est:_Junior_Whitewing,Shove,4,3
+Ethlyn:_Glimmering_Lady,Dance,4,3
+Ethlyn:_Spirited_Princess,Physic+,5,5
+Fae:_Divine_Dragon,Draw Back,4,3
+Farina:_The_Great_Wing,Reposition,4,3
+Fee:_Aspiring_Knight,Reposition,4,3
+Ferdinand:_Highborn_Sipper,Rally Spd/Res+,—,5
+Ferdinand:_Noblest_of_Nobles,Reposition,4,3
+Fiora:_Defrosted_Ilian,Swap,4,3
+Fjorm:_Bride_of_Rime,Restore+,5,5
+Fjorm:_New_Traditions,Reposition,4,3
+Flavia:_Bold_Bride,Harsh Command+,—,5
+Flayn:_Silly_Kitty-Cat,Rescue+,5,5
+Florina:_Lovely_Flier,Ardent Sacrifice,4,3
+Forrest:_Fashion_Forward,Physic+,5,5
+Frederick:_Horizon_Watcher,Ardent Sacrifice,4,3
+Geese:_A_Life_at_Sea,Reposition,4,3
+Genny:_Dressed_with_Care,Physic+,5,5
+Genny:_Endearing_Ally,Physic+,—,5
+Gerome:_Masked_Rider,Rally Atk/Def,—,4
+Gordin:_Altean_Archer,Shove,4,3
+Gray:_Wry_Comrade,Swap,4,3
+Gunnthrá:_Beaming_Smile,Rally Def/Res+,—,5
+Gunter:_Inveterate_Soldier,Harsh Command,4,3
+Haar:_Black_Tempest,Swap,4,3
+Haar:_Tempest_Runner,Swap,4,3
+Hana:_Focused_Samurai,Rally Attack,4,3
+Heather:_Wandering_Ninja,Rally Atk/Spd+,—,5
+Heiðr:_Innocent_Goddess,Gold Serpent,—,5
+Helbindi:_Seaside_Scourge,Rally Atk/Def+,—,5
+Henry:_Peculiar_Egg,Rally Def/Res+,—,5
+Hilda:_Deer's_Two-Piece,Nudge+,5,5
+Hilda:_Holiday_Layabout,Shove,4,4
+Hinata:_Samurai_Groom,Reciprocal Aid,4,3
+Hinoka:_Fair_Pirate_Pair,Harsh Command+,—,5
+Hinoka:_Relaxed_Warrior,Draw Back,4,3
+Hortensia:_Little_Charmer,Rescue+,5,5
+Hortensia:_Winter's_Dearest,Ice Lock+,5,5
+Hríd:_Resolute_Prince,Swap,4,3
+Ignatz:_Snowscape_Artist,Rally Atk/Spd,—,4
+Inigo:_Festival_Flower,Rally Atk/Spd+,—,5
+Inigo:_Indigo_Dancer,Dance,4,3
+Innes:_Flawless_Form,Rally Atk/Def,—,4
+Isadora:_Escort_of_Pherae,Reposition,4,3
+Ishtar:_Thunder's_Waltz,Dance,4,3
+Itsuki:_Finding_a_Path,Swap,4,3
+Jaffar:_Angel_of_Night,Reciprocal Aid,4,3
+Jakob:_Devoted_Servant,Rally Resistance,4,3
+Joshua:_Tropical_Gambler,Shove,4,3
+Julia:_Scion_of_the_Saint,Rally Spd/Res+,—,5
+Juno:_Soaring_Bride,Ardent Sacrifice,4,3
+Kaden:_Kitsune_Braggart,Pivot,4,3
+Kaden:_Refreshed_Kitsune,Swap,4,3
+Keaton:_Resolved_Wolfskin,Smite,4,3
+Kent:_Crimson_Shield,Reposition,4,3
+Kyle:_Zealous_Knight,Reposition,4,3
+L'Arachel:_Harvest_Princess,Rally Atk/Spd+,—,5
+L'Arachel:_Seeker_of_Justice,Rescue+,5,5
+L'Arachel:_Summer_Princess,Recover+,5,5
+Lachesis:_Ballroom_Bloom,Dance,4,3
+Lachesis:_Lionheart's_Sister,Physic+,—,5
+Laegjarn:_Burning_Sun,Reposition,4,3
+Laegjarn:_New_Experiences,Pivot,4,3
+Laevatein:_Bonfire's_Blaze,Smite,4,3
+Laevatein:_Kumade_Warrior,Rehabilitate+,5,5
+Laevatein:_Searing_Steel,Swap,4,3
+Lana:_Benevolent_Bride,Physic+,5,5
+Lara:_Step_Lively,Dance,4,3
+Larum:_Dancing_Bride,Dance,4,3
+Larum:_Sprightly_Dancer,Dance,4,3
+Leanne:_Forest's_Song,Sing,4,3
+Lena:_Bereft_Angel,Magic Shield+,5,5
+Lena:_Tender_Angel,Recover+,5,5
+Lene:_Yearning_Dancer,Dance,4,3
+Leo:_Dark_Sprout,Reposition,4,3
+Leonie:_Relentless_Rays,Reposition,4,3
+Lex:_Young_Blade,Reposition,4,3
+Lifis:_Terror_of_Iz,Swap,4,3
+Lilina:_Beachside_Bloom,Rally Up Res+,—,5
+Linde:_Summer_Rays,Ardent Sacrifice,4,3
+Linhardt:_Hevring's_Heir,Physic+,5,5
+Lissa:_Sprightly_Cleric,Rehabilitate+,—,5
+Lissa:_Sweet_Celebrant,Martyr+,5,5
+Loki:_The_Trickster,Restore+,5,5
+Loki:_Trickster_God,Return+,5,5
+Lorenz:_Highborn_Heat,Pivot,4,3
+Louise:_Eternal_Devotion,Reciprocal Aid,4,3
+Louise:_Lady_of_Violets,Rally Def/Res+,—,5
+Lucia:_Loyalty_Enrobed,Rally Up Spd+,—,5
+Lucia:_Tireless_Advisor,Harsh Command+,—,5
+Lucina:_Fate's_Resolve,Future Sight,—,5
+Lucina:_Future_Fondness,Future Vision,—,5
+Lucina:_Glorious_Archer,Future Vision II,—,5
+Lucina:_Shadows_of_Fate,Future Focus,—,5
+Lucina:_Spring_Exalt,Rally Speed,4,3
+Lucius:_Calming_Light,Martyr+,5,5
+Lucius:_The_Light,Martyr+,—,5
+Lugh:_Anima_Child,Rally Up Res+,—,5
+Lukas:_Buffet_for_One,Pivot,4,3
+Lumera:_In_Distant_Skies,Rally Def/Res+,—,5
+Lute:_Prodigy,Rally Atk/Res,—,4
+Lute:_Summer_Prodigy,Swap,4,3
+Luthier:_Spring_Hopes,Reposition,4,3
+Lyn:_Bride_of_the_Plains,Rehabilitate+,—,5
+Lyn:_Lady_of_the_Wind,Rally Def/Res,—,4
+Lyn:_Wind's_Embrace,Ardent Sacrifice,4,3
+Maria:_Minerva's_Sister,Physic+,—,5
+Maria:_Ritual_Sacrifice,Nudge+,5,5
+Maria:_Sunny_Smile,Rally Spd/Def+,—,5
+Maribelle:_Dire_Damsel,Martyr+,5,5
+Marisa:_Crimson_Rabbit,Reposition,4,3
+Marth:_Altean_Groom,Rally Spd/Def,—,4
+Marth:_Altean_Prince,Pivot,4,3
+Mathilda:_Legendary_Knight,Rally Resistance,4,3
+Matthew:_Faithful_Spy,Reciprocal Aid,4,3
+Mercedes:_Kindly_Devotee,Martyr+,5,5
+Merrin:_Suave_Knight,Reposition,4,3
+Mia:_Harmonic_Blades,Reposition,4,3
+Mia:_Moonlit_Witch,Recover+,5,5
+Micaiah:_Dawn_Wind's_Duo,Sacrifice,—,5
+Micaiah:_Dawning_Maiden,Maiden's Solace,—,5
+Micaiah:_Priestess_of_Dawn,Sacrifice,—,5
+Micaiah:_Queen_of_Dawn,Sacrifice,—,5
+Micaiah:_Radiant_Queen,Maiden's Solace,—,5
+Micaiah:_Summer's_Dawn,Dance,4,3
+Micaiah:_Wavecrest_Maiden,Maiden's Solace,—,5
+Michalis:_Fruiting_Ambition,Swap,4,3
+Midori:_Reliable_Chemist,Rally Atk/Def+,—,5
+Mila:_Goddess_of_Love,Rally Def/Res+,—,5
+Mirabilis:_Daydream,Whimsical Dream+,—,5
+Mirabilis:_Spring_Daydream,Spring's Dream,—,5
+Mirabilis:_Sugarplum_Vision,Whimsical Dream,—,5
+Miranda:_Willful_Princess,Ardent Sacrifice,4,3
+Miriel:_Rapier_Intellect,Draw Back,4,3
+Mist:_Helpful_Sister,Recover+,—,5
+Mist:_Purest_Spirit,Rally Def/Res+,—,5
+Mordecai:_Gentle_Firetender,Smite,4,3
+Mordecai:_Kindhearted_Tiger,Smite,4,3
+Múspell:_Flame_God,Rally Up Atk+,—,5
+Naga:_Harvest_Divinity,Rally Up Atk+,—,5
+Nanna:_Mystletainn_Scion,Recover+,5,5
+Nanna:_Nordion_Princess,Restore+,5,5
+Natasha:_Sacred_Healer,Martyr+,5,5
+Nel:_Stoic_Bride,Reciprocal Aid,4,3
+Nephenee:_Sincere_Dancer,Dance,4,3
+Nifl:_God_of_Ice,Rally Def/Res+,—,5
+Niles:_Forbidden_Tease,Smite,4,3
+Nils:_Bright_Bard,Play,4,3
+Nils:_Snowflake_Melody,Play,4,3
+Nils:_Wandering_Star,Play,4,3
+Nina:_Eye_Spy,Draw Back,4,3
+Ninian:_Bright-Eyed_Bride,Dance,4,3
+Ninian:_Frozen_Heart,Call to Flame,—,5
+Ninian:_Ice-Dragon_Oracle,Dragon's Dance,—,5
+Ninian:_Oracle_of_Destiny,Dance,4,3
+Nino:_Flower_of_Frost,Rally Atk/Res+,—,5
+Nino:_Pious_Mage,Draw Back,4,3
+Noire:_Shade_Seeker,Ardent Sacrifice,4,3
+Norne:_Seaside_Volunteer,Reciprocal Aid,4,3
+Norne:_The_Volunteer,Reposition,4,3
+Nowi:_Eternal_Witch,Reposition,4,3
+Nowi:_Eternal_Youth,Rally Defense,4,3
+Nyna:_The_Last_Princess,Physic+,5,5
+Oboro:_Fierce_Bride-to-Be,Rally Atk/Res+,—,5
+Oboro:_Fierce_Fighter,Rally Defense,4,3
+Olivia:_Blushing_Beauty,Dance,4,3
+Olivia:_Festival_Dancer,Dance,4,3
+Olivia:_Sky-High_Dancer,Dance,4,3
+Olivia:_Wavecrest_Dancer,Dance,4,3
+Olwen:_Blue_Mage_Knight,Reposition,4,3
+Ophelia:_Dramatic_Heroine,Rally Up Atk+,—,5
+Orochi:_Merry_Diviner,Draw Back,4,3
+Oscar:_Agile_Horseman,Rally Spd/Def,—,4
+Palla:_Kind_Eldest_Sister,Rally Atk/Def+,—,5
+Palla:_Sisterly_Trio,Reposition,4,3
+Pandreo:_Party_Priest,Martyr+,5,5
+Patty:_Youthful_Thief,Pivot,4,3
+Pent:_Fancy_Fiancé,Rally Up Atk+,—,5
+Peony:_Álfar_Dream_Duo,Gentle Dream,—,5
+Peony:_Sweet_Dream,Gentle Dream+,—,5
+Phina:_Roving_Dancer,Dance,4,3
+Plumeria:_Lewd_Dream,Sweet Dreams+,—,5
+Plumeria:_Spring_Dance,Dreamlike Night,—,5
+Plumeria:_Temptation_Anew,Sweet Dreams,—,5
+Priscilla:_Delicate_Princess,Rehabilitate+,—,5
+Quan:_Lightfoot_Prince,Dance,4,3
+Quan:_Luminous_Lancer,Rally Spd/Def+,—,5
+Rafiel:_Blessed_Wings,Sing,4,3
+Raigh:_Dark_Child,Rally Attack,4,3
+Raphael:_Muscle-Monger,Smite,4,3
+Rebecca:_Wildflower,Ardent Sacrifice,4,3
+Reinhardt:_Lightning's_Rondo,Dance,4,3
+Reyson:_White_Prince,Sing,4,3
+Rhajat:_Black_Magician,Rally Atk/Def,—,4
+Rhys:_Gentle_Basker,Physic+,5,5
+Rickard:_Carefree_Culprit,Shove,4,3
+Rinea:_Reminiscent_Belle,Dance,4,3
+Rinkah:_Consuming_Flame,Pivot,4,3
+Robin:_Festive_Tactician,Reciprocal Aid,4,3
+Robin:_Keen_Groom,Draw Back,4,3
+Robin:_Seaside_Tactician,Reposition,4,3
+Robin:_Vessels_of_Fate,Reposition,4,3
+Roderick:_Steady_Squire,Rally Def/Res,—,4
+Rolf:_Tricky_Archer,Shove,4,3
+Ronan:_Villager_of_Iz,Rally Spd/Res+,—,5
+Roshea:_Coyote's_Faithful,Draw Back,4,3
+Ross:_His_Father's_Son,Smite,4,3
+Roy:_Youthful_Gifts,Reciprocal Aid,4,3
+Ryoma:_Dancing_Samurai,Dance,4,3
+Safy:_Font_of_Piety,Return+,5,5
+Sain:_Green_Lance,Rally Up Atk+,—,5
+Saizo:_Angry_Ninja,Harsh Command,4,3
+Sakura:_Hot-Spring_Healer,Physic+,5,5
+Sakura:_In_Full_Bloom,Ice Lock+,5,5
+Sakura:_Loving_Priestess,Physic+,—,5
+Saleh:_Vernal_Sage,Reciprocal Aid,4,3
+Sanaki:_Apostle_in_White,Draw Back,4,3
+Sara:_Lady_of_Loptr,Return+,5,5
+Saul:_Loving_Shepherd,Restore+,5,5
+Saul:_Minister_of_Love,Return+,5,5
+Seadall:_Misfortune-Teller,Dance,4,3
+Selena:_Admiring_General,Rally Up Atk+,—,5
+Selena:_Cutting_Wit,Reposition,4,3
+Selena:_Fluorspar,Rally Atk/Res+,—,5
+Selena:_Sandbar_Fluorspar,Draw Back,4,3
+Seliph:_Heir_of_Light,Rally Speed,4,3
+Sephiran:_Hoary_Sovereign,Restore+,5,5
+Serra:_Outspoken_Cleric,Recover+,—,5
+Seteth:_Seiros_Adherent,Swap,4,3
+Seth:_Silver_Knight,Swap,4,3
+Seth:_Silver-Sea_Knight,Rally Up Spd,—,4
+Setsuna:_Absent_Archer,Reciprocal Aid,4,3
+Sharena:_Princess_of_Askr,Rally Attack,2,2
+Sharena:_Spring_Princess,Rally Atk/Spd,—,4
+Shigure:_Dark_Sky_Singer,Sing,4,3
+Sigrun:_Steadfast_Bride,Ardent Sacrifice,4,3
+Sigurd:_Destined_Duo,Dance,4,3
+Silas:_Loyal_Knight,Reposition,4,3
+Silque:_Adherent_of_Mila,Recover+,5,5
+Silque:_Selfless_Cleric,Martyr+,5,5
+Silvia:_Traveling_Dancer,Dance,4,3
+Sophia:_Cobweb_Prophet,Ardent Sacrifice,4,3
+Sophia:_Prescient_Bride,Rally Def/Res+,—,5
+Soren:_Addled_Strategist,Rally Atk/Spd+,—,5
+Sothe:_Rushing_Dawn,Harsh Command+,—,5
+Stahl:_Viridian_Knight,Swap,4,3
+Subaki:_Perfect_Expert,Swap,4,3
+Sumia:_Maid_of_Flowers,Reposition,4,3
+Sylvain:_Hanging_with_Tens,Draw Back,4,3
+Sylvain:_Spring_Flingster,Rally Atk/Spd+,—,5
+Tailtiu:_Teatime_Mingler,Reciprocal Aid,4,3
+Tailtiu:_Thunder_Noble,Rally Spd/Res,—,4
+Takumi:_Wishful_Spark,Shove,4,3
+Tana:_Noble_and_Nimble,Rally Spd/Res,—,4
+Tanith:_Bright_Blade,Ardent Sacrifice,4,3
+Tanith:_Forthright_Heart,Harsh Command+,—,5
+Tanya:_Dagdar's_Kid,Ardent Sacrifice,4,3
+Tatiana:_Devoted_Saint,Ardent Sacrifice,4,3
+Tethys:_Beloved_Dancer,Dance,4,3
+Tethys:_Dancing_Sands,Dance,4,3
+Tharja:_Beach_Dark_Mage,Draw Back,4,3
+Tharja:_Obsessive_Bride,Rally Atk/Spd,—,4
+Tiki:_Harmonic_Hope,Rally Up Spd+,—,5
+Tina:_Playful_Scamp,Nudge+,5,5
+Titania:_Warm_Knight,Swap,4,3
+Tobin:_The_Clueless_One,Pivot,4,3
+Triandra:_Nightmare,Frightful Dream+,—,5
+Triandra:_Reverent_Dream,Harrowing Dream,—,5
+Triandra:_Sunlit_Nightmare,Frightful Dream,—,5
+Ursula:_Clear-Blue_Crow,Rally Atk/Spd+,—,5
+Vaike:_Sunbaked_Stunner,Smite,4,3
+Veronica:_Brave_Princess,Recover+,5,5
+Vyland:_Coyote's_Justice,Smite,4,3
+Wil:_Unequaled_Archer,Rally Up Res,—,4
+Wolf:_Coyote's_Loyal,Reposition,4,3
+Wolt:_Sunbeam_Archer,Draw Back,4,3
+Wrys:_Kindly_Priest,Rehabilitate+,—,5
+Xander:_Dancing_Knight,Dance,4,3
+Xander:_Spring_Prince,Swap,4,3
+Xane:_Autumn_Trickster,Reposition,4,3
+Xane:_Desert_Mirage,Physic+,5,5
+Ymir:_Life-Mother,Rally Up Atk+,—,5
+Yuliya:_Princess_of_Grust,Physic+,5,5
+Yuri:_Ashen_Valiant,Foul Play,—,5
+Yuri:_Underground_Lord,Foul Play,—,5
