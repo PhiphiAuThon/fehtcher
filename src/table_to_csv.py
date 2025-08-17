@@ -89,11 +89,13 @@ def extract_tables_from_output(tables_csv_output):
             processing = True
         if not processing:
             continue
-        name_index = get_name_column_index(header_line)
-        if name_index is None:
-            continue
-        name_only_lines = extract_columns(csv_lines, [0,name_index,-2,-1])
-        tables_with_names[table_name] = name_only_lines
+        all_lines = [header_line] + csv_lines
+        if table_name == "Weapons":
+            # Weapons have 5 columns: Name,Might,Range,Description,SP
+            tables_with_names[table_name] = extract_columns(all_lines, [1,2,3,4,5])
+        else:
+            # Other skills have 4 columns: Name,Type/Cooldown,Description,SP  
+            tables_with_names[table_name] = extract_columns(all_lines, [1,2,3,4])
     return tables_with_names
 
 def extract_skills_from_output(tables_csv_output):
@@ -105,12 +107,10 @@ def extract_skills_from_output(tables_csv_output):
         if not keep_tables:
             continue
         all_lines = [header_line] + csv_lines
-        if table_name == "Weapons":
-            skills_tables[table_name] = extract_columns(all_lines, [1,2,3,4,5])
-        else:
-            skills_tables[table_name] = extract_columns(all_lines, [1,2,3,4])
-        if table_name == "Passives":
-            skills_tables[table_name] = [move_column_1_in_front(line) for line in skills_tables[table_name]]
+        # Skills will be hero mappings with format Key,Name,Default,Unlock
+        # Extract columns [0, 1, -2, -1] which are [Key, Name, Default, Unlock]
+        skills_tables[table_name] = extract_columns(all_lines, [0,1,-2,-1])
+        # No column reordering needed for hero mappings - all should have Key,Name,Default,Unlock format
     return skills_tables
 
 
