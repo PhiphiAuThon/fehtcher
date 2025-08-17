@@ -24,16 +24,16 @@ def save_hero_to_files(hero_id: str, hero_data: dict, folder_path: str):
         if not skill_lines:
             continue
         header = skill_lines[0]
-        filename = os.path.join(folder_path, f"skill_{table_name.lower()}.csv")
-        csv_to_file(header, skill_lines, filename, key_field="Name")
+        filename = os.path.join(folder_path, f"{table_name.lower()}.csv")
+        csv_to_file(header, skill_lines, filename, key_field="Key")
 
     tables = hero_csv_data["Tables"]
     for table_name, table_lines in tables.items():
         if not table_lines:
             continue
         header = table_lines[0]
-        filename = os.path.join(folder_path, f"{table_name.lower()}.csv")
-        csv_to_file(header, table_lines, filename, key_field="Key")
+        filename = os.path.join(folder_path, f"skill_{table_name.lower()}.csv")
+        csv_to_file(header, table_lines, filename, key_field="Name")
 
 def save_hero_id_to_done(hero_id, folder_path, file_name):
     filename = os.path.join(folder_path, file_name)
