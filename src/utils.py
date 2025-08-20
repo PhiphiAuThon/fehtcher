@@ -1,6 +1,7 @@
-import os
 from bs4 import BeautifulSoup
 import requests
+import csv
+import io
 
 
 def open_page(page_link:str) -> BeautifulSoup:
@@ -23,6 +24,17 @@ def table_to_csv(table_tag) -> str:
         cells = [f'"{c.replace("\"", "\"\"")}"' if (',' in c or '"' in c) else c for c in cells]
         lines.append(','.join(cells))
     return '\n'.join(lines)
+
+
+def refine_table_to_csv(table_tag) -> str:
+    lines = []
+    for row in table_tag.find_all('tr'):
+        cells = [cell.get_text(strip=True) for cell in row.find_all(['td', 'th'])]
+        cells = [f'"{c.replace("\"", "\"\"")}"' if (',' in c or '"' in c) else c for c in cells]
+        cells = [cell for cell in cells if cell]
+        lines.append(','.join(cells))
+    lines = [line for line in lines if line]
+    return ','.join(lines)
 
 
 def split_csv_line(line:str) -> list:
@@ -48,30 +60,35 @@ def split_csv_line(line:str) -> list:
     return fields
 
 
-def save_string_to_txt(text, filename):
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(script_dir, filename)
-    try:
-        with open(file_path, 'w', encoding='utf-8') as file:
-            file.write(text)
-        return True
-    except Exception as e:
-        return False
+def extract_hero_ids_from_table(table) -> list[str]:
+    td_elements = table.find_all('td')
+    manuals_list = []
+    for td in td_elements:
+        imgs = td.find_all('img')
+        if imgs:
+            for img in imgs:
+                icon_url = extract_icon_url_from_img_tag(img)
+                hero_id = extract_hero_id_from_icon_url(icon_url)
+                manuals_list.append(hero_id)
+    manuals_list = [hero_id for hero_id in manuals_list if not hero_id.endswith('.png') and not hero_id.endswith('.webp')]
+
+    return manuals_list
 
 
-def read_txt_to_string(filename):
-    script_dir = os.path.dirname(os.path.abspath(__file__))
-    file_path = os.path.join(script_dir, filename)
-    try:
-        with open(file_path, 'r', encoding='utf-8') as file:
-            return file.read()
-    except Exception as e:
-        return None
+def extract_icon_url_from_img_tag(img_tag) -> str:
+    """
+    Extract icon URL from img tag, handling both data-src and src attributes.
+    Returns the icon URL or empty string if not found.
+    """
+    if not img_tag:
+        return ""
+    
+    # Try data-src first (lazy loading), then fallback to src
+    icon_url = img_tag.get('data-src') or img_tag.get('src')
+    img_extension = icon_url.split('.')[-1].split('/')[0]
+    icon_url = icon_url.split('.'+img_extension)[0]
+    
+    return icon_url + '.' + img_extension or ""
 
-
-def lists_difference(list1, list2):
-    return list(set(list1).symmetric_difference(set(list2)))
-
-
-def to_snake_case(text):
-    return text.lower().replace(" ","_")
+def extract_hero_id_from_icon_url(icon_url: str) -> str:
+    return icon_url.split('/')[-1].split('_Face')[0]

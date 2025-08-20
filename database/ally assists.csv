@@ -1,3 +1,5 @@
 Key,Name,Default,Unlock
-Peony:_Cherished_Dream,Tender Dream,—,5
-Plumeria:_Rapturous_Dream,Cloying Dreams,—,5
+Peony_Cherished_Dream,Dance,4,3
+Peony_Cherished_Dream,Tender Dream,—,5
+Plumeria_Rapturous_Dream,Dance,4,3
+Plumeria_Rapturous_Dream,Cloying Dreams,—,5

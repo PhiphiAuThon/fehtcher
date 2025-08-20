@@ -1,910 +1,2335 @@
 Key,Name,Default,Unlock
-Abel:_The_Panther,Aegis,—,4
-Aelfric:_Custodian_Monk,Glacies,—,4
-Alcryst:_Tender_Archer,Deadeye,—,5
-Alear:_Awoken_Divinity,Dragon Blast,—,5
-Alear:_Dragon_Child,Luna,—,4
-Alear:_Dragon_Youth,Draconic Aura,—,4
-Alear:_Engaging_Fire,Dragon's Roar,—,5
-Alear:_Fell_Dragon_Child,Gust,—,5
-Alear:_Gifted_Dragons,Dragon's Roar,—,5
-Alear:_Red_Days_Past,Fell Blast,—,5
-Alear:_Seaside_Dragon,Bond Blast,—,5
-Alfonse:_Askran_Duo,Open the Future,—,5
-Alfonse:_Heir_to_Openness,Makings of a King,—,5
-Alfonse:_Prince_of_Askr,Sol,—,4
-Alfonse:_Spring_Prince,Noontime,—,4
-Alfonse:_Uplifting_Love,Moonbow,—,4
-Alfred:_Floral_Protector,Bonfire,—,4
-Alm:_Hero_of_Prophecy,Draconic Aura,—,4
-Alm:_Imperial_Ascent,Draconic Aura,—,4
-Alm:_Lovebird_Duo,Lunar Flash,—,5
-Alm:_Powerful_Resolve,True Lunar Flash,—,5
-Alm:_Saint-King,Lunar Flash II,—,5
-Altena:_Luminous_Rider,Reprisal,—,4
-Altina:_Cross-Time_Duo,Twin Blades,—,5
-Altina:_Dawn's_Trueblade,Twin Blades,—,5
-Altina:_Unrivaled_Dawn,Arms of the Three,—,5
-Amelia:_Blossoming_Talent,Armored Beacon,—,5
-Amelia:_Rose_of_the_War,Sacred Cowl,—,4
-Anankos:_Seething_Silence,Noontime,—,4
-Anna:_Commander,Astra,—,4
-Anna:_Secret_Charmer,Luna,—,4
-Anna:_Twice_the_Anna,Miracle,4,3
-Annand:_Knight-Defender,Moonbow,—,4
-Annette:_Festive_Helper,Moonbow,—,4
-Arden:_Strong_and_Tough,Pavise,—,4
-Ares:_Black_Knight,Draconic Aura,—,4
-Arete:_Requiem's_Beauty,Glacies,—,4
-Arion:_Gungnir's_Heir,Ignis,—,4
-Arlen:_Mage_of_Khadein,Ignis,—,4
-Arthur:_Furious_Mage,Glimmer,—,4
-Artur:_Silver_Saint,Iceberg,—,4
-Arval:_Cycle_Keeper,Glacies,—,4
-Arvis:_Emperor_of_Flame,Growing Flame,—,4
-Asbel:_Windswept_Youth,Moonbow,—,4
-Ash:_Earnest_Greetings,Bonfire,—,4
-Ash:_Retainer_to_Askr,Bonfire,—,4
-Ashe:_Chivalric_Amends,Curved Shot,—,5
-Ashe:_Fabled_Sea_Knight,Moonbow,—,4
-Ashera:_Order_Goddess,Glacies,—,4
-Ashnard:_Mad_King,Dragon Fang,—,4
-Askr:_God_of_Openness,Bonfire,—,4
-Askr:_Open_Harvest,Sturdy Beast,—,5
-Askr:_Renewed_Gods,Bonfire,—,4
-Astram:_Midia's_Hero,Bonfire,—,4
-Athena:_Borderland_Sword,Moonbow,—,4
-Athos:_Omniscient_One,Frost Moon,—,5
-Atlas:_Forest_Muscle,Sol,—,4
-August:_Astute_Tactician,Fireflood Balm+,—,5
-Aversa:_Dark_One,Dragon Fang,—,4
-Ayra:_Astra's_Wielder,Regnal Astra,—,5
-Ayra:_Supreme_Astra,Crusader's Astra,—,5
-Ayra:_Together_in_Tea,Supreme Astra,—,5
-Azama:_Carefree_Monk,Solid-Earth Balm,5,3
-Balthus:_King_of_Grappling,Ignis,—,4
-Bantu:_Tiki's_Guardian,Dragon Fang,—,4
-Basilio:_Feroxi_West-Khan,Moonbow,—,4
-Bastian:_Crimea's_Keystone,Iceberg,—,4
-Benny:_Sensitive_Soul,Pavise,—,4
-Berkut:_Prideful_Prince,Blazing Flame,—,4
-Berkut:_Purgatorial_Prince,Reprisal,—,4
-Bernadetta:_Frosty_Shut-In,Moonbow,—,4
-Bernadetta:_Late_Hibernator,Draconic Aura,—,4
-Bernadetta:_Sheltered_Loner,Curved Shot,—,5
-Bertram:_Dread_Cavalier,Ignis,—,4
-Beruka:_Quiet_Assassin,Glimmer,—,4
-Black_Knight:_Sinister_General,Black Luna,—,5
-Black_Knight:_The_Night's_Blade,Black Luna,—,5
-Boey:_Skillful_Survivor,Ignis,—,4
-Bors:_Ostia's_Bastion,Ignis,—,4
-Fiora:_Airborne_Warrior,Iceberg,—,4
-Zelgius:_Jet-Black_General,Black Luna,—,5
-Say'ri:_Chon'sin's_Blade,Iceberg,—,4
-Brady:_Daunting_Priest,Heavenly Light,5,3
-Bramimond:_The_Enigma,Luna,—,4
-Brigand_Boss:_Known_Criminal,Dragon Fang,—,4
-Brigid:_Awakened_Bow,Draconic Aura,—,4
-Brunnya:_Devoted_General,Glacies,—,4
-Bruno:_Masked_Hare,Miracle,5,3
-Byleth:_Fell_Star's_Duo,Ruptured Sky,—,5
-Byleth:_Fount_of_Learning,Sublime Heaven,—,5
-Byleth:_Frosty_Professors,Supreme Heaven,—,5
-Byleth:_Proven_Professor,Ruptured Sky,—,5
-Byleth:_Sublime_Light,Divine Pulse,—,5
-Byleth:_Tested_Professor,Ruptured Sky,—,5
-Byleth:_The_Fódlan_Light,Ruptured Sky,—,5
-Byleth:_The_Fódlan_Star,Sublime Heaven II,—,5
-Byleth:_Vengeance_Vessel,Divine Pulse,—,5
-Caeda:_Beloved_Queen,Moonbow,—,4
-Caeda:_Marth's_Faithful,Luna,—,4
-Caeda:_Princess_of_Talys,Moonbow,—,4
-Caeda:_Talys's_Bride,Iceberg,—,4
-Caeldori:_Perfect_Angel,Draconic Aura,—,4
-Caellach:_Tiger_Eye,Dragon Fang,—,4
-Cain:_The_Bull,Escutcheon,—,4
-Caineghis:_Gallia's_Lion_King,Bonfire,—,4
-Camilla:_Alluring_Darkness,Draconic Aura,—,4
-Camilla:_Bewitching_Beauty,Draconic Aura,—,4
-Camilla:_Holiday_Traveler,Draconic Aura,—,4
-Camilla:_Midnight_Bloom,Glimmer,—,4
-Camilla:_Steamy_Secrets,Glimmer,—,4
-Camilla:_Tropical_Beauty,Draconic Aura,—,4
-Camilla:_Young_Beauty,No Quarter,—,5
-Camus:_Sable_Knight,Growing Thunder,—,4
-Candace:_Sly_Snatcher,Glacies,—,4
-Caspar:_Hotheaded_Inciter,Moonbow,—,4
-Castor:_Loving_Son,Dragon Fang,—,4
-Catherine:_Thunder_Knight,Draconic Aura,—,4
-Catria:_Azure_Wing_Pair,Moonbow,—,4
-Catria:_Middle_Whitewing,Luna,—,4
-Cecilia:_Festive_Instructor,Iceberg,—,4
-Ced:_Hero_on_the_Wind,Luna,—,4
-Ced:_Sage_of_the_Wind,Blazing Wind,—,4
-Celica:_Caring_Princess,Blazing Light,—,4
-Celica:_Imprisoned_Soul,Luna,—,4
-Celica:_Of_Echoes,Warp Ragnarok,—,5
-Celica:_Queen_of_Valentia,Miracle,4,3
-Celica:_Valentia's_Hope,Moonbow,—,4
-Celica:_Warrior_Priestess,Galeforce,—,5
-Céline:_Joyous_Royal,Iceberg,—,4
-Céline:_Teatime_Ninja,Glacies,—,4
-Cervantes:_Invincible_General,Ignis,—,4
-Charlotte:_Wily_Warrior,Glimmer,—,4
-Cherche:_Shaded_by_Wings,Ignis,—,4
-Chloé:_Fairy-Tale_Flier,Glimmer,—,4
-Chloé:_Spring_Wings,Draconic Aura,—,4
-Chrom:_Exalted_Prince,Aether,—,5
-Chrom:_Fate-Defying_Duo,Deadeye,—,5
-Chrom:_Fell_Exalt,Galeforce,—,5
-Chrom:_Knight_Exalt,Aether,—,5
-Chulainn:_Unbeaten_Warrior,Luna,—,4
-Citrinne:_Caring_Noble,Iceberg,—,4
-Clanne:_Summer_Fan,Moonbow,—,4
-Clarine:_Refined_Noble,Swift-Winds Balm,5,3
-Clarisse:_Sniper_in_the_Dark,Glimmer,—,4
-Claude:_Almyra's_King,Moonbow,—,4
-Claude:_Distant_Deer,Curved Shot,—,5
-Claude:_Golden_Breeze,Lethality,—,5
-Claude:_King_of_Unification,Luna,—,4
-Claude:_The_Schemer,Glimmer,—,4
-Claude:_Tropical_Trouble,Moonbow,—,4
-Claude:_Yuletide_Schemer,Sol,—,4
-Clive:_Idealistic_Knight,Escutcheon,—,4
-Colm:_Capable_Thief,Moonbow,—,4
-Conrad:_Masked_Knight,Glacies,—,4
-Cordelia:_Knight_Paragon,Galeforce,—,5
-Dimitri:_Savior_King,Blazing Wind,—,4
-Klein:_Silver_Nobleman,Glacies,—,4
-Kronya:_Gleaming_Blade,Luna,—,4
-Joshua:_Tempest_King,Moonbow,—,4
-Guinivere:_Princess_of_Bern,Iceberg,—,4
-Seiros:_Saint_of_Legend,Glacies,—,4
-Edelgard:_Flame_Emperor,Bonfire,—,4
-Shigure:_Uplifting_Artist,Noontime,—,4
-Shannan:_Wielder_of_Astra,Imperial Astra,—,5
-Solon:_Church_Shadow,Glacies,—,4
-Linus:_Mad_Dog,Luna,—,4
-Raven:_Peerless_Fighter,Sol,—,4
-Orson:_Passion's_Folly,Ignis,—,4
-Hector:_Just_Here_to_Fight,Glimmer,—,4
-Eirika:_Pledged_Restorer,Luna,—,4
-Kris:_Unknown_Hero,Noontime,—,4
-Roy:_Brave_Lion,Galeforce,—,5
-Gunnthrá:_Voice_of_Dreams,Glacies,—,4
-Lyon:_Demon_King,Sol,—,4
-Ursula:_Blue_Crow,Growing Thunder,—,4
-Leon:_True_of_Heart,Ignis,—,4
-Faye:_Devoted_Heart,Noontime,—,4
-Innes:_Frelian_Moonlight,Glimmer,—,4
-Jamke:_Prince_of_Verdane,Astra,—,4
-Lethe:_Gallia's_Valkyrie,Moonbow,—,4
-Garon:_King_of_Nohr,Dragon Fang,—,4
-Tiki:_Dragon_Scion,Growing Flame,—,4
-Tiki:_Naga's_Voice,Bonfire,—,4
-Nailah:_Blessed_Queen,Moonbow,—,4
-Marth:_Legacied_Hero,Hero's Blood,—,5
-Corrin:_Bloodbound_Beast,Glimmer,—,4
-Leo:_Sorcerous_Prince,Blazing Light,—,4
-Yarne:_Timid_Taguel,Galeforce,—,5
-Helbindi:_Savage_Scourge,Vengeance,—,4
-Flayn:_Playing_Innocent,Deluge Balm+,—,5
-Yune:_Chaos_Goddess,Glacies,—,4
-Ike:_Zeal_Unleashed,Mayhem Aether,—,5
-Hector:_Dressed-Up_Duo,Bonfire,—,4
-Henry:_Twisted_Mind,Ignis,—,4
-Ilyana:_Hungering_Mage,Iceberg,—,4
-Sheena:_Princess_of_Gra,Escutcheon,—,4
-Melady:_Crimson_Rider,Bonfire,—,4
-Valter:_Dark_Moonstone,Luna,—,4
-Jorge:_Traveling_Peddler,Ignis,—,4
-Delthea:_Free_Spirit,Miracle,4,3
-Nemesis:_King_of_Liberation,Dragon Fang,—,4
-Sonya:_Vengeful_Mage,Moonbow,—,4
-Siegbert:_Future_King,Dragon Fang,—,4
-Knoll:_Darkness_Watcher,Luna,—,4
-Julia:_Heart_Usurped,Iceberg,—,4
-Lysithea:_Earnest_Seeker,Moonbow,—,4
-Nephenee:_Fierce_Halberdier,Moonbow,—,4
-Lukas:_Sharp_Soldier,Sacred Cowl,—,4
-Fae:_Childlike_Dragon,Life Unending II,—,5
-Delthea:_Tatarrah's_Puppet,Glacies,—,4
-Jaffar:_Angel_of_Death,Glimmer,—,4
-Idunn:_Dark_Priestess,Bonfire,—,4
-Gerik:_Desert_Tiger,Moonbow,—,4
-Virion:_Elite_Archer,Astra,—,4
-Naga:_Dragon_Divinity,Luna,—,4
-Tiki:_Legendary_Dragon,Moonbow,—,4
-Sigurd:_Holy_Knight,Miracle,4,3
-Mikoto:_Caring_Mother,Miracle,5,3
-Shinon:_Scathing_Archer,Deadeye,—,5
-Corrin:_Dream_Prince,Dragon Fang,—,4
-Corrin:_Dream_Princess,Draconic Aura,—,4
-Roy:_Blazing_Lion,Dragon Fang,—,4
-Minerva:_Princess-Knight,Draconic Aura,—,4
-Eliwood:_Knight_of_Lycia,Sacred Cowl,—,4
-Kana:_Dragon_Spawn,Dragon Fang,—,4
-Est:_Springtime_Flier,Moonbow,—,4
-Cordelia:_Unyielding_Snow,Galeforce,—,5
-Cormag:_Aloof_Lanceman,Ignis,—,4
-Cornelia:_Saint_Consumed,Miracle,5,3
-Corrin:_Celestial_Sorcerer,Moonbow,—,4
-Corrin:_Child_of_Dawn,Dragon Fang Shot,—,5
-Corrin:_Child_of_Dusk,Negating Fang II,—,5
-Corrin:_Daylight_Ninja_Act,Draconic Aura,—,4
-Corrin:_Fateful_Prince,Dragon Fang,—,4
-Corrin:_Fateful_Princess,Draconic Aura,—,4
-Corrin:_Novice_Vacationer,Dragon Fang,—,4
-Corrin:_Silent_Bloodline,Armored Floe,—,5
-Corrin:_Starry_Seer,Negating Fang,—,5
-Corrin:_Wailing_Soul,Dragon Fang,—,4
-Corrin:_Young_Kinship,Dragon Fang Fire,—,5
-Cyril:_Rhea's_Attendant,Vengeance,—,4
-Dagr:_Bluster_Princess,Draconic Aura,—,4
-Dagr:_New_Year_Jötnar,Luna,—,4
-Dagr:_Sun's_Radiance,Dragon Fang,—,4
-Death_Knight:_The_Reaper,Blazing Flame,—,4
-Dedue:_Dauntless_Beast,Sturdy Beast,—,5
-Dedue:_Dimitri's_Vassal,Pavise,—,4
-Dedue:_Loyal_Life_Guard,Pavise,—,4
-Deirdre:_Fated_Saint,Balance Circlet II,—,5
-Delthea:_Prodigy_in_Bloom,Glimmer,—,4
-Dew:_Benevolent_Thief,Sol,—,4
-Dheginsea:_Harvest_Goldoan,Draconic Aura,—,4
-Diamant:_Gallant_Ninja,Boulder,—,5
-Diamant:_Rising_Power,Bonfire,—,4
-Dieck:_Wounded_Tiger,Luna,—,4
-Dimitri:_Blessed_Protector,No Quarter,—,5
-Dimitri:_King_of_Faerghus,Noontime,—,4
-Dimitri:_Savage_Boar,Glimmer,—,4
-Dimitri:_Sky-Blue_Lion,Glimmer,—,4
-Dimitri:_Stargazing_Lion,Haze Slice,—,5
-Dimitri:_The_Protector,Vengeance,—,4
-Díthorba:_Cutting_Knight,Glacies,—,4
-Dorcas:_Serene_Warrior,Draconic Aura,—,4
-Draug:_Gentle_Giant,Pavise,—,4
-Duessel:_Obsidian,Bonfire,—,4
-Duma:_God_of_Strength,Draconic Aura,—,4
-Duma:_Strength_and_Love,Glimmer,—,4
-Dwyer:_Sleepy_Butler,Heavenly Light,5,3
-Echidna:_Unyielding_Idealist,Sol,—,4
-Edain:_Lady_of_Yngvi,Glitter of Light,—,5
-Edelgard:_Adorned_Eagle,Armored Blaze,—,5
-Edelgard:_Adrestian_Emperor,Noontime,—,4
-Edelgard:_Hegemon_Husk,Bonfire,—,4
-Edelgard:_Snowfall_Future,Armored Blaze,—,5
-Edelgard:_Sun_Empresses,Glimmer,—,4
-Edelgard:_The_Future,Luna,—,4
-Edward:_Blade_of_Justice,Godlike Reflexes,—,5
-Eikþyrnir:_Quieting_Strength,Fierce Beast,—,5
-Eir:_Life_Ascendant,Draconic Aura,—,4
-Eir:_Merciful_Death,Iceberg,—,4
-Eirika:_Beach_Restorer,Luna,—,4
-Eirika:_Gentle_as_Snow,Heavenly Light,5,3
-Eirika:_Graceful_Resolve,Moonbow,—,4
-Eirika:_Of_the_Sacred,Twin Strike,—,5
-Eirika:_Resolute_Princess,Gust,—,5
-Eirika:_Twin_Refulgence,Luna,—,4
-Eitr:_Hand_of_Nothing,Luna,—,4
-Eitr:_Spring_Sunrise,Nimble Beast,—,5
-Eitri:_Youthful_Sage,Dragon Fang,—,4
-Eldigan:_Lionheart,Growing Light,—,4
-Elice:_Altean_Princess,Heavenly Light,5,3
-Elincia:_Devoted_Queen,Light's Restraint,—,5
-Elincia:_Undaunted_Queen,Dragon Fang,—,4
-Elise:_Budding_Flower,Kindled-Fire Balm,5,3
-Elise:_Sparkling_Smile,Holy Panic,—,5
-Elise:_Sweetheart_Royals,Holy Pressure,—,5
-Eliwood:_Pledged_Friend,Luna,—,4
-Elm:_Resolute_Grouch,Luna,—,4
-Embla:_Closed-Off_Bride,Dragon Fang,—,4
-Embla:_God_of_Closure,Draconic Aura,—,4
-Emmeryn:_Gentle_Exalt,Miracle,5,3
-Emmeryn:_Selfless_Exalt,Light's Restraint,—,5
-Ephraim:_Ardent_Prince,Armored Blaze,—,5
-Ephraim:_Dynastic_Duo,Draconic Aura,—,4
-Ephraim:_Legendary_Lord,Sol,—,4
-Ephraim:_Restoration_Lord,Moonbow,—,4
-Ephraim:_Sacred_Twin_Lord,Draconic Aura,—,4
-Ephraim:_Sparkling_Gallantly,Dragon Fang,—,4
-Ephraim:_Sunshine_Valiant,Bonfire,—,4
-Eremiya:_Bishop_of_Woe,Miracle,5,3
-Erk:_Studious_Mage,Moonbow,—,4
-Est:_Sweet_Baby_Sis,Iceberg,—,4
-Ethlyn:_Spirited_Princess,Heavenly Light,5,3
-Etie:_Fitness_Fighter,Draconic Aura,—,4
-Ewan:_Eager_Student,Glacies,—,4
-Eyvel:_Mistress_of_Fiana,Ignis,—,4
-Fae:_Holiday_Dear,Luna,—,4
-Fáfnir:_Fresh_Ambition,Glimmer,—,4
-Fargus:_Badon_Buccaneer,Dragon Fang,—,4
-Faye:_Drawn_Heartstring,Moonbow,—,4
-Febail:_Mercenary_Waif,Luna,—,4
-Felicia:_Confidently_Cold,Luna,—,4
-Felicia:_Maid_Mayhem,Glacies,—,4
-Felicia:_Off_the_Menu,Glacies,—,4
-Felix:_Icy_Gift_Giver,Glimmer,—,4
-Felix:_Lone-Wolf_Blade,Godlike Reflexes,—,5
-Felix:_Sword_Savant,Gust,—,5
-Fernand:_Traitorous_Knight,Blazing Thunder,—,4
-Finn:_Lance_of_Legend,Miracle,4,3
-Fir:_Sword_Student,Glacies,—,4
-Fir:_Swordmaiden,Glimmer,—,4
-Fjorm:_Gleaming_Ice_Pair,Dual Ice Mirrors,—,5
-Fjorm:_Ice_Ascendant,Ice Mirror,—,5
-Fjorm:_Princess_of_Ice,Ice Mirror II,—,5
-Fjorm:_Seaside_Thaw,Frostbite Mirror,—,5
-Flame_Emperor:_Bringer_of_War,Ignis,—,4
-Flavia:_Feroxi_East-Khan,Draconic Aura,—,4
-Flayn:_Silly_Kitty-Cat,Holy Pressure,—,5
-Flora:_Cold_as_Ice,Iceberg,—,4
-Flora:_Polar-Perfect,Glacies,—,4
-Flora:_Signature_Dish,Iceberg,—,4
-Florina:_Azure-Sky_Knight,Moonbow,—,4
-Fogado:_Affable_Prince,Luna,—,4
-Fomortiis:_Dark_of_Night,Aegis,—,4
-Fomortiis:_Demon_King,Bonfire,—,4
-Forde:_Unfettered_Knight,Luna,—,4
-Forrest:_Fashion_Forward,Heavenly Light,5,3
-Forsyth:_Loyal_Lieutenant,Bonfire,—,4
-Framme:_Spring_Fangirl,Dragon Fang,—,4
-Frederick:_Polite_Knight,Luna,—,4
-Frederick:_Youth_in_Service,Bonfire,—,4
-Freyja:_Fleeting_Summer,Glimmer,—,4
-Freyja:_Lady_of_Nightmare,Luna,—,4
-Freyr:_Dream-King,Ignis,—,4
-Freyr:_Estival_Dreams,Draconic Aura,—,4
-Fuga:_Force_of_Gales,Bonfire,—,4
-Gaius:_Thief_Exposed,Astra,—,4
-Galle:_Azure_Rider,Dragon Fang,—,4
-Galzus:_Dark_Blade_of_Od,Luna,—,4
-Ganglöt:_Death_Anew,Iceberg,—,4
-Gangrel:_Plegia's_Mad_King,Glacies,—,4
-Gatrie:_Armored_Amour,Moonbow,—,4
-Genny:_Dressed_with_Care,Fireflood Balm+,—,5
-Genny:_Endearing_Ally,Heavenly Light,5,3
-Geoffrey:_Realm's_Protector,Luna,—,4
-Gharnef:_Dark_Pontifex,Ignis,—,4
-Gilliam:_Wall_of_Silence,Bonfire,—,4
-Ginnungagap:_Ruler_of_Nihility,Lethality,—,5
-Glen:_Sunstone,Ignis,—,4
-Goldmary:_Coy_Beach_Divas,Godlike Reflexes,—,5
-Gonzalez:_Kindly_Bandit,Dragon Fang,—,4
-Gotoh:_Apostle_of_Naga,Glacies,—,4
-Gotoh:_White_Sage,Iceberg,—,4
-Gregor:_Swell_Sword,Bonfire,—,4
-Greil:_Heroic_Exemplar,Aether,—,5
-Griss:_Indulging_Pain,Glacies,—,4
-Guinivere:_Queen_of_Bern,Iceberg,—,4
-Gullveig:_Glittering_Sunlight,Time and Light,—,5
-Gullveig:_Seer_Beyond_Time,Luna,—,4
-Gunnthrá:_Year's_First_Dream,Glimmer,—,4
-Gustav:_Majestic_Love,Ignis,—,4
-Gustav:_Sovereign_Slain,Bonfire,—,4
-Guy:_Kutolah_Blade,Glimmer,—,4
-Gwendolyn:_Adorable_Knight,Escutcheon,—,4
-Hana:_Focused_Ninja,Glimmer,—,4
-Hana:_Striving_Heart,Ignis,—,4
-Hans:_Ambitious_Brute,Dragon Fang,—,4
-Hapi:_Drawn-Out_Sigh,Glimmer,—,4
-Hardin:_Dark_Emperor,Vengeance,—,4
-Hardin:_The_Coyote,Draconic Aura,—,4
-Harken:_Troubled_Warrior,Bonfire,—,4
-Hawkeye:_Desert_Guardian,Growing Light,—,4
-Hawkeye:_Taciturn_Guardian,Ignis,—,4
-Hayato:_Diviner_of_Reppu,Moonbow,—,4
-Heath:_Wandering_Knight,Dragon Fang,—,4
-Heath:_Wyvern_Ninja,Bonfire,—,4
-Hector:_Brave_Warrior,Ignis,—,4
-Hector:_General_of_Ostia,Pavise,—,4
-Hector:_Marquess_of_Ostia,Draconic Aura,—,4
-Hector:_Steel_Warrior,Armored Beacon,—,5
-Hector:_Sworn_Friend,Armored Beacon,—,5
-Heiðrún:_Healing_Nectar,Aegis,—,4
-Heiðrún:_Sisters_of_Healing,Blazing Wind,—,4
-Henriette:_Overflowing_Love,Iceberg,—,4
-Henry:_Happy_Vampire,Reprisal,—,4
-Hestia:_Duma's_Witch,Iceberg,—,4
-Hilda:_Helping_Hand,Luna,—,4
-Hilda:_Idle_Maiden,Moonbow,—,4
-Hilda:_Queen_of_Friege,Glacies,—,4
-Hinata:_Wild_Samurai,Pavise,—,4
-Hinoka:_Blue_Sky_Warrior,Luna,—,4
-Hinoka:_Thundering_Wings,Deadeye,—,5
-Hinoka:_Warrior_Princess,Blazing Wind,—,4
-Holst:_Hero_of_Leicester,Blazing Light,—,4
-Hortensia:_Little_Charmer,Glitter of Light,—,5
-Hortensia:_Winter's_Dearest,Holy Pressure,—,5
-Hræsvelgr:_Quieting_Blade,Nimble Beast,—,5
-Hræsvelgr:_Wings_of_Healing,Nimble Beast,—,5
-Hríd:_Icy_Blade,Moonbow,—,4
-Hríd:_Island_Ice_Prince,Bonfire,—,4
-Hubert:_Crimson_Schemer,Glacies,—,4
-Hubert:_Sinister_Servant,Growing Thunder,—,4
-Hugh:_Worldly_Mage,Moonbow,—,4
-Iago:_Nohr's_Tactician,Blazing Wind,—,4
-Idunn:_Divine_Demon,Bonfire,—,4
-Idunn:_Dragonkin_Duo,Iceberg,—,4
-Igrene:_Nabata_Protector,Blazing Wind,—,4
-Igrene:_Ninja_of_Nabata,Luna,—,4
-Igrene:_Sworn_Protectors,Blazing Wind,—,4
-Ike:_Brave_Mercenary,Aether,—,5
-Ike:_Close-Knit_Siblings,Radiant Aether,—,5
-Ike:_Desert_Mercenary,Aether's Path,—,5
-Ike:_Of_Radiance,Great Aether,—,5
-Ike:_Stalwart_Heart,Radiant Aether,—,5
-Ike:_Vanguard_Legend,Radiant Aether II,—,5
-Ike:_Young_Mercenary,Aether,—,5
-Ilyana:_Awakened_Appetite,Glacies,—,4
-Ilyana:_Treat_Harvester,Iceberg,—,4
-Ingrid:_Beacon_of_Honor,Luna,—,4
-Ingrid:_Galatea's_Heir,Moonbow,—,4
-Ingrid:_Solstice_Knight,Moonbow,—,4
-Inigo:_Flower_Picker,Moonbow,—,4
-Innes:_New_Year's_Aim,Glacies,—,4
-Innes:_Regal_Strategician,Iceberg,—,4
-Ishtar:_Echoing_Thunder,Luna,—,4
-Ishtar:_Thunder_Goddess,Moonbow,—,4
-Itsuki:_Finding_a_Path,Sol,—,4
-Ivy:_Snow_Queen,Luna,—,4
-Ivy:_Tidal_Breeze,Glimmer,—,4
-Jagen:_Veteran_Knight,Aegis,—,4
-Jakob:_Devoted_Monster,Ignis,—,4
-Jarod:_Nevassa_General,Dragon Fang,—,4
-Jedah:_Priest_of_Duma,Ignis,—,4
-Jeorge:_Perfect_Shot,Blazing Flame,—,4
-Jeralt:_Blade_Breaker,Dragon Fang,—,4
-Jesse:_Blithe_Mercenary,Moonbow,—,4
-Jill:_Fiery_Dracoknight,Moonbow,—,4
-Joshua:_Resolute_Tempest,Glimmer,—,4
-Julia:_Brides_of_Light,Ice Wall,—,5
-Julia:_Crusader_of_Light,Dragon Fang,—,4
-Julia:_Naga's_Blood,Dragon Fang,—,4
-Julian:_Tender_Thief,Moonbow,—,4
-Julius:_Scion_of_Darkness,Draconic Aura,—,4
-Juno:_Nimble_Grace,Luna,—,4
-Kagero:_Beverage_Ninja,Draconic Aura,—,4
-Kagero:_Bond_Unwavering,Lethality,—,5
-Kagero:_Honorable_Ninja,Reprisal,—,4
-Kagero:_Spring_Ninja,Glimmer,—,4
-Kagetsu:_Onigiri_Samurai,Moonbow,—,4
-Kamui:_Wandering_Blade,Luna,—,4
-Kana:_Dragon_Princess,Draconic Aura,—,4
-Kana:_Rising_Dragon,Moonbow,—,4
-Kana:_Rising_Sunlight,Glimmer,—,4
-Karel:_Sword_Demon,Reprisal,—,4
-Karin:_Driven_Knight,Moonbow,—,4
-Karla:_Spring_Reveries,Draconic Aura,—,4
-Karla:_Sun-Piercing_Steel,Draconic Aura,—,4
-Karla:_Sword_Vassal,Draconic Aura,—,4
-Katarina:_Torchlit_Wanderer,Luna,—,4
-Katarina:_Wayward_One,Glacies,—,4
-Kaze:_Easygoing_Ninja,Iceberg,—,4
-Keaton:_Lupine_Collector,Draconic Aura,—,4
-Kellam:_Pumpkin_Knight,Ignis,—,4
-Kempf:_Conniving_General,Aegis,—,4
-Kiragi:_Upbeat_Archer,Luna,—,4
-Kiria:_Cool_Façade,Iceberg,—,4
-Kjelle:_Fair_Fighter,Draconic Aura,—,4
-Kliff:_Curious_Spirit,Growing Light,—,4
-Kris:_Ardent_Firebrand,Draconic Aura,—,4
-Kris:_Unsung_Hero,Moonbow,—,4
-Kurthnaga:_Autumn_Goldoan,Growing Light,—,4
-Kvasir:_Unknown_Future,Light Is Time,—,5
-Kyza:_Tiger_of_Fortune,Moonbow,—,4
-L'Arachel:_Princess_of_Light,Growing Light,—,4
-L'Arachel:_Seeker_of_Justice,Windfire Balm+,—,5
-L'Arachel:_Summer_Princess,Earthwind Balm+,—,5
-Lachesis:_Lionheart's_Sister,Solid-Earth Balm,5,3
-Laegjarn:_Flame_and_Frost,Moonbow,—,4
-Laegjarn:_Flame_Ascendant,Moonbow,—,4
-Laegjarn:_Sheathed_Steel,Bonfire,—,4
-Laevatein:_Kumade_Warrior,Earthfire Balm+,—,5
-Laevatein:_Ninja_of_Múspell,Miracle,4,3
-Lana:_Benevolent_Bride,Windfire Balm,—,4
-Lapis:_Mighty_Bride,Escutcheon,—,4
-Lapis:_Mighty_Flower,Luna,—,4
-Larcei:_Bride_of_Astra,Crusader's Astra,—,5
-Larcei:_Keen_Kin,Regnal Astra,—,5
-Larcei:_Scion_of_Astra,Regnal Astra,—,5
-Laslow:_Dancing_Duelist,Noontime,—,4
-Laurent:_The_Elucidator,Iceberg,—,4
-Læraðr:_Quieting_Heart,Armored Floe,—,5
-Legault:_The_Hurricane,Glimmer,—,4
-Legion:_Masked_Maniac,Reprisal,—,4
-Leif:_Destined_Scions,Njörun's Zeal,—,5
-Leif:_Prince_of_Leonster,Blazing Light,—,4
-Leif:_Unifier_of_Thracia,Njörun's Zeal II,—,5
-Leila:_Keen_Lookout,Moonbow,—,4
-Leila:_Superb_Shadow,Lethality,—,5
-Lena:_Bereft_Angel,Holy Pressure,—,5
-Lena:_Tender_Angel,Heavenly Light,5,3
-Leo:_Dark_Sprout,Blazing Thunder,—,4
-Leo:_Extra_Tomatoes,Glimmer,—,4
-Leo:_Festival_Bonds,Glacies,—,4
-Leo:_Seashore's_Prince,Iceberg,—,4
-Leo:_Shrouded_Heart,Iceberg,—,4
-Leonardo:_Freedom's_Arrow,Luna,—,4
-Lethe:_Cat_Attack,Dragon Fang,—,4
-Lethe:_New_Year's_Claw,Glimmer,—,4
-Letizia:_Curse_Director,Draconic Aura,—,4
-Lewyn:_Guiding_Breeze,Glimmer,—,4
-Lewyn:_Wind-Song_Scion,Luna,—,4
-Libra:_Fetching_Friar,Noontime,—,4
-Líf:_Arcane_Blade,Open the Future,—,5
-Líf:_Lethal_Swordsman,Open the Future,—,5
-Líf:_Undying_Ties_Duo,Glimmer,—,4
-Lilina:_Beaming_Bride,Gifted Magic,—,5
-Lilina:_Blush_of_Youth,Blazing Flame,—,4
-Lilina:_Brilliant_Flame,Gift for Magic,—,5
-Lilina:_Delightful_Noble,Growing Flame,—,4
-Lilina:_Firelight_Leader,Gifted Magic II,—,5
-Lilith:_Silent_Broodling,Draconic Aura,—,4
-Limstella:_Living_Construct,Glacies,—,4
-Linde:_Bound_by_Fate,Luna,—,4
-Linhardt:_Hevring's_Heir,Miracle,5,3
-Linhardt:_Spring_Snoozer,Glacies,—,4
-Linus:_Savage_Dog,Dragon Fang,—,4
-Lissa:_Littlest_Princess,Bonfire,—,4
-Lissa:_Pure_Joy,Bonfire,—,4
-Lissa:_Sprightly_Cleric,Kindled-Fire Balm,5,3
-Lissa:_Sweet_Celebrant,Heavenly Light,5,3
-Lloyd:_Vengeful_Wolf,Dragon Fang,—,4
-Lloyd:_White_Wolf,Iceberg,—,4
-Loki:_Spring_Trickster,Luna,—,4
-Loki:_The_Trickster,Earthwater Balm+,—,5
-Loki:_Trickster_God,Glitter of Light,—,5
-Lon'qu:_Solitary_Blade,Glimmer,—,4
-Lon'qu:_Spring_Jitters,Luna,—,4
-Lucina:_Brave_Princess,Aether,—,5
-Lucina:_Future_Witness,Aether,—,5
-Lucina:_Shadows_of_Fate,Curved Shot,—,5
-Lucius:_Calming_Light,Heavenly Light,5,3
-Lucius:_The_Light,Miracle,5,3
-Ludveck:_Rebellious_Duke,Ignis,—,4
-Luke:_Rowdy_Squire,Bonfire,—,4
-Lumera:_Corrupted_Dragon,Iceberg,—,4
-Lumera:_Dragon_Monarch,Dragon Fang,—,4
-Luthier:_Odd_Wayfarer,Glimmer,—,4
-Lyn:_Blazing_Whirlwind,Godlike Reflexes,—,5
-Lyn:_Brave_Lady,Draconic Aura,—,4
-Lyn:_Bride_of_the_Plains,Swift-Winds Balm,5,3
-Lyn:_Lady_of_the_Plains,Galeforce,—,5
-Lyn:_Ninja-Friend_Duo,Moonbow,—,4
-Lyn:_Of_Blazing,Astra Storm,—,5
-Lyon:_Esteemed_Royals,Iceberg,—,4
-Lyon:_Grado's_Gaze,Iceberg,—,4
-Lyon:_Shadow_Prince,Vengeance,—,4
-Lyon:_Sunlit_Prince,Moonbow,—,4
-Lyre:_Lap_Cat_of_Luxury,Luna,—,4
-Lysithea:_Child_Prodigy,Moonbow,—,4
-Lysithea:_Gifted_Students,Moonbow,—,4
-Lysithea:_Tea_Sweetener,Glimmer,—,4
-Mae:_Spring_Cheer,Glacies,—,4
-Malice:_Blooming_Blade,Gust,—,5
-Malice:_Deft_Sellsword,Luna,—,4
-Mamori:_Microwavin'_Idol,Bonfire,—,4
-Manuela:_Silver_Caroler,Ignis,—,4
-Marcia:_Petulant_Knight,Luna,—,4
-Mareeta:_Astra_Awakened,Vital Astra,—,5
-Mareeta:_Sword_of_Stars,Luna,—,4
-Mareeta:_The_Blade's_Pawn,Luna,—,4
-Maria:_Minerva's_Sister,Miracle,5,3
-Maria:_Ritual_Sacrifice,Holy Panic,—,5
-Marianne:_Adopted_Daughter,Iceberg,—,4
-Marianne:_Cursed_Blessing,Requiem Prayer,—,5
-Marianne:_Serene_Adherent,Requiem Dance,—,5
-Maribelle:_Dire_Damsel,Miracle,5,3
-Marisa:_Crimson_Flash,Glimmer,—,4
-Marisa:_Willful_Blades,Moonbow,—,4
-Mark:_Winds_of_Hope,Iceberg,—,4
-Marla:_Duma's_Witch,Glacies,—,4
-Marni:_Pining_for_Praise,Ignis,—,4
-Marth:_Hero-King,Shining Emblem,—,5
-Marth:_Love_and_Courage,The Fire Emblem,—,5
-Marth:_Of_Beginnings,Lodestar Rush,—,5
-Marth:_Prince_of_Light,Shining Emblem,—,5
-Marth:_Royal_Altean_Duo,Fire Emblem,—,5
-Matthis:_Brother_to_Lena,Blazing Wind,—,4
-Mauvier:_Penitent_Knight,Ignis,—,4
-Medeus:_Earth-Dragon_King,Glacies,—,4
-Medeus:_Last_Earth_Dragon,Glacies,—,4
-Mercedes:_Kindly_Devotee,Imbue,—,2
-Mercedes:_Unfussed_Basker,Iceberg,—,4
-Merric:_Changing_Winds,Righteous Wind,—,5
-Merric:_Wind_Mage,Growing Wind,—,4
-Merric:_Wind_Pontifex,Sacred Wind,—,5
-Metodey:_Shrewd_Braggart,Blazing Flame,—,4
-Mia:_Budding_Blade,Dragon Fang,—,4
-Mia:_Lady_of_Blades,Luna,—,4
-Mia:_Moonlit_Witch,Heavenly Light,5,3
-Mia:_Summer_Slice,Luna,—,4
-Micaiah:_Wavecrest_Maiden,Moonbow,—,4
-Michalis:_Ambitious_King,Blazing Thunder,—,4
-Midir:_Archer_of_Yngvi,Luna,—,4
-Minerva:_Red_Dragoon,Sacred Cowl,—,4
-Minerva:_Verdant_Dragoon,Bonfire,—,4
-Mist:_Helpful_Sister,Miracle,5,3
-Monica:_Favored_Vassal,Glimmer,—,4
-Morgan:_Devoted_Darkness,Glimmer,—,4
-Morgan:_Fated_Darkness,Iceberg,—,4
-Morgan:_Lad_from_Afar,Dragon Fang,—,4
-Morgan:_Lass_from_Afar,Iceberg,—,4
-Mozu:_Tragic_Start,Bonfire,—,4
-Muarim:_Raw_Instinct,Dragon Fang,—,4
-Murdock:_Loyal_General,Ignis,—,4
-Múspell:_Raging_Inferno,Moonbow,—,4
-Mustafa:_Plegian_Champion,Bonfire,—,4
-Mycen:_Zofia's_Champion,Bonfire,—,4
-Myrrh:_Adored_Dragon,Armored Beacon,—,5
-Myrrh:_Great_Dragon,Bonfire,—,4
-Myrrh:_Guardian_Dragon,Bonfire,—,4
-Myrrh:_Spooky_Monster,Bonfire,—,4
-Myrrh:_Spring_Harmony,Noontime,—,4
-Naesala:_Sea's_Shadow,Glimmer,—,4
-Naesala:_Sky's_Shadow,Blazing Wind,—,4
-Naga:_Ruler_of_Dragons,Dragon's Roar,—,5
-Nagi:_Dragon_Avatar,Sol,—,4
-Nagi:_Hopeful_Eternity,Dragon's Roar,—,5
-Nah:_Grateful_One,Armored Blaze,—,5
-Nah:_Little_Miss,Bonfire,—,4
-Nailah:_Hatari_Scorcher,Luna,—,4
-Nailah:_Unflinching_Eye,Moonbow,—,4
-Nanna:_Beloved_Princess,Miracle,4,3
-Nanna:_Mystletainn_Scion,Heavenly Light,5,3
-Nanna:_Nordion_Princess,Heavenly Light,—,3
-Narcian:_Vernal_General,Vengeance,—,4
-Narcian:_Wyvern_General,Vengeance,—,4
-Natasha:_Sacred_Healer,Heavenly Light,5,3
-Navarre:_Scarlet_Ninja,Moonbow,—,4
-Navarre:_Scarlet_Sword,Blazing Wind,—,4
-Neimi:_Tearful_Archer,Moonbow,—,4
-Nel:_Stoic_Dragon,Dragon's Roar,—,5
-Nephenee:_Festival_Harmony,Moonbow,—,4
-Nergal:_Traitor_to_Nabata,Glacies,—,4
-Nerþuz:_Beach_Chaperone,Dragon Fang,—,4
-Nerþuz:_God_of_the_Land,Galeforce,—,5
-Nerþuz:_New-Year_Doter,Aether,—,5
-Niðavellir:_Founding_King,Blazing Thunder,5,4
-Níðhöggr:_Daze_of_Healing,Sturdy Beast,—,5
-Nifl:_Tropical_Ice_God,Glimmer,—,4
-Niime:_Mountain_Hermit,Iceberg,—,4
-Niles:_Cruel_to_Be_Kind,Iceberg,—,4
-Nina:_Eye_Spy,Moonbow,—,4
-Nina:_Shadowy_Figures,Lethality,—,5
-Nino:_Fang's_Heart,Draconic Aura,—,4
-Nino:_Pale_Flower,Moonbow,—,4
-Nino:_Spirited_Sorcerer,Glimmer,—,4
-Noah:_Mercenary-Errant,Luna,—,4
-Noire:_Demurely_Deft,Moonbow,—,4
-Nomah:_Priest_of_Mila,Glacies,—,4
-Nótt:_Moon's_Elegance,Dragon Fang,—,4
-Nuibaba:_Mistress_of_Fear,Iceberg,—,4
-Nyna:_The_Last_Princess,Miracle,5,3
-Nyx:_Rulebreaker_Mage,Luna,—,4
-Odin:_Potent_Force,Moonbow,—,4
-Ogier:_Ostia's_New_Blade,Luna,—,4
-Ogma:_Blade_on_Leave,Sol,—,4
-Ogma:_Loyal_Blade,Noontime,—,4
-Oliver:_Admirer_of_Beauty,Blazing Light,—,4
-Olwen:_Righteous_Knight,Blazing Wind,—,4
-Ophelia:_Dramatic_Heroine,Blazing Light,—,4
-Ophelia:_Starlit_Maiden,Luna,—,4
-Osian:_Scolded_Soldier,Noontime,—,4
-Oswin:_Impregnable_Knight,Pavise,—,4
-Owain:_Chosen_One,Blue Flame,—,5
-Owain:_Devoted_Defender,Blue Flame,—,5
-Palla:_Eldest_Bun-Bun,Draconic Aura,—,4
-Palla:_Eldest_Whitewing,Moonbow,—,4
-Pandreo:_Party_Priest,Fireflood Balm,—,4
-Panette:_Classy_Brawler,Dragon Fang,—,4
-Panne:_Proud_Taguel,Astra,—,4
-Panne:_Welcoming_Dawn,Luna,—,4
-Pelleas:_Ashnard's_Orphan,Miracle,4,3
-Pent:_Mage_General,Glimmer,—,4
-Perceval:_Knightly_Ideal,Luna,—,4
-Peri:_Playful_Slayer,Glimmer,—,4
-Perne:_Dacian_Scoundrel,Dragon Fang,—,4
-Petra:_Faraway_Sun,Deadeye,—,5
-Petra:_Princess_of_Brigid,Luna,—,4
-Petrine:_Icy_Flame-Lancer,Ignis,—,4
-Phila:_Pegasus_Master,Iceberg,—,4
-Priam:_Radiant_Hero,Sol,—,4
-Priscilla:_Delicate_Princess,Still-Water Balm,5,3
-Python:_Apathetic_Archer,Moonbow,—,4
-Quan:_Luminous_Lancer,Draconic Aura,—,4
-Rafal:_Atoning_Dragon,Armored Blaze,—,5
-Ratatoskr:_Mending_Hand,Luna,—,4
-Rath:_Wolf_of_Sacae,Glimmer,—,4
-Rebecca:_Breezy_Scamp,Moonbow,—,4
-Reginn:_Bearing_Dawn,Seiðr Shell,—,5
-Reginn:_Bearing_Hope,Seiðr Shell+,—,5
-Reina:_Sanguine_Shinobi,Glimmer,—,4
-Reinhardt:_Thrud_Reborn,Moonbow,—,4
-Reinhardt:_Thunder's_Fist,Blazing Thunder,—,4
-Reinhardt:_Thunder's_Sword,Pavise,—,4
-"Rennac:_Rich_""Merchant""",Glimmer,—,4
-Rhea:_Aura_of_Love,Dragon's Roar,—,5
-Rhea:_Immaculate_One,Glimmer,—,4
-Rhea:_Loving_Matriarch,Glimmer,—,4
-Rhea:_Witch_of_Creation,Iceberg,—,4
-Rhys:_Gentle_Basker,Heavenly Light,5,3
-Ricken:_Shepherd_Novice,Luna,—,4
-Riev:_Blood_Beryl,Glacies,—,4
-Rinkah:_Scion_of_Flame,Bonfire,—,4
-Robin:_Exalt's_Deliverer,Ignis,—,4
-Robin:_Exalt's_Other_Half,Ignis,—,4
-Robin:_Exalt's_Right_Hand,Flare,—,5
-Robin:_Fall_Reincarnation,Noontime,—,4
-Robin:_Fall_Vessel,Noontime,—,4
-Robin:_Fated_Vessel,Ignis,—,4
-Robin:_Fell_Reincarnation,Ignis,—,4
-Robin:_Fell_Tactician,Pavise,—,4
-Robin:_Fell_Vessel,Bonfire,—,4
-Robin:_High_Deliverer,Bonfire,—,4
-Robin:_Mystery_Tactician,Ignis,—,4
-Robin:_Tactful_Deliverer,Iceberg,—,4
-Robin:_Vessels_of_Fate,Flare,—,5
-Rosado:_Adorable_Artist,Bonfire,—,4
-Roy:_Blazing_Bachelors,Luna,—,4
-Rudolf:_Emperor_of_Rigel,Bonfire,—,4
-Rune:_Source_of_Wisdom,Flare,—,5
-Rutger:_Lone_Swordsman,Vengeance,—,4
-Ryoma:_Peerless_Samurai,Astra,—,4
-Ryoma:_Samurai_at_Ease,Luna,—,4
-Ryoma:_Supreme_Samurai,Glimmer,—,4
-Saber:_Driven_Mercenary,Aegis,—,4
-Saber:_Dune_Walker,Escutcheon,—,4
-Safy:_Font_of_Piety,Holy Panic,—,5
-Saias:_Bishop_of_Flame,Glacies,—,4
-Saizo:_Hoshido's_Flame,Growing Flame,—,4
-Sakura:_Gentle_Nekomata,Glacies,—,4
-Sakura:_Hot-Spring_Healer,Fireflood Balm+,—,5
-Sakura:_In_Full_Bloom,Holy Pressure,—,5
-Sakura:_Loving_Priestess,Still-Water Balm,5,3
-Salem:_Dark_Sage,Glacies,—,4
-Sanaki:_Dawnsworn_Ninja,Iceberg,—,4
-Saul:_Loving_Shepherd,Heavenly Light,5,3
-Saul:_Minister_of_Love,Deluge Balm+,—,5
-Say'ri:_Righteous_Bride,Draconic Aura,—,4
-Scáthach:_Astra's_Wake,Astra,—,4
-Sedgar:_Coyote's_Dutiful,Blazing Wind,—,4
-Seiðr:_Goddess_of_Hope,Iceberg,—,4
-Seiðr:_Time's_Goddesses,Iceberg,—,4
-Seliph:_Enduring_Legacy,Luna,—,4
-Seliph:_Light's_Legacy,Haze Slice,—,5
-Seliph:_Scion_of_Light,Ignis,—,4
-Selkie:_Free_Spirit,Iceberg,—,4
-Selkie:_New_Year's_Spirit,Iceberg,—,4
-Sephiran:_Hoary_Sovereign,Earthwater Balm+,—,5
-Serra:_Outspoken_Cleric,Swift-Winds Balm,5,3
-Severa:_Bitter_Blossom,Moonbow,—,4
-Severa:_Secret_Dreamer,Godlike Reflexes,—,5
-Shamir:_Archer_Apart,Moonbow,—,4
-Shamir:_Heartbeats_United,Deadeye,—,5
-Shamir:_Lone-Moon_Ninja,Glimmer,—,4
-Shanna:_Bridal_Novice,Draconic Aura,—,4
-Shanna:_Sprightly_Flier,Iceberg,—,4
-Sharena:_Pillars_of_Peace,No Quarter,—,5
-Shez:_Dual_Sword_Master,Ruptured Sky,—,5
-Shez:_Keen_Mercenary,Glimmer,—,4
-Shez:_Mercenary_Shade,Luna,—,4
-Shez:_Mercenary_Shine,Glimmer,—,4
-Shez:_Rising_Mercenary,Moonbow,—,4
-Shez:_Sharpest_Blades,Glimmer,—,4
-Shez:_Snowfield_Envoy,Luna,—,4
-Shinon:_Sharptongue_Ninja,Deadeye,—,5
-Sigurd:_Fated_Holy_Knight,Holy-Knight II,—,5
-Sigurd:_Of_the_Holy_War,Override,—,5
-Sigurd:_Proper_Pourer,Chivalric Aura,—,5
-Silque:_Adherent_of_Mila,Earthfire Balm+,—,5
-Silque:_Selfless_Cleric,Heavenly Light,5,3
-Sirius:_Mysterious_Knight,Luna,—,4
-Soleil:_Adorable_Adorer,Blazing Wind,—,4
-Sonia:_Inhuman_Beauty,Glacies,—,4
-Sonya:_Beautiful_Mage,Blazing Wind,—,4
-Sonya:_Dazzling_Rabbits,Luna,—,4
-Sophia:_Nabata_Prophet,Dragon Fang,—,4
-Soren:_Hushed_Voice,Iceberg,—,4
-Soren:_Radiant_Confidant,Flare,—,5
-Soren:_Shrewd_Strategist,Growing Wind,—,4
-Soren:_Wind_of_Tradition,Glacies,—,4
-Sothe:_Dawning_Zephyr,Bane,—,5
-Sothe:_Zephyr,Glimmer,—,4
-Sothis:_Bound-Spirit_Duo,Sirius,—,5
-Sothis:_Girl_on_the_Throne,Sirius+,—,5
-Sothis:_Silver_Specter,Sirius,—,5
-Sue:_Doe_of_the_Plains,Moonbow,—,4
-Surtr:_Pirate_of_Red_Sky,Bonfire,—,4
-Surtr:_Ruler_of_Flame,Bonfire,—,4
-Sylvain:_Consummate_Flirt,Moonbow,—,4
-Sylvain:_Spring_Flingster,No Quarter,—,5
-Syrene:_Graceful_Rider,Moonbow,—,4
-Takumi:_Empty_Vessel,Vengeance,—,4
-Takumi:_Prince_at_Play,Glimmer,—,4
-Takumi:_Prince_of_Soup,Moonbow,—,4
-Takumi:_Troubled_Heart,Luna,—,4
-Takumi:_Wild_Card,Vengeance,—,4
-Tana:_Frelian_Starlight,Draconic Aura,—,4
-Tana:_Soaring_New_Year,Draconic Aura,—,4
-Tana:_Soaring_Princess,Deadeye,—,5
-Tana:_Soothing_Warmth,Glimmer,—,4
-Tana:_Winged_Princess,Moonbow,—,4
-"Tharja:_""Normal_Girl""",Iceberg,—,4
-Tharja:_Dark_Shadow,Vengeance,—,4
-Tharja:_Florid_Charmer,Reprisal,—,4
-Tharja:_Shadow_Ninja,Luna,—,4
-Thea:_Stormy_Flier,Ignis,—,4
-Thea:_Wings_of_Winter,Iceberg,—,4
-Thórr:_Sun-Kissed_Gods,Blazing Thunder,—,4
-Thórr:_War_God,Bonfire,—,4
-Thrasir:_Omnicidal_Witch,Moonbow,—,4
-Tibarn:_Lord_of_the_Air,Draconic Aura,—,4
-Tibarn:_Shipless_Pirate,Galeforce,—,5
-Tiki:_Awakened_Blood,Iceberg,—,4
-Tiki:_Beachside_Scion,Moonbow,—,4
-Tiki:_Bridal_Reflections,Armored Floe,—,5
-Tiki:_Dragon's_Progeny,Dragon Flame,—,5
-Tiki:_Fated_Divinity,Glimmer,—,4
-Tiki:_Summering_Scion,Sol,—,4
-Tiki:_Torpid_Dragon,Ignis,—,4
-Timerra:_Desert_Warrior,Sandstorm,—,5
-Timerra:_Trick_or_Meat,Vital Astra,—,5
-Tina:_Playful_Scamp,Holy Pressure,—,5
-Tine:_Determined_Bride,Moonbow,—,4
-Tine:_Rumbling_Thunder,Draconic Aura,—,4
-Tormod:_Indomitable_Will,Draconic Aura,—,4
-Travant:_King_of_Thracia,Ignis,—,4
-Tsubasa:_Madcap_Idol,Moonbow,—,4
-Ullr:_The_Bowmaster,Deadeye,—,5
-Ursula:_Blackened_Crow,Blazing Thunder,—,4
-Ursula:_Royal-Blue_Crow,Moonbow,—,4
-Uther:_Frugal_Militarist,Ignis,—,4
-Vaida:_Dracofang_General,Dragon Fang,—,4
-Valbar:_Open_and_Honest,Vengeance,—,4
-Validar:_Fell_Architect,Glacies,—,4
-Vanessa:_Dutiful_Rider,Luna,—,4
-Veld:_Manfroy's_Rock,Glacies,—,4
-Velouria:_Renewed_Wolfpup,Sol,—,4
-Velouria:_Wolf_Cub,Luna,—,4
-Veronica:_Bestowed_Love,Growing Thunder,—,4
-Veronica:_Brave_Princess,Windfire Balm+,—,5
-Veronica:_Harmonic_Pirates,Bonfire,—,4
-Veronica:_Princess_Rising,Enclosure,—,5
-Veronica:_Spring_Princess,Glimmer,—,4
-Veyle:_Fell_Successor,Iceberg,—,4
-Veyle:_Gentle_Dragon,Iceberg,—,4
-Veyle:_Spring_Tranquility,Iceberg,—,4
-Vigarde:_Silent_Emperor,Dragon Fang,—,4
-Vigarde:_Warmhearted_Sire,Ignis,—,4
-Vika:_Sea-Dark_Wing,Glacies,—,4
-Volke:_Man_of_Mysteries,Lethality,—,5
-Walhart:_The_Conqueror,Luna,—,4
-Wrys:_Kindly_Priest,Heavenly Light,5,3
-Xander:_Focused_Firstborn,Ignis,—,4
-Xander:_Gallant_King,Luna,—,4
-Xander:_Paragon_Knight,Blazing Light,—,4
-Xander:_Student_Swimmer,Bonfire,—,4
-Xane:_Desert_Mirage,Imbue,—,2
-Xane:_Fickle_Dragon,Luna,—,4
-Yarne:_Hoppy_New_Year,Galeforce,—,5
-Yarne:_Trick_or_Taguel,Galeforce,—,5
-Yen'fay:_Blade_Legend,Astra,—,4
-Ylgr:_Breaking_the_Ice,Luna,—,4
-Ylgr:_Fresh_Snowfall,Glimmer,—,4
-Ymir:_Seasons_of_Life,Moonbow,—,4
-Yukimura:_Puppet_Master,Iceberg,—,4
-Yuliya:_Princess_of_Grust,Deluge Balm,—,4
-Yunaka:_Hidden_Mask,Lethality,—,5
-Yunaka:_Spirited_Envoy,Luna,—,4
-Yuri:_Ashen_Valiant,Glimmer,—,4
-Zeiss:_Ebon_Bolt,Dragon Fang,—,4
-Zeke:_Past_Unknown,Bonfire,—,4
-Zelestia:_Loving_Leader,Moonbow,—,4
-Zelgius:_Ninja_Knight,Lightless Luna,—,5
-Zelot:_Avowed_Groom,Ignis,—,4
-Zephia:_Scheming_Dragon,Dragon Fang,—,4
-Zephiel:_The_Liberator,Reprisal,—,4
-Zephiel:_Winter's_Crown,Glacies,—,4
-Zihark:_Ninja_Blademaster,Astra,—,4
-Þjazi:_Ruthless_Jötun,Armored Blaze,—,5
+Alcryst_Tender_Archer,Night Sky,4,3
+Alcryst_Tender_Archer,Glimmer,—,4
+Alcryst_Tender_Archer,Deadeye,—,5
+Alear_Awoken_Divinity,Night Sky,4,3
+Alear_Awoken_Divinity,Glimmer,—,4
+Alear_Awoken_Divinity,Dragon Blast,—,5
+Alear_Dragon_Child,New Moon,4,3
+Alear_Dragon_Child,Luna,—,4
+Alear_Dragon_Youth,Dragon Gaze,4,3
+Alear_Dragon_Youth,Draconic Aura,—,4
+Alear_Engaging_Fire,Chilling Wind,4,3
+Alear_Engaging_Fire,Iceberg,—,4
+Alear_Engaging_Fire,Dragon's Roar,—,5
+Alear_Fell_Dragon_Child,Night Sky,4,3
+Alear_Fell_Dragon_Child,Glimmer,—,4
+Alear_Fell_Dragon_Child,Gust,—,5
+Alear_Gifted_Dragons,Chilling Wind,5,3
+Alear_Gifted_Dragons,Iceberg,—,4
+Alear_Gifted_Dragons,Dragon's Roar,—,5
+Alear_Red_Days_Past,Night Sky,4,3
+Alear_Red_Days_Past,Glimmer,—,4
+Alear_Red_Days_Past,Fell Blast,—,5
+Alear_Seaside_Dragon,Night Sky,4,3
+Alear_Seaside_Dragon,Glimmer,—,4
+Alear_Seaside_Dragon,Bond Blast,—,5
+Alfonse_Heir_to_Openness,Glowing Ember,4,3
+Alfonse_Heir_to_Openness,Bonfire,—,4
+Alfonse_Heir_to_Openness,Makings of a King,—,5
+Alfonse_Spring_Prince,Daylight,4,3
+Alfonse_Spring_Prince,Noontime,—,4
+Alfonse_Uplifting_Love,New Moon,4,3
+Alfonse_Uplifting_Love,Moonbow,—,4
+Alfred_Floral_Protector,Glowing Ember,4,3
+Alfred_Floral_Protector,Bonfire,—,4
+Alm_Powerful_Resolve,New Moon,4,3
+Alm_Powerful_Resolve,Moonbow,—,4
+Alm_Powerful_Resolve,True Lunar Flash,—,5
+Altina_Unrivaled_Dawn,Chilling Wind,4,3
+Altina_Unrivaled_Dawn,Iceberg,—,4
+Altina_Unrivaled_Dawn,Arms of the Three,—,5
+Amelia_Blossoming_Talent,Glowing Ember,4,3
+Amelia_Blossoming_Talent,Bonfire,—,4
+Amelia_Blossoming_Talent,Armored Beacon,—,5
+Anankos_Seething_Silence,Daylight,4,3
+Anankos_Seething_Silence,Noontime,—,4
+Anna_Secret_Charmer,New Moon,4,3
+Anna_Secret_Charmer,Luna,—,4
+Anna_Twice_the_Anna,Miracle,4,3
+Annette_Festive_Helper,New Moon,4,3
+Annette_Festive_Helper,Moonbow,—,4
+Arion_Gungnirs_Heir,Glowing Ember,4,3
+Arion_Gungnirs_Heir,Ignis,—,4
+Arlen_Mage_of_Khadein,Glowing Ember,4,3
+Arlen_Mage_of_Khadein,Ignis,—,4
+Arthur_Furious_Mage,Night Sky,4,3
+Arthur_Furious_Mage,Glimmer,—,4
+Artur_Silver_Saint,Chilling Wind,4,3
+Artur_Silver_Saint,Iceberg,—,4
+Arval_Cycle_Keeper,Chilling Wind,4,3
+Arval_Cycle_Keeper,Glacies,—,4
+Ash_Earnest_Greetings,Glowing Ember,4,3
+Ash_Earnest_Greetings,Bonfire,—,4
+Ashe_Chivalric_Amends,New Moon,4,3
+Ashe_Chivalric_Amends,Moonbow,—,4
+Ashe_Chivalric_Amends,Curved Shot,—,5
+Ashe_Fabled_Sea_Knight,New Moon,4,3
+Ashe_Fabled_Sea_Knight,Moonbow,—,4
+Askr_God_of_Openness,Glowing Ember,4,3
+Askr_God_of_Openness,Bonfire,—,4
+Askr_Open_Harvest,Glowing Ember,4,3
+Askr_Open_Harvest,Ignis,—,4
+Askr_Open_Harvest,Sturdy Beast,—,5
+Askr_Renewed_Gods,Glowing Ember,4,3
+Askr_Renewed_Gods,Bonfire,—,4
+Athos_Omniscient_One,Chilling Wind,4,3
+Athos_Omniscient_One,Glacies,—,4
+Athos_Omniscient_One,Frost Moon,—,5
+Atlas_Forest_Muscle,Daylight,4,3
+Atlas_Forest_Muscle,Sol,—,4
+August_Astute_Tactician,Imbue,4,2
+August_Astute_Tactician,Still-Water Balm,5,3
+August_Astute_Tactician,Fireflood Balm,—,4
+August_Astute_Tactician,Fireflood Balm+,—,5
+Ayra_Supreme_Astra,Night Sky,4,3
+Ayra_Supreme_Astra,Astra,—,4
+Ayra_Supreme_Astra,Crusader's Astra,—,5
+Ayra_Together_in_Tea,Night Sky,4,3
+Ayra_Together_in_Tea,Astra,—,4
+Ayra_Together_in_Tea,Supreme Astra,—,5
+Azama_Carefree_Monk,Imbue,4,2
+Azama_Carefree_Monk,Solid-Earth Balm,5,3
+Baldr_Celestial_Sun_God,Night Sky,4,3
+Baldr_Celestial_Sun_God,Astra,—,4
+Baldr_Celestial_Sun_God,Celestial Form,—,5
+Baldr_Rays_of_Judgment,Dragon Gaze,4,3
+Baldr_Rays_of_Judgment,Dragon Fang,—,4
+Baldr_Rays_of_Judgment,Archrival,—,5
+Balthus_King_of_Grappling,Glowing Ember,4,3
+Balthus_King_of_Grappling,Ignis,—,4
+Basilio_Feroxi_West-Khan,New Moon,4,3
+Basilio_Feroxi_West-Khan,Moonbow,—,4
+Bastian_Crimeas_Keystone,Chilling Wind,4,3
+Bastian_Crimeas_Keystone,Iceberg,—,4
+Benny_Sensitive_Soul,Buckler,4,3
+Benny_Sensitive_Soul,Pavise,—,4
+Bernadetta_Late_Hibernator,Dragon Gaze,4,3
+Bernadetta_Late_Hibernator,Draconic Aura,—,4
+Bernadetta_Sheltered_Loner,New Moon,4,3
+Bernadetta_Sheltered_Loner,Moonbow,—,4
+Bernadetta_Sheltered_Loner,Curved Shot,—,5
+Bertram_Dread_Cavalier,Glowing Ember,4,3
+Bertram_Dread_Cavalier,Ignis,—,4
+Black_Knight_Mortal_Legend,New Moon,4,3
+Black_Knight_Mortal_Legend,Luna,—,4
+Black_Knight_Mortal_Legend,Pitch-Dark Luna,—,5
+Black_Knight_The_Nights_Blade,New Moon,4,3
+Black_Knight_The_Nights_Blade,Luna,—,4
+Black_Knight_The_Nights_Blade,Black Luna,—,5
+Bors_Ostias_Bastion,Glowing Ember,4,3
+Bors_Ostias_Bastion,Ignis,—,4
+Brady_Daunting_Priest,Imbue,4,2
+Brady_Daunting_Priest,Heavenly Light,5,3
+Brigand_Boss_Known_Criminal,Dragon Gaze,4,3
+Brigand_Boss_Known_Criminal,Dragon Fang,—,4
+Brigid_Awakened_Bow,Dragon Gaze,4,3
+Brigid_Awakened_Bow,Draconic Aura,—,4
+Bruno_Masked_Hare,Imbue,4,2
+Bruno_Masked_Hare,Miracle,5,3
+Bruno_Masked_Knight,Dragon Gaze,4,3
+Bruno_Masked_Knight,Dragon Fang,—,4
+Byleth_Anchor_of_Hope,Night Sky,4,3
+Byleth_Anchor_of_Hope,Glimmer,—,4
+Byleth_Anchor_of_Hope,Gust,—,5
+Byleth_Fount_of_Learning,Dragon Gaze,4,3
+Byleth_Fount_of_Learning,Draconic Aura,—,4
+Byleth_Fount_of_Learning,Sublime Heaven,—,5
+Byleth_Frosty_Professors,Dragon Gaze,4,3
+Byleth_Frosty_Professors,Draconic Aura,—,4
+Byleth_Frosty_Professors,Supreme Heaven,—,5
+Byleth_Vengeance_Vessel,Dragon Gaze,4,3
+Byleth_Vengeance_Vessel,Draconic Aura,—,4
+Byleth_Vengeance_Vessel,Divine Pulse,—,5
+Caeda_Marths_Faithful,New Moon,4,3
+Caeda_Marths_Faithful,Luna,—,4
+Caeda_Talyss_Bride,Chilling Wind,4,3
+Caeda_Talyss_Bride,Iceberg,—,4
+Caeldori_Perfect_Angel,Dragon Gaze,4,3
+Caeldori_Perfect_Angel,Draconic Aura,—,4
+Camilla_Alluring_Darkness,Dragon Gaze,4,3
+Camilla_Alluring_Darkness,Draconic Aura,—,4
+Camilla_Holiday_Traveler,Dragon Gaze,4,3
+Camilla_Holiday_Traveler,Draconic Aura,—,4
+Camilla_Midnight_Bloom,Night Sky,4,3
+Camilla_Midnight_Bloom,Glimmer,—,4
+Camilla_Steamy_Secrets,Night Sky,4,3
+Camilla_Steamy_Secrets,Glimmer,—,4
+Camilla_Tropical_Beauty,Dragon Gaze,4,3
+Camilla_Tropical_Beauty,Draconic Aura,—,4
+Camilla_Young_Beauty,Dragon Gaze,4,3
+Camilla_Young_Beauty,Draconic Aura,—,4
+Camilla_Young_Beauty,No Quarter,—,5
+Candace_Sly_Snatcher,Chilling Wind,4,3
+Candace_Sly_Snatcher,Glacies,—,4
+Caspar_Hotheaded_Inciter,New Moon,4,3
+Caspar_Hotheaded_Inciter,Moonbow,—,4
+Castor_Loving_Son,Dragon Gaze,4,3
+Castor_Loving_Son,Dragon Fang,—,4
+Catria_Azure_Wing_Pair,New Moon,4,3
+Catria_Azure_Wing_Pair,Moonbow,—,4
+Cecilia_Festive_Instructor,Chilling Wind,4,3
+Cecilia_Festive_Instructor,Iceberg,—,4
+Ced_Sage_of_the_Wind,Rising Wind,4,3
+Ced_Sage_of_the_Wind,Blazing Wind,—,4
+Celica_Of_Echoes,New Moon,4,3
+Celica_Of_Echoes,Moonbow,—,4
+Celica_Of_Echoes,Warp Ragnarok,—,5
+Celica_Sunlit_Priestesses,New Moon,4,3
+Celica_Sunlit_Priestesses,Luna,—,4
+Celica_Sunlit_Priestesses,Magic Light,—,5
+Celica_Valentias_Hope,New Moon,4,3
+Celica_Valentias_Hope,Moonbow,—,4
+Celine_Joyous_Royal,Chilling Wind,4,3
+Celine_Joyous_Royal,Iceberg,—,4
+Celine_Teatime_Ninja,Chilling Wind,4,3
+Celine_Teatime_Ninja,Glacies,—,4
+Cervantes_Invincible_General,Glowing Ember,4,3
+Cervantes_Invincible_General,Ignis,—,4
+Charlotte_Wily_Warrior,Night Sky,4,3
+Charlotte_Wily_Warrior,Glimmer,—,4
+Cherche_Shaded_by_Wings,Glowing Ember,4,3
+Cherche_Shaded_by_Wings,Ignis,—,4
+Chloe_Fairy-Tale_Flier,Night Sky,4,3
+Chloe_Fairy-Tale_Flier,Glimmer,—,4
+Chloe_Spring_Wings,Dragon Gaze,4,3
+Chloe_Spring_Wings,Draconic Aura,—,4
+Chrom_Fate-Defying_Duo,Night Sky,4,3
+Chrom_Fate-Defying_Duo,Glimmer,—,4
+Chrom_Fate-Defying_Duo,Deadeye,—,5
+Chrom_Fell_Exalt,Night Sky,4,3
+Chrom_Fell_Exalt,Astra,—,4
+Chrom_Fell_Exalt,Galeforce,—,5
+Chulainn_Unbeaten_Warrior,New Moon,4,3
+Chulainn_Unbeaten_Warrior,Luna,—,4
+Citrinne_Caring_Noble,Chilling Wind,4,3
+Citrinne_Caring_Noble,Iceberg,—,4
+Clanne_Summer_Fan,New Moon,4,3
+Clanne_Summer_Fan,Moonbow,—,4
+Clarine_Refined_Noble,Imbue,4,2
+Clarine_Refined_Noble,Swift-Winds Balm,5,3
+Claude_Distant_Deer,New Moon,4,3
+Claude_Distant_Deer,Moonbow,—,4
+Claude_Distant_Deer,Curved Shot,—,5
+Claude_Golden_Breeze,New Moon,—,3
+Claude_Golden_Breeze,Luna,—,4
+Claude_Golden_Breeze,Lethality,—,5
+Claude_Tropical_Trouble,New Moon,4,3
+Claude_Tropical_Trouble,Moonbow,—,4
+Claude_Yuletide_Schemer,Daylight,4,3
+Claude_Yuletide_Schemer,Sol,—,4
+Colm_Capable_Thief,New Moon,4,3
+Colm_Capable_Thief,Moonbow,—,4
+Cordelia_Unyielding_Snow,Night Sky,4,3
+Cordelia_Unyielding_Snow,Astra,—,4
+Cordelia_Unyielding_Snow,Galeforce,—,5
+Cornelia_Saint_Consumed,Imbue,4,2
+Cornelia_Saint_Consumed,Miracle,5,3
+Corrin_Celestial_Sorcerer,New Moon,4,3
+Corrin_Celestial_Sorcerer,Moonbow,—,4
+Corrin_Child_of_Dawn,Dragon Gaze,4,3
+Corrin_Child_of_Dawn,Dragon Fang,—,4
+Corrin_Child_of_Dawn,Dragon Fang Shot,—,5
+Corrin_Daylight_Ninja_Act,Dragon Gaze,4,3
+Corrin_Daylight_Ninja_Act,Draconic Aura,—,4
+Corrin_Novice_Vacationer,Dragon Gaze,4,3
+Corrin_Novice_Vacationer,Dragon Fang,—,4
+Corrin_Silent_Bloodline,Chilling Wind,4,3
+Corrin_Silent_Bloodline,Iceberg,—,4
+Corrin_Silent_Bloodline,Armored Floe,—,5
+Corrin_Starry_Seer,Dragon Gaze,4,3
+Corrin_Starry_Seer,Dragon Fang,—,4
+Corrin_Starry_Seer,Negating Fang,—,5
+Corrin_Young_Kinship,Dragon Gaze,4,3
+Corrin_Young_Kinship,Dragon Fang,—,4
+Corrin_Young_Kinship,Dragon Fang Fire,—,5
+Cyril_Rheas_Attendant,Retribution,4,3
+Cyril_Rheas_Attendant,Vengeance,—,4
+Dagdar_Reformed_Bandit,Glowing Ember,4,3
+Dagdar_Reformed_Bandit,Ignis,—,4
+Dagr_Bluster_Princess,Dragon Gaze,4,3
+Dagr_Bluster_Princess,Draconic Aura,—,4
+Dagr_New_Year_Jotnar,New Moon,4,3
+Dagr_New_Year_Jotnar,Luna,—,4
+Dedue_Dauntless_Beast,Glowing Ember,4,3
+Dedue_Dauntless_Beast,Ignis,—,4
+Dedue_Dauntless_Beast,Sturdy Beast,—,5
+Dedue_Loyal_Life_Guard,Buckler,4,3
+Dedue_Loyal_Life_Guard,Pavise,—,4
+Delthea_Prodigy_in_Bloom,Night Sky,4,3
+Delthea_Prodigy_in_Bloom,Glimmer,—,4
+Dew_Benevolent_Thief,Daylight,4,3
+Dew_Benevolent_Thief,Sol,—,4
+Dheginsea_Harvest_Goldoan,Dragon Gaze,4,3
+Dheginsea_Harvest_Goldoan,Draconic Aura,—,4
+Diamant_Gallant_Ninja,Glowing Ember,4,3
+Diamant_Gallant_Ninja,Bonfire,—,4
+Diamant_Gallant_Ninja,Boulder,—,5
+Diamant_Rising_Power,Glowing Ember,4,3
+Diamant_Rising_Power,Bonfire,—,4
+Dimitri_Blessed_Protector,Dragon Gaze,4,3
+Dimitri_Blessed_Protector,Draconic Aura,—,4
+Dimitri_Blessed_Protector,No Quarter,—,5
+Dimitri_Sky-Blue_Lion,Night Sky,4,3
+Dimitri_Sky-Blue_Lion,Glimmer,—,4
+Dimitri_Stargazing_Lion,Dragon Gaze,4,3
+Dimitri_Stargazing_Lion,Draconic Aura,—,4
+Dimitri_Stargazing_Lion,Haze Slice,—,5
+Duma_Strength_and_Love,Night Sky,4,3
+Duma_Strength_and_Love,Glimmer,—,4
+Dwyer_Sleepy_Butler,Imbue,4,2
+Dwyer_Sleepy_Butler,Heavenly Light,5,3
+Edain_Lady_of_Yngvi,Imbue,4,2
+Edain_Lady_of_Yngvi,Miracle,5,3
+Edain_Lady_of_Yngvi,Glitter of Light,—,5
+Edelgard_Adorned_Eagle,Glowing Ember,4,3
+Edelgard_Adorned_Eagle,Bonfire,—,4
+Edelgard_Adorned_Eagle,Armored Blaze,—,5
+Edelgard_Snowfall_Future,Glowing Ember,4,3
+Edelgard_Snowfall_Future,Bonfire,—,4
+Edelgard_Snowfall_Future,Armored Blaze,—,5
+Edelgard_Sun_Empresses,Night Sky,4,3
+Edelgard_Sun_Empresses,Glimmer,—,4
+Edward_Blade_of_Justice,Buckler,4,3
+Edward_Blade_of_Justice,Escutcheon,—,4
+Edward_Blade_of_Justice,Godlike Reflexes,—,5
+Eikthyrnir_Fit_for_Waves,Glowing Ember,4,3
+Eikthyrnir_Fit_for_Waves,Bonfire,—,4
+Eikthyrnir_Quieting_Strength,Dragon Gaze,4,3
+Eikthyrnir_Quieting_Strength,Dragon Fang,—,4
+Eikthyrnir_Quieting_Strength,Fierce Beast,—,5
+Eikthyrnir_Resolved_to_Train,Glowing Ember,4,3
+Eikthyrnir_Resolved_to_Train,Ignis,—,4
+Eikthyrnir_Resolved_to_Train,Mighty Roar,—,5
+Eir_Life_Ascendant,Dragon Gaze,4,3
+Eir_Life_Ascendant,Draconic Aura,—,4
+Eirika_Beach_Restorer,New Moon,4,3
+Eirika_Beach_Restorer,Luna,—,4
+Eirika_Gentle_as_Snow,Imbue,4,2
+Eirika_Gentle_as_Snow,Heavenly Light,5,3
+Eirika_Of_the_Sacred,New Moon,4,3
+Eirika_Of_the_Sacred,Luna,—,4
+Eirika_Of_the_Sacred,Twin Strike,—,5
+Eirika_Resolute_Princess,Night Sky,4,3
+Eirika_Resolute_Princess,Glimmer,—,4
+Eirika_Resolute_Princess,Gust,—,5
+Eirika_Twin_Refulgence,New Moon,4,3
+Eirika_Twin_Refulgence,Luna,—,4
+Eitr_Hand_of_Nothing,New Moon,4,3
+Eitr_Hand_of_Nothing,Luna,—,4
+Eitr_Spring_Sunrise,Night Sky,4,3
+Eitr_Spring_Sunrise,Astra,—,4
+Eitr_Spring_Sunrise,Nimble Beast,—,5
+Elice_Altean_Princess,Imbue,4,2
+Elice_Altean_Princess,Heavenly Light,5,3
+Elincia_Devoted_Queen,Imbue,4,2
+Elincia_Devoted_Queen,Miracle,5,3
+Elincia_Devoted_Queen,Light's Restraint,—,5
+Elincia_Undaunted_Queen,Dragon Gaze,4,3
+Elincia_Undaunted_Queen,Dragon Fang,—,4
+Elise_Sparkling_Smile,Imbue,4,2
+Elise_Sparkling_Smile,Miracle,5,3
+Elise_Sparkling_Smile,Holy Panic,—,5
+Elise_Sweetheart_Royals,Imbue,4,2
+Elise_Sweetheart_Royals,Miracle,5,3
+Elise_Sweetheart_Royals,Holy Pressure,—,5
+Eliwood_Pledged_Friend,New Moon,4,3
+Eliwood_Pledged_Friend,Luna,—,4
+Elm_Resolute_Grouch,New Moon,4,3
+Elm_Resolute_Grouch,Luna,—,4
+Embla_Closed-Off_Bride,Dragon Gaze,4,3
+Embla_Closed-Off_Bride,Dragon Fang,—,4
+Emmeryn_Gentle_Exalt,Imbue,4,2
+Emmeryn_Gentle_Exalt,Miracle,5,3
+Emmeryn_Selfless_Exalt,Imbue,4,2
+Emmeryn_Selfless_Exalt,Miracle,5,3
+Emmeryn_Selfless_Exalt,Light's Restraint,—,5
+Ephraim_Ardent_Prince,Glowing Ember,4,3
+Ephraim_Ardent_Prince,Bonfire,—,4
+Ephraim_Ardent_Prince,Armored Blaze,—,5
+Ephraim_Sunshine_Valiant,Glowing Ember,4,3
+Ephraim_Sunshine_Valiant,Bonfire,—,4
+Eremiya_Bishop_of_Woe,Imbue,4,2
+Eremiya_Bishop_of_Woe,Miracle,5,3
+Est_Sweet_Baby_Sis,Chilling Wind,4,3
+Est_Sweet_Baby_Sis,Iceberg,—,4
+Ethlyn_Spirited_Princess,Imbue,4,2
+Ethlyn_Spirited_Princess,Heavenly Light,5,3
+Etie_Fitness_Fighter,Dragon Gaze,4,3
+Etie_Fitness_Fighter,Draconic Aura,—,4
+Excellus_Conquerors_Wile,Chilling Wind,4,3
+Excellus_Conquerors_Wile,Glacies,—,4
+Fae_Holiday_Dear,New Moon,4,3
+Fae_Holiday_Dear,Luna,—,4
+Fafnir_Fresh_Ambition,Night Sky,4,3
+Fafnir_Fresh_Ambition,Glimmer,—,4
+Fargus_Badon_Buccaneer,Dragon Gaze,4,3
+Fargus_Badon_Buccaneer,Dragon Fang,—,4
+Faye_Drawn_Heartstring,New Moon,4,3
+Faye_Drawn_Heartstring,Moonbow,—,4
+Febail_Mercenary_Waif,New Moon,4,3
+Febail_Mercenary_Waif,Luna,—,4
+Felicia_Confidently_Cold,New Moon,4,3
+Felicia_Confidently_Cold,Luna,—,4
+Felix_Icy_Gift_Giver,Night Sky,4,3
+Felix_Icy_Gift_Giver,Glimmer,—,4
+Felix_Lone-Wolf_Blade,Buckler,4,3
+Felix_Lone-Wolf_Blade,Escutcheon,—,4
+Felix_Lone-Wolf_Blade,Godlike Reflexes,—,5
+Felix_Savants_Service,Night Sky,4,3
+Felix_Savants_Service,Glimmer,—,4
+Felix_Savants_Service,Gust,—,5
+Felix_Sword_Savant,Night Sky,4,3
+Felix_Sword_Savant,Glimmer,—,4
+Felix_Sword_Savant,Gust,—,5
+Fir_Swordmaiden,Night Sky,4,3
+Fir_Swordmaiden,Glimmer,—,4
+Fjorm_Gleaming_Ice_Pair,Holy Vestments,4,3
+Fjorm_Gleaming_Ice_Pair,Sacred Cowl,—,4
+Fjorm_Gleaming_Ice_Pair,Dual Ice Mirrors,—,5
+Fjorm_Ice_Ascendant,Holy Vestments,4,3
+Fjorm_Ice_Ascendant,Sacred Cowl,—,4
+Fjorm_Ice_Ascendant,Ice Mirror,—,5
+Fjorm_Seaside_Thaw,Holy Vestments,4,3
+Fjorm_Seaside_Thaw,Sacred Cowl,—,4
+Fjorm_Seaside_Thaw,Frostbite Mirror,—,5
+Flavia_Feroxi_East-Khan,Dragon Gaze,4,3
+Flavia_Feroxi_East-Khan,Draconic Aura,—,4
+Flayn_Silly_Kitty-Cat,Imbue,4,2
+Flayn_Silly_Kitty-Cat,Miracle,5,3
+Flayn_Silly_Kitty-Cat,Holy Pressure,—,5
+Flora_Polar-Perfect,Chilling Wind,4,3
+Flora_Polar-Perfect,Glacies,—,4
+Florina_Azure-Sky_Knight,New Moon,4,3
+Florina_Azure-Sky_Knight,Moonbow,—,4
+Fogado_Affable_Prince,New Moon,4,3
+Fogado_Affable_Prince,Luna,—,4
+Fogado_Summer_of_Bliss,New Moon,4,3
+Fogado_Summer_of_Bliss,Luna,—,4
+Fomortiis_Dark_of_Night,Holy Vestments,5,3
+Fomortiis_Dark_of_Night,Aegis,—,4
+Fomortiis_Demon_King,Glowing Ember,4,3
+Fomortiis_Demon_King,Bonfire,—,4
+Forde_Unfettered_Knight,New Moon,4,3
+Forde_Unfettered_Knight,Luna,—,4
+Forrest_Fashion_Forward,Imbue,4,2
+Forrest_Fashion_Forward,Heavenly Light,5,3
+Framme_Spring_Fangirl,Dragon Gaze,4,3
+Framme_Spring_Fangirl,Dragon Fang,—,4
+Frederick_Youth_in_Service,Glowing Ember,4,3
+Frederick_Youth_in_Service,Bonfire,—,4
+Freyja_Fleeting_Summer,Night Sky,4,3
+Freyja_Fleeting_Summer,Glimmer,—,4
+Freyr_Dream-King,Glowing Ember,4,3
+Freyr_Dream-King,Ignis,—,4
+Freyr_Estival_Dreams,Dragon Gaze,4,3
+Freyr_Estival_Dreams,Draconic Aura,—,4
+Fuga_Force_of_Gales,Glowing Ember,4,3
+Fuga_Force_of_Gales,Bonfire,—,4
+Gaius_Thief_Exposed,Night Sky,4,3
+Gaius_Thief_Exposed,Astra,—,4
+Galzus_Dark_Blade_of_Od,New Moon,4,3
+Galzus_Dark_Blade_of_Od,Luna,—,4
+Ganglot_Death_Anew,Chilling Wind,4,3
+Ganglot_Death_Anew,Iceberg,—,4
+Genny_Dressed_with_Care,Imbue,4,2
+Genny_Dressed_with_Care,Kindled-Fire Balm,5,3
+Genny_Dressed_with_Care,Fireflood Balm,—,4
+Genny_Dressed_with_Care,Fireflood Balm+,—,5
+Geoffrey_Realms_Protector,New Moon,4,3
+Geoffrey_Realms_Protector,Luna,—,4
+Gilliam_Wall_of_Silence,Glowing Ember,4,3
+Gilliam_Wall_of_Silence,Bonfire,—,4
+Ginnungagap_Ruler_of_Nihility,New Moon,4,3
+Ginnungagap_Ruler_of_Nihility,Luna,—,4
+Ginnungagap_Ruler_of_Nihility,Lethality,—,5
+Glen_Sunstone,Glowing Ember,4,3
+Glen_Sunstone,Ignis,—,4
+Goldmary_Coy_Beach_Divas,Buckler,4,3
+Goldmary_Coy_Beach_Divas,Escutcheon,—,4
+Goldmary_Coy_Beach_Divas,Godlike Reflexes,—,5
+Gonzalez_Kindly_Bandit,Dragon Gaze,4,3
+Gonzalez_Kindly_Bandit,Dragon Fang,—,4
+Gotoh_Apostle_of_Naga,Chilling Wind,4,3
+Gotoh_Apostle_of_Naga,Glacies,—,4
+Gotoh_White_Sage,Chilling Wind,4,3
+Gotoh_White_Sage,Iceberg,—,4
+Gregor_Swell_Sword,Glowing Ember,4,3
+Gregor_Swell_Sword,Bonfire,—,4
+Greil_Heroic_Exemplar,New Moon,4,3
+Greil_Heroic_Exemplar,Luna,—,4
+Greil_Heroic_Exemplar,Aether,—,5
+Grima_Tyrant_of_Despair,Chilling Wind,4,3
+Grima_Tyrant_of_Despair,Iceberg,—,4
+Grima_Tyrant_of_Despair,Armored Glacier,—,5
+Grima_Tyrant_of_Ruin,Chilling Wind,4,3
+Grima_Tyrant_of_Ruin,Glacies,—,4
+Griss_Indulging_Pain,Chilling Wind,4,3
+Griss_Indulging_Pain,Glacies,—,4
+Guinivere_Queen_of_Bern,Chilling Wind,4,3
+Guinivere_Queen_of_Bern,Iceberg,—,4
+Gullveig_Glittering_Sunlight,Retribution,4,3
+Gullveig_Glittering_Sunlight,Vengeance,—,4
+Gullveig_Glittering_Sunlight,Time and Light,—,5
+Gullveig_Seer_Beyond_Time,New Moon,4,3
+Gullveig_Seer_Beyond_Time,Luna,—,4
+Gustav_Majestic_Love,Glowing Ember,4,3
+Gustav_Majestic_Love,Ignis,—,4
+Gustav_Exsanguinator,Glowing Ember,4,3
+Gustav_Exsanguinator,Bonfire,—,4
+Guy_Kutolah_Blade,Night Sky,4,3
+Guy_Kutolah_Blade,Glimmer,—,4
+Hana_Focused_Ninja,Night Sky,4,3
+Hana_Focused_Ninja,Glimmer,—,4
+Hana_Striving_Heart,Glowing Ember,4,3
+Hana_Striving_Heart,Ignis,—,4
+Hans_Ambitious_Brute,Dragon Gaze,4,3
+Hans_Ambitious_Brute,Dragon Fang,—,4
+Hapi_Drawn-Out_Sigh,Night Sky,4,3
+Hapi_Drawn-Out_Sigh,Glimmer,—,4
+Hapi_Eternal_Sunlit_Pair,Rising Light,4,3
+Hapi_Eternal_Sunlit_Pair,Blazing Light,—,4
+Hardin_The_Coyote,Dragon Gaze,4,3
+Hardin_The_Coyote,Draconic Aura,—,4
+Harken_Troubled_Warrior,Glowing Ember,4,3
+Harken_Troubled_Warrior,Bonfire,—,4
+Hawkeye_Taciturn_Guardian,Glowing Ember,4,3
+Hawkeye_Taciturn_Guardian,Ignis,—,4
+Hayato_Diviner_of_Reppu,New Moon,4,3
+Hayato_Diviner_of_Reppu,Moonbow,—,4
+Heath_Wyvern_Ninja,Glowing Ember,4,3
+Heath_Wyvern_Ninja,Bonfire,—,4
+Hector_General_of_Ostia,Buckler,4,3
+Hector_General_of_Ostia,Pavise,—,4
+Hector_Steel_Warrior,Glowing Ember,5,3
+Hector_Steel_Warrior,Bonfire,—,4
+Hector_Steel_Warrior,Armored Beacon,—,5
+Hector_Sworn_Friend,Glowing Ember,4,3
+Hector_Sworn_Friend,Bonfire,—,4
+Hector_Sworn_Friend,Armored Beacon,—,5
+Heidrun_Healing_Nectar,Holy Vestments,4,3
+Heidrun_Healing_Nectar,Aegis,—,4
+Heidrun_Peaceful_Horizon,Chilling Wind,4,3
+Heidrun_Peaceful_Horizon,Glacies,—,4
+Heidrun_Peaceful_Horizon,Ice Wall,—,5
+Heidrun_Sisters_of_Healing,Rising Wind,4,3
+Heidrun_Sisters_of_Healing,Blazing Wind,—,4
+Henriette_Overflowing_Love,Chilling Wind,4,3
+Henriette_Overflowing_Love,Iceberg,—,4
+Henry_Happy_Vampire,Retribution,4,3
+Henry_Happy_Vampire,Reprisal,—,4
+Hestia_Dumas_Witch,Chilling Wind,4,3
+Hestia_Dumas_Witch,Iceberg,—,4
+Hilda_Helping_Hand,New Moon,4,3
+Hilda_Helping_Hand,Luna,—,4
+Hilda_Queen_of_Friege,Chilling Wind,4,3
+Hilda_Queen_of_Friege,Glacies,—,4
+Hinoka_Thundering_Wings,Night Sky,4,3
+Hinoka_Thundering_Wings,Glimmer,—,4
+Hinoka_Thundering_Wings,Deadeye,—,5
+Hodr_Dusk_Shadow_God,Chilling Wind,4,3
+Hodr_Dusk_Shadow_God,Glacies,—,4
+Hodr_Dusk_Shadow_God,Ice Wall,—,5
+Holst_Hero_of_Leicester,Rising Light,4,3
+Holst_Hero_of_Leicester,Blazing Light,—,4
+Hortensia_Little_Charmer,Imbue,4,2
+Hortensia_Little_Charmer,Miracle,5,3
+Hortensia_Little_Charmer,Glitter of Light,—,5
+Hortensia_Winters_Dearest,Imbue,4,2
+Hortensia_Winters_Dearest,Miracle,5,3
+Hortensia_Winters_Dearest,Holy Pressure,—,5
+Hraesvelgr_Quieting_Blade,Night Sky,4,3
+Hraesvelgr_Quieting_Blade,Astra,—,4
+Hraesvelgr_Quieting_Blade,Nimble Beast,—,5
+Hraesvelgr_Wings_of_Healing,Night Sky,4,3
+Hraesvelgr_Wings_of_Healing,Astra,—,4
+Hraesvelgr_Wings_of_Healing,Nimble Beast,—,5
+Hrid_Island_Ice_Prince,Glowing Ember,4,3
+Hrid_Island_Ice_Prince,Bonfire,—,4
+Hubert_Crimson_Schemer,Chilling Wind,4,3
+Hubert_Crimson_Schemer,Glacies,—,4
+Hugh_Worldly_Mage,New Moon,4,3
+Hugh_Worldly_Mage,Moonbow,—,4
+Idunn_Divine_Demon,Glowing Ember,4,3
+Idunn_Divine_Demon,Bonfire,—,4
+Idunn_Dragonkin_Duo,Chilling Wind,4,3
+Idunn_Dragonkin_Duo,Iceberg,—,4
+Igrene_Ninja_of_Nabata,New Moon,4,3
+Igrene_Ninja_of_Nabata,Luna,—,4
+Igrene_Sworn_Protectors,Rising Wind,4,3
+Igrene_Sworn_Protectors,Blazing Wind,—,4
+Ike_Close-Knit_Siblings,Daylight,4,3
+Ike_Close-Knit_Siblings,Sol,—,4
+Ike_Close-Knit_Siblings,Radiant Aether,—,5
+Ike_Desert_Mercenary,Daylight,4,3
+Ike_Desert_Mercenary,Sol,—,4
+Ike_Desert_Mercenary,Aether's Path,—,5
+Ike_Of_Radiance,Daylight,4,3
+Ike_Of_Radiance,Sol,—,4
+Ike_Of_Radiance,Great Aether,—,5
+Ike_Stalwart_Heart,Daylight,4,3
+Ike_Stalwart_Heart,Sol,—,4
+Ike_Stalwart_Heart,Radiant Aether,—,5
+Ilyana_Awakened_Appetite,Chilling Wind,4,3
+Ilyana_Awakened_Appetite,Glacies,—,4
+Ilyana_Treat_Harvester,Chilling Wind,4,3
+Ilyana_Treat_Harvester,Iceberg,—,4
+Ingrid_Beacon_of_Honor,New Moon,4,3
+Ingrid_Beacon_of_Honor,Luna,—,4
+Ingrid_Cordial_Teatime,Dragon Gaze,4,3
+Ingrid_Cordial_Teatime,Draconic Aura,—,4
+Ingrid_Cordial_Teatime,Haze Slice,—,5
+Inigo_Flower_Picker,New Moon,4,3
+Inigo_Flower_Picker,Moonbow,—,4
+Innes_New_Years_Aim,Chilling Wind,4,3
+Innes_New_Years_Aim,Glacies,—,4
+Ishtar_Echoing_Thunder,New Moon,4,3
+Ishtar_Echoing_Thunder,Luna,—,4
+Ivy_Snow_Queen,New Moon,4,3
+Ivy_Snow_Queen,Luna,—,4
+Ivy_Tidal_Breeze,Night Sky,4,3
+Ivy_Tidal_Breeze,Glimmer,—,4
+Jakob_Devoted_Monster,Glowing Ember,4,3
+Jakob_Devoted_Monster,Ignis,—,4
+Jarod_Nevassa_General,Dragon Gaze,4,3
+Jarod_Nevassa_General,Dragon Fang,—,4
+Jedah_Priest_of_Duma,Glowing Ember,4,3
+Jedah_Priest_of_Duma,Ignis,—,4
+Jeralt_Blade_Breaker,Dragon Gaze,4,3
+Jeralt_Blade_Breaker,Dragon Fang,—,4
+Jesse_Blithe_Mercenary,New Moon,4,3
+Jesse_Blithe_Mercenary,Moonbow,—,4
+Joshua_Resolute_Tempest,Night Sky,4,3
+Joshua_Resolute_Tempest,Glimmer,—,4
+Julia_Brides_of_Light,Chilling Wind,4,3
+Julia_Brides_of_Light,Glacies,—,4
+Julia_Brides_of_Light,Ice Wall,—,5
+Juno_Nimble_Grace,New Moon,4,3
+Juno_Nimble_Grace,Luna,—,4
+Kagero_Beverage_Ninja,Dragon Gaze,4,3
+Kagero_Beverage_Ninja,Draconic Aura,—,4
+Kagero_Bond_Unwavering,New Moon,4,3
+Kagero_Bond_Unwavering,Luna,—,4
+Kagero_Bond_Unwavering,Lethality,—,5
+Kagero_Spring_Ninja,Night Sky,4,3
+Kagero_Spring_Ninja,Glimmer,—,4
+Kagetsu_Onigiri_Samurai,New Moon,4,3
+Kagetsu_Onigiri_Samurai,Moonbow,—,4
+Kamui_Wandering_Blade,New Moon,4,3
+Kamui_Wandering_Blade,Luna,—,4
+Kana_Rising_Dragon,New Moon,4,3
+Kana_Rising_Dragon,Moonbow,—,4
+Kana_Rising_Sunlight,Night Sky,4,3
+Kana_Rising_Sunlight,Glimmer,—,4
+Karin_Driven_Knight,New Moon,4,3
+Karin_Driven_Knight,Moonbow,—,4
+Karla_Spring_Reveries,Dragon Gaze,4,3
+Karla_Spring_Reveries,Draconic Aura,—,4
+Karla_Sun-Piercing_Steel,Dragon Gaze,4,3
+Karla_Sun-Piercing_Steel,Draconic Aura,—,4
+Kellam_Pumpkin_Knight,Glowing Ember,4,3
+Kellam_Pumpkin_Knight,Ignis,—,4
+Kiragi_Upbeat_Archer,New Moon,4,3
+Kiragi_Upbeat_Archer,Luna,—,4
+Kris_Ardent_Firebrand,Dragon Gaze,4,3
+Kris_Ardent_Firebrand,Draconic Aura,—,4
+Kurthnaga_Autumn_Goldoan,Rising Light,4,3
+Kurthnaga_Autumn_Goldoan,Growing Light,—,4
+Kvasir_Unknown_Future,Retribution,4,3
+Kvasir_Unknown_Future,Reprisal,—,4
+Kvasir_Unknown_Future,Light Is Time,—,5
+Kyza_Tiger_of_Fortune,New Moon,4,3
+Kyza_Tiger_of_Fortune,Moonbow,—,4
+LArachel_Seeker_of_Justice,Imbue,4,2
+LArachel_Seeker_of_Justice,Kindled-Fire Balm,5,3
+LArachel_Seeker_of_Justice,Windfire Balm,—,4
+LArachel_Seeker_of_Justice,Windfire Balm+,—,5
+LArachel_Summer_Princess,Imbue,4,2
+LArachel_Summer_Princess,Swift-Winds Balm,5,3
+LArachel_Summer_Princess,Earthwind Balm,—,4
+LArachel_Summer_Princess,Earthwind Balm+,—,5
+Lachesis_Lionhearts_Sister,Imbue,4,2
+Lachesis_Lionhearts_Sister,Solid-Earth Balm,5,3
+Laegjarn_Flame_and_Frost,New Moon,4,3
+Laegjarn_Flame_and_Frost,Moonbow,—,4
+Laegjarn_Flame_Ascendant,New Moon,4,3
+Laegjarn_Flame_Ascendant,Moonbow,—,4
+Laevatein_Kumade_Warrior,Imbue,4,2
+Laevatein_Kumade_Warrior,Kindled-Fire Balm,5,3
+Laevatein_Kumade_Warrior,Earthfire Balm,—,4
+Laevatein_Kumade_Warrior,Earthfire Balm+,—,5
+Lana_Benevolent_Bride,Imbue,4,2
+Lana_Benevolent_Bride,Swift-Winds Balm,5,3
+Lana_Benevolent_Bride,Windfire Balm,—,4
+Lapis_Forager_of_the_Sea,Dragon Gaze,4,3
+Lapis_Forager_of_the_Sea,Draconic Aura,—,4
+Lapis_Forager_of_the_Sea,Haze Slice,—,5
+Lapis_Mighty_Bride,Buckler,4,3
+Lapis_Mighty_Bride,Escutcheon,—,4
+Lapis_Mighty_Flower,New Moon,4,3
+Lapis_Mighty_Flower,Luna,—,4
+Larcei_Bride_of_Astra,Night Sky,4,3
+Larcei_Bride_of_Astra,Astra,—,4
+Larcei_Bride_of_Astra,Crusader's Astra,—,5
+Larcei_Scion_of_Astra,Night Sky,4,3
+Larcei_Scion_of_Astra,Astra,—,4
+Larcei_Scion_of_Astra,Regnal Astra,—,5
+Laurent_The_Elucidator,Chilling Wind,4,3
+Laurent_The_Elucidator,Iceberg,—,4
+Laeradr_Quieting_Heart,Chilling Wind,4,3
+Laeradr_Quieting_Heart,Iceberg,—,4
+Laeradr_Quieting_Heart,Armored Floe,—,5
+Leif_Destined_Scions,Night Sky,4,3
+Leif_Destined_Scions,Astra,—,4
+Leif_Destined_Scions,Njörun's Zeal,—,5
+Leif_Sworn_to_Country,Night Sky,4,3
+Leif_Sworn_to_Country,Astra,—,4
+Leif_Sworn_to_Country,The True Njörun,—,5
+Leila_Keen_Lookout,New Moon,4,3
+Leila_Keen_Lookout,Moonbow,—,4
+Leila_Superb_Shadow,New Moon,5,3
+Leila_Superb_Shadow,Luna,—,4
+Leila_Superb_Shadow,Lethality,—,5
+Lena_Bereft_Angel,Imbue,4,2
+Lena_Bereft_Angel,Miracle,5,3
+Lena_Bereft_Angel,Holy Pressure,—,5
+Lena_Tender_Angel,Imbue,4,2
+Lena_Tender_Angel,Heavenly Light,5,3
+Leo_Dark_Sprout,Rising Thunder,4,3
+Leo_Dark_Sprout,Blazing Thunder,—,4
+Leo_Extra_Tomatoes,Night Sky,4,3
+Leo_Extra_Tomatoes,Glimmer,—,4
+Leo_Festival_Bonds,Chilling Wind,4,3
+Leo_Festival_Bonds,Glacies,—,4
+Leo_Seashores_Prince,Chilling Wind,4,3
+Leo_Seashores_Prince,Iceberg,—,4
+Leo_Shrouded_Heart,Chilling Wind,4,3
+Leo_Shrouded_Heart,Iceberg,—,4
+Leonardo_Freedoms_Arrow,New Moon,4,3
+Leonardo_Freedoms_Arrow,Luna,—,4
+Lethe_Cat_Attack,Dragon Gaze,4,3
+Lethe_Cat_Attack,Dragon Fang,—,4
+Letizia_Curse_Director,Dragon Gaze,4,3
+Letizia_Curse_Director,Draconic Aura,—,4
+Lewyn_Wind-Song_Scion,New Moon,4,3
+Lewyn_Wind-Song_Scion,Luna,—,4
+Lif_Arcane_Blade,Glowing Ember,4,3
+Lif_Arcane_Blade,Bonfire,—,4
+Lif_Arcane_Blade,Open the Future,—,5
+Lif_Undying_Ties_Duo,Night Sky,4,3
+Lif_Undying_Ties_Duo,Glimmer,—,4
+Lilina_Beaming_Bride,Rising Flame,4,3
+Lilina_Beaming_Bride,Blazing Flame,—,4
+Lilina_Beaming_Bride,Gifted Magic,—,5
+Lilina_Blush_of_Youth,Rising Flame,4,3
+Lilina_Blush_of_Youth,Blazing Flame,—,4
+Lilina_Brilliant_Flame,Rising Flame,4,3
+Lilina_Brilliant_Flame,Blazing Flame,—,4
+Lilina_Brilliant_Flame,Gift for Magic,—,5
+Lilith_Silent_Broodling,Dragon Gaze,4,3
+Lilith_Silent_Broodling,Draconic Aura,—,4
+Limstella_Living_Construct,Chilling Wind,4,3
+Limstella_Living_Construct,Glacies,—,4
+Linde_Bound_by_Fate,New Moon,4,3
+Linde_Bound_by_Fate,Luna,—,4
+Linhardt_Hevrings_Heir,Imbue,4,2
+Linhardt_Hevrings_Heir,Miracle,5,3
+Linhardt_Spring_Snoozer,Chilling Wind,4,3
+Linhardt_Spring_Snoozer,Glacies,—,4
+Linoan_Lady_of_Tarrah,Imbue,4,2
+Linoan_Lady_of_Tarrah,Swift-Winds Balm,5,3
+Linoan_Lady_of_Tarrah,Deluge Balm,—,4
+Linus_Savage_Dog,Dragon Gaze,4,3
+Linus_Savage_Dog,Dragon Fang,—,4
+Lissa_Littlest_Princess,Glowing Ember,4,3
+Lissa_Littlest_Princess,Bonfire,—,4
+Lissa_Pure_Joy,Glowing Ember,4,3
+Lissa_Pure_Joy,Bonfire,—,4
+Lissa_Sprightly_Cleric,Imbue,4,2
+Lissa_Sprightly_Cleric,Kindled-Fire Balm,5,3
+Lissa_Sweet_Celebrant,Imbue,4,2
+Lissa_Sweet_Celebrant,Heavenly Light,5,3
+Lloyd_Vengeful_Wolf,Dragon Gaze,4,3
+Lloyd_Vengeful_Wolf,Dragon Fang,—,4
+Loki_Spring_Trickster,New Moon,4,3
+Loki_Spring_Trickster,Luna,—,4
+Loki_Trickster_God,Imbue,4,2
+Loki_Trickster_God,Miracle,5,3
+Loki_Trickster_God,Glitter of Light,—,5
+Lonqu_Spring_Jitters,New Moon,4,3
+Lonqu_Spring_Jitters,Luna,—,4
+Lucina_Shadows_of_Fate,New Moon,4,3
+Lucina_Shadows_of_Fate,Moonbow,—,4
+Lucina_Shadows_of_Fate,Curved Shot,—,5
+Lucius_Calming_Light,Imbue,4,2
+Lucius_Calming_Light,Heavenly Light,5,3
+Lucius_The_Light,Imbue,4,2
+Lucius_The_Light,Miracle,5,3
+Ludveck_Rebellious_Duke,Glowing Ember,4,3
+Ludveck_Rebellious_Duke,Ignis,—,4
+Lumera_Corrupted_Dragon,Chilling Wind,4,3
+Lumera_Corrupted_Dragon,Iceberg,—,4
+Lumera_Dragon_Monarch,Dragon Gaze,4,3
+Lumera_Dragon_Monarch,Dragon Fang,—,4
+Lyn_Blazing_Whirlwind,Buckler,4,3
+Lyn_Blazing_Whirlwind,Escutcheon,—,4
+Lyn_Blazing_Whirlwind,Godlike Reflexes,—,5
+Lyn_Bride_of_the_Plains,Imbue,4,2
+Lyn_Bride_of_the_Plains,Swift-Winds Balm,5,3
+Lyn_Of_Blazing,Night Sky,4,3
+Lyn_Of_Blazing,Astra,—,4
+Lyn_Of_Blazing,Astra Storm,—,5
+Lyon_Esteemed_Royals,Chilling Wind,4,3
+Lyon_Esteemed_Royals,Iceberg,—,4
+Lyon_Grados_Gaze,Chilling Wind,4,3
+Lyon_Grados_Gaze,Iceberg,—,4
+Lyon_Sunlit_Prince,New Moon,4,3
+Lyon_Sunlit_Prince,Moonbow,—,4
+Lyre_Lap_Cat_of_Luxury,New Moon,4,3
+Lyre_Lap_Cat_of_Luxury,Luna,—,4
+Lysithea_Gifted_Students,New Moon,4,3
+Lysithea_Gifted_Students,Moonbow,—,4
+Lysithea_Tea_Sweetener,Night Sky,4,3
+Lysithea_Tea_Sweetener,Glimmer,—,4
+Machyua_Blade_of_Gales,Night Sky,4,3
+Machyua_Blade_of_Gales,Glimmer,—,4
+Machyua_Blade_of_Gales,Gust,—,5
+Mae_Spring_Cheer,Chilling Wind,4,3
+Mae_Spring_Cheer,Glacies,—,4
+Malice_Blooming_Blade,Night Sky,4,3
+Malice_Blooming_Blade,Glimmer,—,4
+Malice_Blooming_Blade,Gust,—,5
+Malice_Deft_Sellsword,New Moon,4,3
+Malice_Deft_Sellsword,Luna,—,4
+Manuela_Silver_Caroler,Glowing Ember,4,3
+Manuela_Silver_Caroler,Ignis,—,4
+Marcia_Petulant_Knight,New Moon,4,3
+Marcia_Petulant_Knight,Luna,—,4
+Mareeta_Astra_Awakened,Night Sky,4,3
+Mareeta_Astra_Awakened,Astra,—,4
+Mareeta_Astra_Awakened,Vital Astra,—,5
+Maria_Minervas_Sister,Imbue,4,2
+Maria_Minervas_Sister,Miracle,5,3
+Maria_Ritual_Sacrifice,Imbue,4,2
+Maria_Ritual_Sacrifice,Miracle,5,3
+Maria_Ritual_Sacrifice,Holy Panic,—,5
+Marianne_Cursed_Blessing,Chilling Wind,4,3
+Marianne_Cursed_Blessing,Glacies,—,4
+Marianne_Cursed_Blessing,Requiem Prayer,—,5
+Marisa_Willful_Blades,New Moon,4,3
+Marisa_Willful_Blades,Moonbow,—,4
+Mark_Winds_of_Hope,Chilling Wind,4,3
+Mark_Winds_of_Hope,Iceberg,—,4
+Marla_Dumas_Witch,Chilling Wind,4,3
+Marla_Dumas_Witch,Glacies,—,4
+Marni_Pining_for_Praise,Glowing Ember,4,3
+Marni_Pining_for_Praise,Ignis,—,4
+Marth_Love_and_Courage,Dragon Gaze,4,3
+Marth_Love_and_Courage,Draconic Aura,—,4
+Marth_Love_and_Courage,The Fire Emblem,—,5
+Marth_Of_Beginnings,Night Sky,4,3
+Marth_Of_Beginnings,Glimmer,—,4
+Marth_Of_Beginnings,Lodestar Rush,—,5
+Matthis_Brother_to_Lena,Rising Wind,4,3
+Matthis_Brother_to_Lena,Blazing Wind,—,4
+Mauvier_Penitent_Knight,Glowing Ember,4,3
+Mauvier_Penitent_Knight,Ignis,—,4
+Medeus_Earth-Dragon_King,Chilling Wind,4,3
+Medeus_Earth-Dragon_King,Glacies,—,4
+Medeus_Last_Earth_Dragon,Chilling Wind,4,3
+Medeus_Last_Earth_Dragon,Glacies,—,4
+Meliai_Warrior_Wanderer,Glowing Ember,4,3
+Meliai_Warrior_Wanderer,Ignis,—,4
+Meliai_Warrior_Wanderer,Sturdy Beast,—,5
+Mercedes_Kindly_Devotee,Miracle,4,3
+Mercedes_Kindly_Devotee,Imbue,—,2
+Mercedes_Unfussed_Basker,Chilling Wind,4,3
+Mercedes_Unfussed_Basker,Iceberg,—,4
+Merric_Wind_Pontifex,Night Sky,4,3
+Merric_Wind_Pontifex,Glimmer,—,4
+Merric_Wind_Pontifex,Sacred Wind,—,5
+Metodey_Shrewd_Braggart,Rising Flame,4,3
+Metodey_Shrewd_Braggart,Blazing Flame,—,4
+Mia_Budding_Blade,Dragon Gaze,4,3
+Mia_Budding_Blade,Dragon Fang,—,4
+Mia_Moonlit_Witch,Imbue,4,2
+Mia_Moonlit_Witch,Heavenly Light,5,3
+Mia_Summer_Slice,New Moon,4,3
+Mia_Summer_Slice,Luna,—,4
+Micaiah_Of_Dawn,Daylight,4,3
+Micaiah_Of_Dawn,Sol,—,4
+Micaiah_Of_Dawn,Great Sacrifice,—,5
+Micaiah_Wavecrest_Maiden,New Moon,4,3
+Micaiah_Wavecrest_Maiden,Moonbow,—,4
+Midir_Archer_of_Yngvi,New Moon,4,3
+Midir_Archer_of_Yngvi,Luna,—,4
+Minerva_Verdant_Dragoon,Glowing Ember,4,3
+Minerva_Verdant_Dragoon,Bonfire,—,4
+Monica_Favored_Vassal,Night Sky,4,3
+Monica_Favored_Vassal,Glimmer,—,4
+Mozu_Tragic_Start,Glowing Ember,4,3
+Mozu_Tragic_Start,Bonfire,—,4
+Muarim_Raw_Instinct,Dragon Gaze,4,3
+Muarim_Raw_Instinct,Dragon Fang,—,4
+Murdock_Loyal_General,Glowing Ember,4,3
+Murdock_Loyal_General,Ignis,—,4
+Muspell_Raging_Inferno,New Moon,4,3
+Muspell_Raging_Inferno,Moonbow,—,4
+Mycen_Zofias_Champion,Glowing Ember,4,3
+Mycen_Zofias_Champion,Bonfire,—,4
+Myrrh_Adored_Dragon,Glowing Ember,4,3
+Myrrh_Adored_Dragon,Bonfire,—,4
+Myrrh_Adored_Dragon,Armored Beacon,—,5
+Myrrh_Spring_Harmony,Daylight,4,3
+Myrrh_Spring_Harmony,Noontime,—,4
+Naesala_Seas_Shadow,Night Sky,4,3
+Naesala_Seas_Shadow,Glimmer,—,4
+Naga_Ruler_of_Dragons,Chilling Wind,4,3
+Naga_Ruler_of_Dragons,Iceberg,—,4
+Naga_Ruler_of_Dragons,Dragon's Roar,—,5
+Nagi_Hopeful_Eternity,Chilling Wind,4,3
+Nagi_Hopeful_Eternity,Iceberg,—,4
+Nagi_Hopeful_Eternity,Dragon's Roar,—,5
+Nah_Grateful_One,Glowing Ember,4,3
+Nah_Grateful_One,Bonfire,—,4
+Nah_Grateful_One,Armored Blaze,—,5
+Nailah_Hatari_Scorcher,New Moon,4,3
+Nailah_Hatari_Scorcher,Luna,—,4
+Nanna_Mystletainn_Scion,Imbue,4,2
+Nanna_Mystletainn_Scion,Heavenly Light,5,3
+Nanna_Nordion_Princess,Imbue,—,2
+Nanna_Nordion_Princess,Heavenly Light,—,3
+Narcian_Vernal_General,Retribution,4,3
+Narcian_Vernal_General,Vengeance,—,4
+Natasha_Sacred_Healer,Imbue,4,2
+Natasha_Sacred_Healer,Heavenly Light,5,3
+Navarre_Scarlet_Ninja,New Moon,4,3
+Navarre_Scarlet_Ninja,Moonbow,—,4
+Neimi_Tearful_Archer,New Moon,4,3
+Neimi_Tearful_Archer,Moonbow,—,4
+Nel_Stoic_Dragon,Chilling Wind,4,3
+Nel_Stoic_Dragon,Iceberg,—,4
+Nel_Stoic_Dragon,Dragon's Roar,—,5
+Nephenee_Festival_Harmony,New Moon,4,3
+Nephenee_Festival_Harmony,Moonbow,—,4
+Nergal_Traitor_to_Nabata,Chilling Wind,4,3
+Nergal_Traitor_to_Nabata,Glacies,—,4
+Nerthuz_Beach_Chaperone,Dragon Gaze,4,3
+Nerthuz_Beach_Chaperone,Dragon Fang,—,4
+Nerthuz_God_of_the_Land,Night Sky,4,3
+Nerthuz_God_of_the_Land,Astra,—,4
+Nerthuz_God_of_the_Land,Galeforce,—,5
+Nerthuz_New-Year_Doter,New Moon,4,3
+Nerthuz_New-Year_Doter,Luna,—,4
+Nerthuz_New-Year_Doter,Aether,—,5
+Nidavellir_Founding_King,Rising Thunder,4,3
+Nidavellir_Founding_King,Blazing Thunder,5,4
+Nidhoggr_Daze_of_Healing,Glowing Ember,4,3
+Nidhoggr_Daze_of_Healing,Ignis,—,4
+Nidhoggr_Daze_of_Healing,Sturdy Beast,—,5
+Nifl_Tropical_Ice_God,Night Sky,4,3
+Nifl_Tropical_Ice_God,Glimmer,—,4
+Niime_Mountain_Hermit,Chilling Wind,4,3
+Niime_Mountain_Hermit,Iceberg,—,4
+Nina_Shadowy_Figures,New Moon,4,3
+Nina_Shadowy_Figures,Luna,—,4
+Nina_Shadowy_Figures,Lethality,—,5
+Nino_Burst_of_Summer,Daylight,4,3
+Nino_Burst_of_Summer,Noontime,—,4
+Nino_Burst_of_Summer,Flare,—,5
+Nino_Fangs_Heart,Dragon Gaze,4,3
+Nino_Fangs_Heart,Draconic Aura,—,4
+Nino_Spirited_Sorcerer,Night Sky,4,3
+Nino_Spirited_Sorcerer,Glimmer,—,4
+Noah_Mercenary-Errant,New Moon,4,3
+Noah_Mercenary-Errant,Luna,—,4
+Noire_Demurely_Deft,New Moon,4,3
+Noire_Demurely_Deft,Moonbow,—,4
+Noire_Of_Two_Minds,New Moon,4,3
+Noire_Of_Two_Minds,Moonbow,—,4
+Noire_Of_Two_Minds,Curved Shot,—,5
+Nomah_Priest_of_Mila,Chilling Wind,4,3
+Nomah_Priest_of_Mila,Glacies,—,4
+Nuibaba_Mistress_of_Fear,Chilling Wind,4,3
+Nuibaba_Mistress_of_Fear,Iceberg,—,4
+Nyna_The_Last_Princess,Imbue,4,2
+Nyna_The_Last_Princess,Miracle,5,3
+Ogier_Ostias_New_Blade,New Moon,4,3
+Ogier_Ostias_New_Blade,Luna,—,4
+Ogma_Blade_on_Leave,Daylight,4,3
+Ogma_Blade_on_Leave,Sol,—,4
+Ophelia_Dramatic_Heroine,Rising Light,4,3
+Ophelia_Dramatic_Heroine,Blazing Light,—,4
+Ophelia_Starlit_Maiden,New Moon,4,3
+Ophelia_Starlit_Maiden,Luna,—,4
+Oswin_Impregnable_Knight,Buckler,5,3
+Oswin_Impregnable_Knight,Pavise,—,4
+Owain_Devoted_Defender,Glowing Ember,4,3
+Owain_Devoted_Defender,Bonfire,—,4
+Owain_Devoted_Defender,Blue Flame,—,5
+Palla_Eldest_Bun-Bun,Dragon Gaze,4,3
+Palla_Eldest_Bun-Bun,Draconic Aura,—,4
+Palla_Soaring_Summer,Glowing Ember,4,3
+Palla_Soaring_Summer,Ignis,—,4
+Pandreo_Party_Priest,Imbue,4,2
+Pandreo_Party_Priest,Still-Water Balm,5,3
+Pandreo_Party_Priest,Fireflood Balm,—,4
+Panette_Classy_Brawler,Dragon Gaze,4,3
+Panette_Classy_Brawler,Dragon Fang,—,4
+Panne_Welcoming_Dawn,New Moon,4,3
+Panne_Welcoming_Dawn,Luna,—,4
+Perne_Dacian_Scoundrel,Dragon Gaze,4,3
+Perne_Dacian_Scoundrel,Dragon Fang,—,4
+Petra_Faraway_Sun,Night Sky,4,3
+Petra_Faraway_Sun,Glimmer,—,4
+Petra_Faraway_Sun,Deadeye,—,5
+Phila_Pegasus_Master,Chilling Wind,4,3
+Phila_Pegasus_Master,Iceberg,—,4
+Priam_Radiant_Hero,Daylight,4,3
+Priam_Radiant_Hero,Sol,—,4
+Priscilla_Delicate_Princess,Imbue,4,2
+Priscilla_Delicate_Princess,Still-Water Balm,5,3
+Rafal_Atoning_Dragon,Glowing Ember,4,3
+Rafal_Atoning_Dragon,Bonfire,—,4
+Rafal_Atoning_Dragon,Armored Blaze,—,5
+Ratatoskr_Mending_Hand,New Moon,4,3
+Ratatoskr_Mending_Hand,Luna,—,4
+Rebecca_Breezy_Scamp,New Moon,4,3
+Rebecca_Breezy_Scamp,Moonbow,—,4
+Reginn_Bearing_Dawn,Glowing Ember,4,3
+Reginn_Bearing_Dawn,Ignis,—,4
+Reginn_Bearing_Dawn,Seiðr Shell,—,5
+Reina_Sanguine_Shinobi,Night Sky,4,3
+Reina_Sanguine_Shinobi,Glimmer,—,4
+Reinhardt_Thrud_Reborn,New Moon,4,3
+Reinhardt_Thrud_Reborn,Moonbow,—,4
+Reinhardt_Thunders_Fist,Rising Thunder,4,3
+Reinhardt_Thunders_Fist,Blazing Thunder,—,4
+Rennac_Rich_Merchant,Night Sky,4,3
+Rennac_Rich_Merchant,Glimmer,—,4
+Rhea_Aura_of_Love,Chilling Wind,4,3
+Rhea_Aura_of_Love,Iceberg,—,4
+Rhea_Aura_of_Love,Dragon's Roar,—,5
+Rhea_Immaculate_One,Night Sky,4,3
+Rhea_Immaculate_One,Glimmer,—,4
+Rhea_Loving_Matriarch,Night Sky,4,3
+Rhea_Loving_Matriarch,Glimmer,—,4
+Rhea_Witch_of_Creation,Chilling Wind,4,3
+Rhea_Witch_of_Creation,Iceberg,—,4
+Rhys_Gentle_Basker,Imbue,4,2
+Rhys_Gentle_Basker,Heavenly Light,5,3
+Ricken_Shepherd_Novice,New Moon,4,3
+Ricken_Shepherd_Novice,Luna,—,4
+Riev_Blood_Beryl,Chilling Wind,4,3
+Riev_Blood_Beryl,Glacies,—,4
+Robin_Exalts_Deliverer,Glowing Ember,4,3
+Robin_Exalts_Deliverer,Ignis,—,4
+Robin_Exalts_Other_Half,Glowing Ember,4,3
+Robin_Exalts_Other_Half,Ignis,—,4
+Robin_Exalts_Right_Hand,Daylight,4,3
+Robin_Exalts_Right_Hand,Noontime,—,4
+Robin_Exalts_Right_Hand,Flare,—,5
+Robin_Fall_Reincarnation,Daylight,4,3
+Robin_Fall_Reincarnation,Noontime,—,4
+Robin_Fated_Vessel,Glowing Ember,4,3
+Robin_Fated_Vessel,Ignis,—,4
+Robin_Fell_Tactician,Buckler,4,3
+Robin_Fell_Tactician,Pavise,—,4
+Robin_Tactful_Deliverer,Chilling Wind,4,3
+Robin_Tactful_Deliverer,Iceberg,—,4
+Robin_Vessels_of_Fate,Daylight,4,3
+Robin_Vessels_of_Fate,Noontime,—,4
+Robin_Vessels_of_Fate,Flare,—,5
+Rosado_Adorable_Artist,Glowing Ember,4,3
+Rosado_Adorable_Artist,Bonfire,—,4
+Roy_Blazing_Bachelors,New Moon,4,3
+Roy_Blazing_Bachelors,Luna,—,4
+Rune_Source_of_Wisdom,Daylight,5,3
+Rune_Source_of_Wisdom,Noontime,—,4
+Rune_Source_of_Wisdom,Flare,—,5
+Ryoma_Samurai_at_Ease,New Moon,4,3
+Ryoma_Samurai_at_Ease,Luna,—,4
+Saber_Dune_Walker,Buckler,4,3
+Saber_Dune_Walker,Escutcheon,—,4
+Safy_Font_of_Piety,Imbue,4,2
+Safy_Font_of_Piety,Miracle,5,3
+Safy_Font_of_Piety,Holy Panic,—,5
+Saizo_Hoshidos_Flame,Rising Flame,4,3
+Saizo_Hoshidos_Flame,Growing Flame,—,4
+Sakura_Gentle_Nekomata,Chilling Wind,4,3
+Sakura_Gentle_Nekomata,Glacies,—,4
+Sakura_Hot-Spring_Healer,Imbue,4,2
+Sakura_Hot-Spring_Healer,Still-Water Balm,5,3
+Sakura_Hot-Spring_Healer,Fireflood Balm,—,4
+Sakura_Hot-Spring_Healer,Fireflood Balm+,—,5
+Sakura_In_Full_Bloom,Imbue,4,2
+Sakura_In_Full_Bloom,Miracle,5,3
+Sakura_In_Full_Bloom,Holy Pressure,—,5
+Sakura_Loving_Priestess,Imbue,4,2
+Sakura_Loving_Priestess,Still-Water Balm,5,3
+Salem_Dark_Sage,Chilling Wind,4,3
+Salem_Dark_Sage,Glacies,—,4
+Sanaki_Dawnsworn_Ninja,Chilling Wind,4,3
+Sanaki_Dawnsworn_Ninja,Iceberg,—,4
+Saul_Loving_Shepherd,Imbue,4,2
+Saul_Loving_Shepherd,Heavenly Light,5,3
+Saul_Minister_of_Love,Imbue,4,2
+Saul_Minister_of_Love,Still-Water Balm,5,3
+Saul_Minister_of_Love,Deluge Balm,—,4
+Saul_Minister_of_Love,Deluge Balm+,—,5
+Sayri_Righteous_Bride,Dragon Gaze,4,3
+Sayri_Righteous_Bride,Draconic Aura,—,4
+Scathach_Astras_Wake,Night Sky,4,3
+Scathach_Astras_Wake,Astra,—,4
+Seidr_Goddess_of_Hope,Chilling Wind,4,3
+Seidr_Goddess_of_Hope,Iceberg,—,4
+Seidr_Times_Goddesses,Chilling Wind,4,3
+Seidr_Times_Goddesses,Iceberg,—,4
+Seliph_Lights_Legacy,Dragon Gaze,4,3
+Seliph_Lights_Legacy,Draconic Aura,—,4
+Seliph_Lights_Legacy,Haze Slice,—,5
+Sephiran_Hoary_Sovereign,Imbue,4,2
+Sephiran_Hoary_Sovereign,Solid-Earth Balm,5,3
+Sephiran_Hoary_Sovereign,Earthwater Balm,—,4
+Sephiran_Hoary_Sovereign,Earthwater Balm+,—,5
+Serra_Outspoken_Cleric,Imbue,4,2
+Serra_Outspoken_Cleric,Swift-Winds Balm,5,3
+Severa_Bitter_Blossom,New Moon,4,3
+Severa_Bitter_Blossom,Moonbow,—,4
+Severa_Secret_Dreamer,Buckler,4,3
+Severa_Secret_Dreamer,Escutcheon,—,4
+Severa_Secret_Dreamer,Godlike Reflexes,—,5
+Shamir_Heartbeats_United,Night Sky,4,3
+Shamir_Heartbeats_United,Glimmer,—,4
+Shamir_Heartbeats_United,Deadeye,—,5
+Shamir_Lone-Moon_Ninja,Night Sky,4,3
+Shamir_Lone-Moon_Ninja,Glimmer,—,4
+Shanna_Bridal_Novice,Dragon Gaze,4,3
+Shanna_Bridal_Novice,Draconic Aura,—,4
+Sharena_Hopeful_Princess,New Moon,4,3
+Sharena_Hopeful_Princess,Luna,—,4
+Sharena_Hopeful_Princess,Magic Light,—,5
+Sharena_Pillars_of_Peace,Dragon Gaze,4,3
+Sharena_Pillars_of_Peace,Draconic Aura,—,4
+Sharena_Pillars_of_Peace,No Quarter,—,5
+Shez_Dual_Sword_Master,Dragon Gaze,4,3
+Shez_Dual_Sword_Master,Draconic Aura,—,4
+Shez_Dual_Sword_Master,Ruptured Sky,—,5
+Shez_Keen_Mercenary,Night Sky,4,3
+Shez_Keen_Mercenary,Glimmer,—,4
+Shez_Mercenary_Shade,New Moon,4,3
+Shez_Mercenary_Shade,Luna,—,4
+Shez_Mercenary_Shine,Night Sky,4,3
+Shez_Mercenary_Shine,Glimmer,—,4
+Shez_Rising_Mercenary,New Moon,4,3
+Shez_Rising_Mercenary,Moonbow,—,4
+Shez_Sharpest_Blades,Night Sky,4,3
+Shez_Sharpest_Blades,Glimmer,—,4
+Shez_Snowfield_Envoy,New Moon,5,3
+Shez_Snowfield_Envoy,Luna,—,4
+Shinon_Sharptongue_Ninja,Night Sky,4,3
+Shinon_Sharptongue_Ninja,Glimmer,—,4
+Shinon_Sharptongue_Ninja,Deadeye,—,5
+Sigurd_Of_the_Holy_War,Rising Light,4,3
+Sigurd_Of_the_Holy_War,Blazing Light,—,4
+Sigurd_Of_the_Holy_War,Override,—,5
+Sigurd_Proper_Pourer,Dragon Gaze,4,3
+Sigurd_Proper_Pourer,Draconic Aura,—,4
+Sigurd_Proper_Pourer,Chivalric Aura,—,5
+Silque_Selfless_Cleric,Imbue,4,2
+Silque_Selfless_Cleric,Heavenly Light,5,3
+Sonya_Beautiful_Mage,Rising Wind,4,3
+Sonya_Beautiful_Mage,Blazing Wind,—,4
+Sonya_Dazzling_Rabbits,New Moon,4,3
+Sonya_Dazzling_Rabbits,Luna,—,4
+Soren_Hushed_Voice,Chilling Wind,4,3
+Soren_Hushed_Voice,Iceberg,—,4
+Soren_Radiant_Confidant,Daylight,4,3
+Soren_Radiant_Confidant,Noontime,—,4
+Soren_Radiant_Confidant,Flare,—,5
+Soren_Wind_of_Tradition,Chilling Wind,4,3
+Soren_Wind_of_Tradition,Glacies,—,4
+Sothe_Dawning_Zephyr,New Moon,4,3
+Sothe_Dawning_Zephyr,Moonbow,—,4
+Sothe_Dawning_Zephyr,Bane,—,5
+Sothis_Bound-Spirit_Duo,Daylight,4,3
+Sothis_Bound-Spirit_Duo,Noontime,—,4
+Sothis_Bound-Spirit_Duo,Sirius,—,5
+Surtr_Pirate_of_Red_Sky,Glowing Ember,4,3
+Surtr_Pirate_of_Red_Sky,Bonfire,—,4
+Surtr_Ruler_of_Flame,Glowing Ember,4,3
+Surtr_Ruler_of_Flame,Bonfire,—,4
+Sylvain_Consummate_Flirt,New Moon,4,3
+Sylvain_Consummate_Flirt,Moonbow,—,4
+Sylvain_Spring_Flingster,Dragon Gaze,4,3
+Sylvain_Spring_Flingster,Draconic Aura,—,4
+Sylvain_Spring_Flingster,No Quarter,—,5
+Syrene_Graceful_Rider,New Moon,4,3
+Syrene_Graceful_Rider,Moonbow,—,4
+Takumi_Prince_at_Play,Night Sky,4,3
+Takumi_Prince_at_Play,Glimmer,—,4
+Takumi_Prince_of_Soup,New Moon,4,3
+Takumi_Prince_of_Soup,Moonbow,—,4
+Takumi_Troubled_Heart,New Moon,4,3
+Takumi_Troubled_Heart,Luna,—,4
+Tana_Frelian_Starlight,Dragon Gaze,4,3
+Tana_Frelian_Starlight,Draconic Aura,—,4
+Tana_Soaring_New_Year,Dragon Gaze,4,3
+Tana_Soaring_New_Year,Draconic Aura,—,4
+Tana_Soaring_Princess,Night Sky,4,3
+Tana_Soaring_Princess,Glimmer,—,4
+Tana_Soaring_Princess,Deadeye,—,5
+Tana_Soothing_Warmth,Night Sky,4,3
+Tana_Soothing_Warmth,Glimmer,—,4
+Tharja_Normal_Girl,Chilling Wind,4,3
+Tharja_Normal_Girl,Iceberg,—,4
+Tharja_Florid_Charmer,Retribution,4,3
+Tharja_Florid_Charmer,Reprisal,—,4
+Tharja_Gloomy_Mage,Chilling Wind,4,3
+Tharja_Gloomy_Mage,Glacies,—,4
+Tharja_Gloomy_Mage,Ice Wall,—,5
+Tharja_Shadow_Ninja,New Moon,4,3
+Tharja_Shadow_Ninja,Luna,—,4
+Thea_Wings_of_Winter,Chilling Wind,4,3
+Thea_Wings_of_Winter,Iceberg,—,4
+Thorr_Sun-Kissed_Gods,Rising Thunder,4,3
+Thorr_Sun-Kissed_Gods,Blazing Thunder,—,4
+Tiki_Awakened_Blood,Chilling Wind,4,3
+Tiki_Awakened_Blood,Iceberg,—,4
+Tiki_Bridal_Reflections,Chilling Wind,4,3
+Tiki_Bridal_Reflections,Iceberg,—,4
+Tiki_Bridal_Reflections,Armored Floe,—,5
+Tiki_Dragons_Progeny,Glowing Ember,4,3
+Tiki_Dragons_Progeny,Ignis,—,4
+Tiki_Dragons_Progeny,Dragon Flame,—,5
+Tiki_Summering_Scion,Daylight,4,3
+Tiki_Summering_Scion,Sol,—,4
+Timerra_Desert_Warrior,Glowing Ember,4,3
+Timerra_Desert_Warrior,Ignis,—,4
+Timerra_Desert_Warrior,Sandstorm,—,5
+Timerra_Trick_or_Meat,Night Sky,4,3
+Timerra_Trick_or_Meat,Astra,—,4
+Timerra_Trick_or_Meat,Vital Astra,—,5
+Tina_Playful_Scamp,Imbue,4,2
+Tina_Playful_Scamp,Miracle,5,3
+Tina_Playful_Scamp,Holy Pressure,—,5
+Tine_Determined_Bride,New Moon,4,3
+Tine_Determined_Bride,Moonbow,—,4
+Tine_Rumbling_Thunder,Dragon Gaze,4,3
+Tine_Rumbling_Thunder,Draconic Aura,—,4
+Tormod_Indomitable_Will,Dragon Gaze,4,3
+Tormod_Indomitable_Will,Draconic Aura,—,4
+Ursula_Blackened_Crow,Rising Thunder,4,3
+Ursula_Blackened_Crow,Blazing Thunder,—,4
+Ursula_Royal-Blue_Crow,New Moon,4,3
+Ursula_Royal-Blue_Crow,Moonbow,—,4
+Uther_Frugal_Militarist,Glowing Ember,5,3
+Uther_Frugal_Militarist,Ignis,—,4
+Vaida_Dracofang_General,Dragon Gaze,5,3
+Vaida_Dracofang_General,Dragon Fang,—,4
+Validar_Fell_Architect,Chilling Wind,4,3
+Validar_Fell_Architect,Glacies,—,4
+Vanessa_Dutiful_Rider,New Moon,4,3
+Vanessa_Dutiful_Rider,Luna,—,4
+Veronica_Bestowed_Love,Rising Thunder,4,3
+Veronica_Bestowed_Love,Growing Thunder,—,4
+Veronica_Princess_Rising,Retribution,4,3
+Veronica_Princess_Rising,Reprisal,—,4
+Veronica_Princess_Rising,Enclosure,—,5
+Veronica_Royal_Reception,Retribution,4,3
+Veronica_Royal_Reception,Reprisal,—,4
+Veronica_Royal_Reception,Immurement,—,5
+Veyle_Fell_Successor,Chilling Wind,4,3
+Veyle_Fell_Successor,Iceberg,—,4
+Veyle_Gentle_Dragon,Chilling Wind,4,3
+Veyle_Gentle_Dragon,Iceberg,—,4
+Veyle_Spring_Tranquility,Chilling Wind,4,3
+Veyle_Spring_Tranquility,Iceberg,—,4
+Vigarde_Silent_Emperor,Dragon Gaze,4,3
+Vigarde_Silent_Emperor,Dragon Fang,—,4
+Vigarde_Warmhearted_Sire,Glowing Ember,4,3
+Vigarde_Warmhearted_Sire,Ignis,—,4
+Vika_Sea-Dark_Wing,Chilling Wind,4,3
+Vika_Sea-Dark_Wing,Glacies,—,4
+Volke_Man_of_Mysteries,New Moon,4,3
+Volke_Man_of_Mysteries,Luna,—,4
+Volke_Man_of_Mysteries,Lethality,—,5
+Wrys_Kindly_Priest,Imbue,4,2
+Wrys_Kindly_Priest,Heavenly Light,5,3
+Xander_Focused_Firstborn,Glowing Ember,4,3
+Xander_Focused_Firstborn,Ignis,—,4
+Xander_Student_Swimmer,Glowing Ember,4,3
+Xander_Student_Swimmer,Bonfire,—,4
+Xane_Desert_Mirage,Miracle,4,3
+Xane_Desert_Mirage,Imbue,—,2
+Xane_Fickle_Dragon,New Moon,4,3
+Xane_Fickle_Dragon,Luna,—,4
+Yarne_Hoppy_New_Year,Night Sky,4,3
+Yarne_Hoppy_New_Year,Astra,—,4
+Yarne_Hoppy_New_Year,Galeforce,—,5
+Yarne_Trick_or_Taguel,Night Sky,4,3
+Yarne_Trick_or_Taguel,Astra,—,4
+Yarne_Trick_or_Taguel,Galeforce,—,5
+Yenfay_Blade_Legend,Night Sky,4,3
+Yenfay_Blade_Legend,Astra,—,4
+Ylgr_Breaking_the_Ice,New Moon,4,3
+Ylgr_Breaking_the_Ice,Luna,—,4
+Ymir_Seasons_of_Life,New Moon,4,3
+Ymir_Seasons_of_Life,Moonbow,—,4
+Yukimura_Puppet_Master,Chilling Wind,4,3
+Yukimura_Puppet_Master,Iceberg,—,4
+Yuliya_Princess_of_Grust,Imbue,4,2
+Yuliya_Princess_of_Grust,Still-Water Balm,5,3
+Yuliya_Princess_of_Grust,Deluge Balm,—,4
+Yunaka_Hidden_Mask,New Moon,4,3
+Yunaka_Hidden_Mask,Luna,—,4
+Yunaka_Hidden_Mask,Lethality,—,5
+Yunaka_Spirited_Envoy,New Moon,4,3
+Yunaka_Spirited_Envoy,Luna,—,4
+Yuri_Ashen_Valiant,Night Sky,4,3
+Yuri_Ashen_Valiant,Glimmer,—,4
+Zeiss_Ebon_Bolt,Dragon Gaze,4,3
+Zeiss_Ebon_Bolt,Dragon Fang,—,4
+Zeke_Past_Unknown,Glowing Ember,4,3
+Zeke_Past_Unknown,Bonfire,—,4
+Zelestia_Loving_Leader,New Moon,4,3
+Zelestia_Loving_Leader,Moonbow,—,4
+Zelgius_Ninja_Knight,New Moon,4,3
+Zelgius_Ninja_Knight,Luna,—,4
+Zelgius_Ninja_Knight,Lightless Luna,—,5
+Zelot_Avowed_Groom,Glowing Ember,4,3
+Zelot_Avowed_Groom,Ignis,—,4
+Zephia_Scheming_Dragon,Dragon Gaze,4,3
+Zephia_Scheming_Dragon,Dragon Fang,—,4
+Zephiel_Winters_Crown,Chilling Wind,4,3
+Zephiel_Winters_Crown,Glacies,—,4
+Zihark_Ninja_Blademaster,Night Sky,4,3
+Zihark_Ninja_Blademaster,Astra,—,4
+Thjazi_Ruthless_Jotun,Glowing Ember,4,3
+Thjazi_Ruthless_Jotun,Bonfire,—,4
+Thjazi_Ruthless_Jotun,Armored Blaze,—,5
+Alfonse_Prince_of_Askr,Daylight,2,2
+Alfonse_Prince_of_Askr,Sol,—,4
+Alm_Hero_of_Prophecy_Resplendent,Dragon Gaze,4,3
+Alm_Hero_of_Prophecy_Resplendent,Draconic Aura,—,4
+Alm_Imperial_Ascent_Resplendent,Dragon Gaze,4,3
+Alm_Imperial_Ascent_Resplendent,Draconic Aura,—,4
+Amelia_Rose_of_the_War_Resplendent,Holy Vestments,4,3
+Amelia_Rose_of_the_War_Resplendent,Sacred Cowl,—,4
+Athena_Borderland_Sword_Resplendent,New Moon,4,3
+Athena_Borderland_Sword_Resplendent,Moonbow,—,4
+Aversa_Dark_One_Resplendent,Dragon Gaze,4,3
+Aversa_Dark_One_Resplendent,Dragon Fang,—,4
+Ayra_Astras_Wielder_Resplendent,Night Sky,4,3
+Ayra_Astras_Wielder_Resplendent,Astra,—,4
+Ayra_Astras_Wielder_Resplendent,Regnal Astra,—,5
+Azama_Carefree_Monk_Resplendent,Imbue,4,2
+Azama_Carefree_Monk_Resplendent,Solid-Earth Balm,5,3
+Black_Knight_Sinister_General_Resplendent,New Moon,4,3
+Black_Knight_Sinister_General_Resplendent,Luna,—,4
+Black_Knight_Sinister_General_Resplendent,Black Luna,—,5
+Byleth_Proven_Professor_Resplendent,Dragon Gaze,4,3
+Byleth_Proven_Professor_Resplendent,Draconic Aura,—,4
+Byleth_Proven_Professor_Resplendent,Ruptured Sky,—,5
+Camilla_Bewitching_Beauty_Resplendent,Dragon Gaze,4,3
+Camilla_Bewitching_Beauty_Resplendent,Draconic Aura,—,4
+Catria_Middle_Whitewing_Resplendent,New Moon,4,3
+Catria_Middle_Whitewing_Resplendent,Luna,—,4
+Celica_Caring_Princess_Resplendent,Rising Light,4,3
+Celica_Caring_Princess_Resplendent,Blazing Light,—,4
+Celica_Warrior_Priestess_Resplendent,Night Sky,4,3
+Celica_Warrior_Priestess_Resplendent,Astra,—,4
+Celica_Warrior_Priestess_Resplendent,Galeforce,—,5
+Chrom_Exalted_Prince_Resplendent,Daylight,4,3
+Chrom_Exalted_Prince_Resplendent,Sol,—,4
+Chrom_Exalted_Prince_Resplendent,Aether,—,5
+Chrom_Knight_Exalt_Resplendent,New Moon,4,3
+Chrom_Knight_Exalt_Resplendent,Luna,—,4
+Chrom_Knight_Exalt_Resplendent,Aether,—,5
+Claude_The_Schemer_Resplendent,Night Sky,4,3
+Claude_The_Schemer_Resplendent,Glimmer,—,4
+Cordelia_Knight_Paragon_Resplendent,Night Sky,4,3
+Cordelia_Knight_Paragon_Resplendent,Astra,—,4
+Cordelia_Knight_Paragon_Resplendent,Galeforce,—,5
+Corrin_Fateful_Prince_Resplendent,Dragon Gaze,4,3
+Corrin_Fateful_Prince_Resplendent,Dragon Fang,—,4
+Corrin_Fateful_Princess_Resplendent,Dragon Gaze,4,3
+Corrin_Fateful_Princess_Resplendent,Draconic Aura,—,4
+Delthea_Free_Spirit_Resplendent,Miracle,4,3
+Dimitri_The_Protector_Resplendent,Retribution,4,3
+Dimitri_The_Protector_Resplendent,Vengeance,—,4
+Edelgard_The_Future_Resplendent,New Moon,4,3
+Edelgard_The_Future_Resplendent,Luna,—,4
+Eldigan_Lionheart_Resplendent,Rising Light,4,3
+Eldigan_Lionheart_Resplendent,Growing Light,—,4
+Elise_Budding_Flower_Resplendent,Imbue,4,2
+Elise_Budding_Flower_Resplendent,Kindled-Fire Balm,5,3
+Eliwood_Knight_of_Lycia_Resplendent,Holy Vestments,4,3
+Eliwood_Knight_of_Lycia_Resplendent,Sacred Cowl,—,4
+Ephraim_Restoration_Lord_Resplendent,New Moon,4,3
+Ephraim_Restoration_Lord_Resplendent,Moonbow,—,4
+Ephraim_Sacred_Twin_Lord_Resplendent,Dragon Gaze,4,3
+Ephraim_Sacred_Twin_Lord_Resplendent,Draconic Aura,—,4
+Faye_Devoted_Heart_Resplendent,Daylight,4,3
+Faye_Devoted_Heart_Resplendent,Noontime,—,4
+Fir_Sword_Student_Resplendent,Chilling Wind,4,3
+Fir_Sword_Student_Resplendent,Glacies,—,4
+Flora_Cold_as_Ice_Resplendent,Chilling Wind,4,3
+Flora_Cold_as_Ice_Resplendent,Iceberg,—,4
+Hector_Brave_Warrior_Resplendent,Glowing Ember,4,3
+Hector_Brave_Warrior_Resplendent,Ignis,—,4
+Hector_General_of_Ostia_Resplendent,Buckler,4,3
+Hector_General_of_Ostia_Resplendent,Pavise,—,4
+Henry_Twisted_Mind_Resplendent,Glowing Ember,4,3
+Henry_Twisted_Mind_Resplendent,Ignis,—,4
+Hinoka_Warrior_Princess_Resplendent,Rising Wind,4,3
+Hinoka_Warrior_Princess_Resplendent,Blazing Wind,—,4
+Ike_Brave_Mercenary_Resplendent,New Moon,4,3
+Ike_Brave_Mercenary_Resplendent,Luna,—,4
+Ike_Brave_Mercenary_Resplendent,Aether,—,5
+Ike_Young_Mercenary_Resplendent,New Moon,4,3
+Ike_Young_Mercenary_Resplendent,Luna,—,4
+Ike_Young_Mercenary_Resplendent,Aether,—,5
+Ilyana_Hungering_Mage_Resplendent,Chilling Wind,4,3
+Ilyana_Hungering_Mage_Resplendent,Iceberg,—,4
+Innes_Regal_Strategician_Resplendent,Chilling Wind,4,3
+Innes_Regal_Strategician_Resplendent,Iceberg,—,4
+Ishtar_Thunder_Goddess_Resplendent,New Moon,4,3
+Ishtar_Thunder_Goddess_Resplendent,Moonbow,—,4
+Jaffar_Angel_of_Death_Resplendent,Night Sky,4,3
+Jaffar_Angel_of_Death_Resplendent,Glimmer,—,4
+Jeorge_Perfect_Shot_Resplendent,Rising Flame,4,3
+Jeorge_Perfect_Shot_Resplendent,Blazing Flame,—,4
+Julia_Nagas_Blood_Resplendent,Dragon Gaze,4,3
+Julia_Nagas_Blood_Resplendent,Dragon Fang,—,4
+Kagero_Honorable_Ninja_Resplendent,Retribution,4,3
+Kagero_Honorable_Ninja_Resplendent,Reprisal,—,4
+Karla_Sword_Vassal_Resplendent,Dragon Gaze,4,3
+Karla_Sword_Vassal_Resplendent,Draconic Aura,—,4
+LArachel_Princess_of_Light_Resplendent,Rising Light,4,3
+LArachel_Princess_of_Light_Resplendent,Growing Light,—,4
+Lachesis_Lionhearts_Sister_Resplendent,Imbue,4,2
+Lachesis_Lionhearts_Sister_Resplendent,Solid-Earth Balm,5,3
+Laegjarn_Sheathed_Steel_Resplendent,Glowing Ember,4,3
+Laegjarn_Sheathed_Steel_Resplendent,Bonfire,—,4
+Leif_Prince_of_Leonster_Resplendent,Rising Light,4,3
+Leif_Prince_of_Leonster_Resplendent,Blazing Light,—,4
+Lilina_Delightful_Noble_Resplendent,Rising Flame,4,3
+Lilina_Delightful_Noble_Resplendent,Growing Flame,—,4
+Lonqu_Solitary_Blade_Resplendent,Night Sky,4,3
+Lonqu_Solitary_Blade_Resplendent,Glimmer,—,4
+Lucina_Brave_Princess_Resplendent,Daylight,4,3
+Lucina_Brave_Princess_Resplendent,Sol,—,4
+Lucina_Brave_Princess_Resplendent,Aether,—,5
+Lucina_Future_Witness_Resplendent,New Moon,4,3
+Lucina_Future_Witness_Resplendent,Luna,—,4
+Lucina_Future_Witness_Resplendent,Aether,—,5
+Lucius_The_Light_Resplendent,Imbue,4,2
+Lucius_The_Light_Resplendent,Miracle,5,3
+Lukas_Sharp_Soldier_Resplendent,Holy Vestments,4,3
+Lukas_Sharp_Soldier_Resplendent,Sacred Cowl,—,4
+Lyn_Brave_Lady_Resplendent,Dragon Gaze,4,3
+Lyn_Brave_Lady_Resplendent,Draconic Aura,—,4
+Lyn_Lady_of_the_Plains_Resplendent,Night Sky,4,3
+Lyn_Lady_of_the_Plains_Resplendent,Astra,—,4
+Lyn_Lady_of_the_Plains_Resplendent,Galeforce,—,5
+Lyon_Shadow_Prince_Resplendent,Retribution,4,3
+Lyon_Shadow_Prince_Resplendent,Vengeance,—,4
+Marth_Hero-King_Resplendent,Dragon Gaze,4,3
+Marth_Hero-King_Resplendent,Draconic Aura,—,4
+Marth_Hero-King_Resplendent,Fire Emblem,—,5
+Marth_Hero-King_Resplendent,Shining Emblem,—,5
+Merric_Wind_Mage_Resplendent,Rising Wind,4,3
+Merric_Wind_Mage_Resplendent,Growing Wind,—,4
+Mia_Lady_of_Blades_Resplendent,New Moon,4,3
+Mia_Lady_of_Blades_Resplendent,Luna,—,4
+Minerva_Red_Dragoon_Resplendent,Holy Vestments,4,3
+Minerva_Red_Dragoon_Resplendent,Sacred Cowl,—,4
+Morgan_Lad_from_Afar_Resplendent,Dragon Gaze,4,3
+Morgan_Lad_from_Afar_Resplendent,Dragon Fang,—,4
+Morgan_Lass_from_Afar_Resplendent,Chilling Wind,4,3
+Morgan_Lass_from_Afar_Resplendent,Iceberg,—,4
+Narcian_Wyvern_General_Resplendent,Retribution,4,3
+Narcian_Wyvern_General_Resplendent,Vengeance,—,4
+Nephenee_Fierce_Halberdier_Resplendent,New Moon,4,3
+Nephenee_Fierce_Halberdier_Resplendent,Moonbow,—,4
+Niles_Cruel_to_Be_Kind_Resplendent,Chilling Wind,4,3
+Niles_Cruel_to_Be_Kind_Resplendent,Iceberg,—,4
+Nina_Eye_Spy_Resplendent,New Moon,4,3
+Nina_Eye_Spy_Resplendent,Moonbow,—,4
+Nino_Pale_Flower_Resplendent,New Moon,4,3
+Nino_Pale_Flower_Resplendent,Moonbow,—,4
+Odin_Potent_Force_Resplendent,New Moon,4,3
+Odin_Potent_Force_Resplendent,Moonbow,—,4
+Ophelia_Dramatic_Heroine_Resplendent,Rising Light,4,3
+Ophelia_Dramatic_Heroine_Resplendent,Blazing Light,—,4
+Palla_Eldest_Whitewing_Resplendent,New Moon,4,3
+Palla_Eldest_Whitewing_Resplendent,Moonbow,—,4
+Quan_Luminous_Lancer_Resplendent,Dragon Gaze,4,3
+Quan_Luminous_Lancer_Resplendent,Draconic Aura,—,4
+Raven_Peerless_Fighter_Resplendent,Daylight,4,3
+Raven_Peerless_Fighter_Resplendent,Sol,—,4
+Reinhardt_Thunders_Fist_Resplendent,Rising Thunder,4,3
+Reinhardt_Thunders_Fist_Resplendent,Blazing Thunder,—,4
+Robin_Fell_Reincarnation_Resplendent,Glowing Ember,4,3
+Robin_Fell_Reincarnation_Resplendent,Ignis,—,4
+Robin_High_Deliverer_Resplendent,Glowing Ember,4,3
+Robin_High_Deliverer_Resplendent,Bonfire,—,4
+Robin_Mystery_Tactician_Resplendent,Glowing Ember,4,3
+Robin_Mystery_Tactician_Resplendent,Ignis,—,4
+Roy_Brave_Lion_Resplendent,Night Sky,4,3
+Roy_Brave_Lion_Resplendent,Astra,—,4
+Roy_Brave_Lion_Resplendent,Galeforce,—,5
+Ryoma_Peerless_Samurai_Resplendent,Night Sky,4,3
+Ryoma_Peerless_Samurai_Resplendent,Astra,—,4
+Saber_Driven_Mercenary_Resplendent,Holy Vestments,4,3
+Saber_Driven_Mercenary_Resplendent,Aegis,—,4
+Serra_Outspoken_Cleric_Resplendent,Imbue,4,2
+Serra_Outspoken_Cleric_Resplendent,Swift-Winds Balm,5,3
+Shanna_Sprightly_Flier_Resplendent,Chilling Wind,4,3
+Shanna_Sprightly_Flier_Resplendent,Iceberg,—,4
+Sheena_Princess_of_Gra_Resplendent,Buckler,4,3
+Sheena_Princess_of_Gra_Resplendent,Escutcheon,—,4
+Shigure_Uplifting_Artist_Resplendent,Daylight,4,3
+Shigure_Uplifting_Artist_Resplendent,Noontime,—,4
+Sigurd_Holy_Knight_Resplendent,Miracle,4,3
+Soleil_Adorable_Adorer_Resplendent,Rising Wind,4,3
+Soleil_Adorable_Adorer_Resplendent,Blazing Wind,—,4
+Sonya_Vengeful_Mage_Resplendent,New Moon,4,3
+Sonya_Vengeful_Mage_Resplendent,Moonbow,—,4
+Sophia_Nabata_Prophet_Resplendent,Dragon Gaze,4,3
+Sophia_Nabata_Prophet_Resplendent,Dragon Fang,—,4
+Soren_Shrewd_Strategist_Resplendent,Rising Wind,4,3
+Soren_Shrewd_Strategist_Resplendent,Growing Wind,—,4
+Sothe_Zephyr_Resplendent,Night Sky,4,3
+Sothe_Zephyr_Resplendent,Glimmer,—,4
+Surtr_Ruler_of_Flame_Resplendent,Glowing Ember,4,3
+Surtr_Ruler_of_Flame_Resplendent,Bonfire,—,4
+Takumi_Wild_Card_Resplendent,Retribution,4,3
+Takumi_Wild_Card_Resplendent,Vengeance,—,4
+Tana_Winged_Princess_Resplendent,New Moon,4,3
+Tana_Winged_Princess_Resplendent,Moonbow,—,4
+Tharja_Dark_Shadow_Resplendent,Retribution,4,3
+Tharja_Dark_Shadow_Resplendent,Vengeance,—,4
+Tiki_Dragon_Scion_Resplendent,Rising Flame,4,3
+Tiki_Dragon_Scion_Resplendent,Growing Flame,—,4
+Tiki_Nagas_Voice_Resplendent,Glowing Ember,4,3
+Tiki_Nagas_Voice_Resplendent,Bonfire,—,4
+Ursula_Blue_Crow_Resplendent,Rising Thunder,4,3
+Ursula_Blue_Crow_Resplendent,Growing Thunder,—,4
+Veronica_Brave_Princess_Resplendent,Imbue,4,2
+Veronica_Brave_Princess_Resplendent,Kindled-Fire Balm,5,3
+Veronica_Brave_Princess_Resplendent,Windfire Balm,—,4
+Veronica_Brave_Princess_Resplendent,Windfire Balm+,—,5
+Marth_Enigmatic_Blade,New Moon,4,3
+Marth_Enigmatic_Blade,Luna,—,4
+Marth_Enigmatic_Blade,Aether,—,5
+Annand_Knight-Defender,New Moon,4,3
+Annand_Knight-Defender,Moonbow,—,4
+Fiora_Airborne_Warrior,Chilling Wind,4,3
+Fiora_Airborne_Warrior,Iceberg,—,4
+Black_Knight_Sinister_General,New Moon,4,3
+Black_Knight_Sinister_General,Luna,—,4
+Black_Knight_Sinister_General,Black Luna,—,5
+Zelgius_Jet-Black_General,New Moon,4,3
+Zelgius_Jet-Black_General,Luna,—,4
+Zelgius_Jet-Black_General,Black Luna,—,5
+Sayri_Chonsins_Blade,Chilling Wind,4,3
+Sayri_Chonsins_Blade,Iceberg,—,4
+Arden_Strong_and_Tough,Buckler,4,3
+Arden_Strong_and_Tough,Pavise,—,4
+Dimitri_Savior_King,Rising Wind,4,3
+Dimitri_Savior_King,Blazing Wind,—,4
+Klein_Silver_Nobleman,Chilling Wind,4,3
+Klein_Silver_Nobleman,Glacies,—,4
+Kronya_Gleaming_Blade,New Moon,4,3
+Kronya_Gleaming_Blade,Luna,—,4
+Joshua_Tempest_King,New Moon,4,3
+Joshua_Tempest_King,Moonbow,—,4
+Guinivere_Princess_of_Bern,Chilling Wind,4,3
+Guinivere_Princess_of_Bern,Iceberg,—,4
+Seiros_Saint_of_Legend,Chilling Wind,4,3
+Seiros_Saint_of_Legend,Glacies,—,4
+Aversa_Dark_One,Dragon Gaze,4,3
+Aversa_Dark_One,Dragon Fang,—,4
+Morgan_Devoted_Darkness,Night Sky,4,3
+Morgan_Devoted_Darkness,Glimmer,—,4
+Edelgard_Flame_Emperor,Glowing Ember,4,3
+Edelgard_Flame_Emperor,Bonfire,—,4
+Ayra_Astras_Wielder,Night Sky,4,3
+Ayra_Astras_Wielder,Astra,—,4
+Ayra_Astras_Wielder,Regnal Astra,—,5
+Shigure_Uplifting_Artist,Daylight,4,3
+Shigure_Uplifting_Artist,Noontime,—,4
+Shannan_Wielder_of_Astra,Night Sky,4,3
+Shannan_Wielder_of_Astra,Astra,—,4
+Shannan_Wielder_of_Astra,Imperial Astra,—,5
+Solon_Church_Shadow,Chilling Wind,4,3
+Solon_Church_Shadow,Glacies,—,4
+Linus_Mad_Dog,New Moon,4,3
+Linus_Mad_Dog,Luna,—,4
+Raven_Peerless_Fighter,Daylight,4,3
+Raven_Peerless_Fighter,Sol,—,4
+Celica_Imprisoned_Soul,New Moon,4,3
+Celica_Imprisoned_Soul,Luna,—,4
+Orson_Passions_Folly,Glowing Ember,4,3
+Orson_Passions_Folly,Ignis,—,4
+Hector_Just_Here_to_Fight,Night Sky,4,3
+Hector_Just_Here_to_Fight,Glimmer,—,4
+Beruka_Quiet_Assassin,Night Sky,4,3
+Beruka_Quiet_Assassin,Glimmer,—,4
+Eirika_Pledged_Restorer,New Moon,4,3
+Eirika_Pledged_Restorer,Luna,—,4
+Kris_Unknown_Hero,Daylight,4,3
+Kris_Unknown_Hero,Noontime,—,4
+Roy_Brave_Lion,Night Sky,4,3
+Roy_Brave_Lion,Astra,—,4
+Roy_Brave_Lion,Galeforce,—,5
+Gunnthra_Voice_of_Dreams,Chilling Wind,4,3
+Gunnthra_Voice_of_Dreams,Glacies,—,4
+Lyon_Demon_King,Daylight,4,3
+Lyon_Demon_King,Sol,—,4
+Ursula_Blue_Crow,Rising Thunder,4,3
+Ursula_Blue_Crow,Growing Thunder,—,4
+Leon_True_of_Heart,Glowing Ember,4,3
+Leon_True_of_Heart,Ignis,—,4
+Faye_Devoted_Heart,Daylight,4,3
+Faye_Devoted_Heart,Noontime,—,4
+Innes_Frelian_Moonlight,Night Sky,4,3
+Innes_Frelian_Moonlight,Glimmer,—,4
+Jamke_Prince_of_Verdane,Night Sky,4,3
+Jamke_Prince_of_Verdane,Astra,—,4
+Lethe_Gallias_Valkyrie,New Moon,4,3
+Lethe_Gallias_Valkyrie,Moonbow,—,4
+Garon_King_of_Nohr,Dragon Gaze,4,3
+Garon_King_of_Nohr,Dragon Fang,—,4
+Tiki_Dragon_Scion,Rising Flame,4,3
+Tiki_Dragon_Scion,Growing Flame,—,4
+Tiki_Nagas_Voice,Glowing Ember,4,3
+Tiki_Nagas_Voice,Bonfire,—,4
+Nailah_Blessed_Queen,New Moon,4,3
+Nailah_Blessed_Queen,Moonbow,—,4
+Marth_Legacied_Hero,Dragon Gaze,4,3
+Marth_Legacied_Hero,Draconic Aura,—,4
+Marth_Legacied_Hero,Hero's Blood,—,5
+Corrin_Bloodbound_Beast,Night Sky,4,3
+Corrin_Bloodbound_Beast,Glimmer,—,4
+Leo_Sorcerous_Prince,Rising Light,4,3
+Leo_Sorcerous_Prince,Blazing Light,—,4
+Cain_The_Bull,Buckler,4,3
+Cain_The_Bull,Escutcheon,—,4
+Yarne_Timid_Taguel,Night Sky,4,3
+Yarne_Timid_Taguel,Astra,—,4
+Yarne_Timid_Taguel,Galeforce,—,5
+Helbindi_Savage_Scourge,Retribution,4,3
+Helbindi_Savage_Scourge,Vengeance,—,4
+Flayn_Playing_Innocent,Imbue,4,2
+Flayn_Playing_Innocent,Still-Water Balm,5,3
+Flayn_Playing_Innocent,Deluge Balm,—,4
+Flayn_Playing_Innocent,Deluge Balm+,—,5
+Camilla_Bewitching_Beauty,Dragon Gaze,4,3
+Camilla_Bewitching_Beauty,Draconic Aura,—,4
+Aelfric_Custodian_Monk,Chilling Wind,4,3
+Aelfric_Custodian_Monk,Glacies,—,4
+Yune_Chaos_Goddess,Chilling Wind,4,3
+Yune_Chaos_Goddess,Glacies,—,4
+Ike_Zeal_Unleashed,New Moon,4,3
+Ike_Zeal_Unleashed,Luna,—,4
+Ike_Zeal_Unleashed,Mayhem Aether,—,5
+Athena_Borderland_Sword,New Moon,4,3
+Athena_Borderland_Sword,Moonbow,—,4
+Hector_Dressed-Up_Duo,Glowing Ember,4,3
+Hector_Dressed-Up_Duo,Bonfire,—,4
+Cordelia_Knight_Paragon,Night Sky,4,3
+Cordelia_Knight_Paragon,Astra,—,4
+Cordelia_Knight_Paragon,Galeforce,—,5
+Henry_Twisted_Mind,Glowing Ember,4,3
+Henry_Twisted_Mind,Ignis,—,4
+Ilyana_Hungering_Mage,Chilling Wind,4,3
+Ilyana_Hungering_Mage,Iceberg,—,4
+Byleth_Proven_Professor,Dragon Gaze,4,3
+Byleth_Proven_Professor,Draconic Aura,—,4
+Byleth_Proven_Professor,Ruptured Sky,—,5
+Byleth_Tested_Professor,Dragon Gaze,4,3
+Byleth_Tested_Professor,Draconic Aura,—,4
+Byleth_Tested_Professor,Ruptured Sky,—,5
+Sheena_Princess_of_Gra,Buckler,4,3
+Sheena_Princess_of_Gra,Escutcheon,—,4
+Melady_Crimson_Rider,Glowing Ember,4,3
+Melady_Crimson_Rider,Bonfire,—,4
+Claude_The_Schemer,Night Sky,4,3
+Claude_The_Schemer,Glimmer,—,4
+Valter_Dark_Moonstone,New Moon,4,3
+Valter_Dark_Moonstone,Luna,—,4
+Jorge_Traveling_Peddler,Glowing Ember,4,3
+Jorge_Traveling_Peddler,Ignis,—,4
+Delthea_Free_Spirit,Miracle,4,3
+Nemesis_King_of_Liberation,Dragon Gaze,4,3
+Nemesis_King_of_Liberation,Dragon Fang,—,4
+Sonya_Vengeful_Mage,New Moon,4,3
+Sonya_Vengeful_Mage,Moonbow,—,4
+Siegbert_Future_King,Dragon Gaze,4,3
+Siegbert_Future_King,Dragon Fang,—,4
+Knoll_Darkness_Watcher,New Moon,4,3
+Knoll_Darkness_Watcher,Luna,—,4
+Ares_Black_Knight,Dragon Gaze,4,3
+Ares_Black_Knight,Draconic Aura,—,4
+Berkut_Prideful_Prince,Rising Flame,4,3
+Berkut_Prideful_Prince,Blazing Flame,—,4
+Julia_Heart_Usurped,Chilling Wind,4,3
+Julia_Heart_Usurped,Iceberg,—,4
+Lysithea_Earnest_Seeker,New Moon,4,3
+Lysithea_Earnest_Seeker,Moonbow,—,4
+Nephenee_Fierce_Halberdier,New Moon,4,3
+Nephenee_Fierce_Halberdier,Moonbow,—,4
+Lukas_Sharp_Soldier,Holy Vestments,4,3
+Lukas_Sharp_Soldier,Sacred Cowl,—,4
+Fae_Childlike_Dragon,Miracle,4,3
+Fae_Childlike_Dragon,Life Unending,—,5
+Fae_Childlike_Dragon,Life Unending II,—,5
+Delthea_Tatarrahs_Puppet,Chilling Wind,4,3
+Delthea_Tatarrahs_Puppet,Glacies,—,4
+Jaffar_Angel_of_Death,Night Sky,4,3
+Jaffar_Angel_of_Death,Glimmer,—,4
+Idunn_Dark_Priestess,Glowing Ember,4,3
+Idunn_Dark_Priestess,Bonfire,—,4
+Gerik_Desert_Tiger,New Moon,4,3
+Gerik_Desert_Tiger,Moonbow,—,4
+Virion_Elite_Archer,Night Sky,4,3
+Virion_Elite_Archer,Astra,—,4
+Naga_Dragon_Divinity,New Moon,4,3
+Naga_Dragon_Divinity,Luna,—,4
+Tiki_Legendary_Dragon,New Moon,4,3
+Tiki_Legendary_Dragon,Moonbow,—,4
+Sigurd_Holy_Knight,Miracle,4,3
+Mikoto_Caring_Mother,Imbue,4,2
+Mikoto_Caring_Mother,Miracle,5,3
+Shinon_Scathing_Archer,Night Sky,4,3
+Shinon_Scathing_Archer,Glimmer,—,4
+Shinon_Scathing_Archer,Deadeye,—,5
+Alm_Imperial_Ascent,Dragon Gaze,4,3
+Alm_Imperial_Ascent,Draconic Aura,—,4
+Corrin_Dream_Prince,Dragon Gaze,4,3
+Corrin_Dream_Prince,Draconic Aura,—,4
+Corrin_Dream_Princess,Dragon Gaze,4,3
+Corrin_Dream_Princess,Dragon Fang,—,4
+Roy_Blazing_Lion,Dragon Gaze,4,3
+Roy_Blazing_Lion,Dragon Fang,—,4
+Minerva_Princess-Knight,Dragon Gaze,4,3
+Minerva_Princess-Knight,Draconic Aura,—,4
+Eliwood_Knight_of_Lycia,Holy Vestments,4,3
+Eliwood_Knight_of_Lycia,Sacred Cowl,—,4
+Kana_Dragon_Spawn,Dragon Gaze,4,3
+Kana_Dragon_Spawn,Dragon Fang,—,4
+Est_Springtime_Flier,New Moon,4,3
+Est_Springtime_Flier,Moonbow,—,4
+Altena_Luminous_Rider,Retribution,4,3
+Altena_Luminous_Rider,Reprisal,—,4
+Xander_Gallant_King,New Moon,4,3
+Xander_Gallant_King,Luna,—,4
+Zephiel_The_Liberator,Retribution,4,3
+Zephiel_The_Liberator,Reprisal,—,4
+Felicia_Off_the_Menu,Chilling Wind,4,3
+Felicia_Off_the_Menu,Glacies,—,4
+Mist_Helpful_Sister,Imbue,4,2
+Mist_Helpful_Sister,Miracle,5,3
+Elise_Budding_Flower,Imbue,4,2
+Elise_Budding_Flower,Kindled-Fire Balm,5,3
+Embla_God_of_Closure,Dragon Gaze,4,3
+Embla_God_of_Closure,Draconic Aura,—,4
+Sophia_Nabata_Prophet,Dragon Gaze,4,3
+Sophia_Nabata_Prophet,Dragon Fang,—,4
+Nagi_Dragon_Avatar,Daylight,4,3
+Nagi_Dragon_Avatar,Sol,—,4
+Marth_Hero-King,Dragon Gaze,4,3
+Marth_Hero-King,Draconic Aura,—,4
+Marth_Hero-King,Fire Emblem,—,5
+Marth_Hero-King,Shining Emblem,—,5
+Merric_Wind_Mage,Rising Wind,4,3
+Merric_Wind_Mage,Growing Wind,—,4
+Robin_Fell_Reincarnation,Glowing Ember,4,3
+Robin_Fell_Reincarnation,Bonfire,—,4
+Robin_Fell_Vessel,Glowing Ember,4,3
+Robin_Fell_Vessel,Ignis,—,4
+Claude_King_of_Unification,New Moon,4,3
+Claude_King_of_Unification,Luna,—,4
+Chrom_Exalted_Prince,New Moon,4,3
+Chrom_Exalted_Prince,Luna,—,4
+Chrom_Exalted_Prince,Aether,—,5
+Lucina_Future_Witness,Daylight,4,3
+Lucina_Future_Witness,Sol,—,4
+Lucina_Future_Witness,Aether,—,5
+Alm_Hero_of_Prophecy,Dragon Gaze,4,3
+Alm_Hero_of_Prophecy,Draconic Aura,—,4
+Morgan_Lass_from_Afar,Chilling Wind,4,3
+Morgan_Lass_from_Afar,Iceberg,—,4
+Caeda_Princess_of_Talys,New Moon,4,3
+Caeda_Princess_of_Talys,Moonbow,—,4
+Felicia_Maid_Mayhem,Chilling Wind,4,3
+Felicia_Maid_Mayhem,Glacies,—,4
+Duma_God_of_Strength,Dragon Gaze,4,3
+Duma_God_of_Strength,Draconic Aura,—,4
+Katarina_Torchlit_Wanderer,New Moon,4,3
+Katarina_Torchlit_Wanderer,Luna,—,4
+Ephraim_Sparkling_Gallantly,Dragon Gaze,4,3
+Ephraim_Sparkling_Gallantly,Dragon Fang,—,4
+Sonia_Inhuman_Beauty,Chilling Wind,4,3
+Sonia_Inhuman_Beauty,Glacies,—,4
+Brunnya_Devoted_General,Chilling Wind,4,3
+Brunnya_Devoted_General,Glacies,—,4
+Flame_Emperor_Bringer_of_War,Glowing Ember,4,3
+Flame_Emperor_Bringer_of_War,Ignis,—,4
+Petrine_Icy_Flame-Lancer,Glowing Ember,4,3
+Petrine_Icy_Flame-Lancer,Ignis,—,4
+Ephraim_Legendary_Lord,Daylight,4,3
+Ephraim_Legendary_Lord,Sol,—,4
+Edelgard_Adrestian_Emperor,Daylight,4,3
+Edelgard_Adrestian_Emperor,Noontime,—,4
+Near_and_Dear,Daylight,2,2
+Near_and_Dear,Sol,—,4
+Lilina_Delightful_Noble,Rising Flame,4,3
+Lilina_Delightful_Noble,Growing Flame,—,4
+Lewyn_Guiding_Breeze,Night Sky,4,3
+Lewyn_Guiding_Breeze,Glimmer,—,4
+Selkie_Free_Spirit,Chilling Wind,4,3
+Selkie_Free_Spirit,Iceberg,—,4
+Frederick_Polite_Knight,New Moon,4,3
+Frederick_Polite_Knight,Luna,—,4
+Eyvel_Mistress_of_Fiana,Glowing Ember,4,3
+Eyvel_Mistress_of_Fiana,Ignis,—,4
+Hilda_Idle_Maiden,New Moon,4,3
+Hilda_Idle_Maiden,Moonbow,—,4
+Takumi_Wild_Card,Retribution,4,3
+Takumi_Wild_Card,Vengeance,—,4
+Quan_Luminous_Lancer,Dragon Gaze,4,3
+Quan_Luminous_Lancer,Draconic Aura,—,4
+Ephraim_Sacred_Twin_Lord,Dragon Gaze,4,3
+Ephraim_Sacred_Twin_Lord,Draconic Aura,—,4
+Veronica_Harmonic_Pirates,Glowing Ember,4,3
+Veronica_Harmonic_Pirates,Bonfire,—,4
+Lucina_Brave_Princess,Daylight,4,3
+Lucina_Brave_Princess,Sol,—,4
+Lucina_Brave_Princess,Aether,—,5
+Erk_Studious_Mage,New Moon,4,3
+Erk_Studious_Mage,Moonbow,—,4
+Marth_Prince_of_Light,Dragon Gaze,4,3
+Marth_Prince_of_Light,Draconic Aura,—,4
+Marth_Prince_of_Light,Shining Emblem,—,5
+Nino_Pale_Flower,New Moon,4,3
+Nino_Pale_Flower,Moonbow,—,4
+Nyx_Rulebreaker_Mage,New Moon,4,3
+Nyx_Rulebreaker_Mage,Luna,—,4
+Hrid_Icy_Blade,New Moon,4,3
+Hrid_Icy_Blade,Moonbow,—,4
+Ogma_Loyal_Blade,Daylight,4,3
+Ogma_Loyal_Blade,Noontime,—,4
+Corrin_Fateful_Princess,Dragon Gaze,4,3
+Corrin_Fateful_Princess,Draconic Aura,—,4
+Myrrh_Guardian_Dragon,Glowing Ember,4,3
+Myrrh_Guardian_Dragon,Bonfire,—,4
+Saber_Driven_Mercenary,Holy Vestments,4,3
+Saber_Driven_Mercenary,Aegis,—,4
+Camus_Sable_Knight,Rising Thunder,4,3
+Camus_Sable_Knight,Growing Thunder,—,4
+Hardin_Dark_Emperor,Retribution,4,3
+Hardin_Dark_Emperor,Vengeance,—,4
+Amelia_Rose_of_the_War,Holy Vestments,4,3
+Amelia_Rose_of_the_War,Sacred Cowl,—,4
+Asbel_Windswept_Youth,New Moon,4,3
+Asbel_Windswept_Youth,Moonbow,—,4
+Myrrh_Great_Dragon,Glowing Ember,4,3
+Myrrh_Great_Dragon,Bonfire,—,4
+Eitri_Youthful_Sage,Dragon Gaze,4,3
+Eitri_Youthful_Sage,Dragon Fang,—,4
+Morgan_Lad_from_Afar,Dragon Gaze,4,3
+Morgan_Lad_from_Afar,Dragon Fang,—,4
+Lethe_New_Years_Claw,Night Sky,4,3
+Lethe_New_Years_Claw,Glimmer,—,4
+Hawkeye_Desert_Guardian,Rising Light,4,3
+Hawkeye_Desert_Guardian,Growing Light,—,4
+Igrene_Nabata_Protector,Rising Wind,4,3
+Igrene_Nabata_Protector,Blazing Wind,—,4
+Ashnard_Mad_King,Dragon Gaze,4,3
+Ashnard_Mad_King,Dragon Fang,—,4
+Lysithea_Child_Prodigy,New Moon,4,3
+Lysithea_Child_Prodigy,Moonbow,—,4
+Sigurd_Fated_Holy_Knight,Dragon Gaze,4,3
+Sigurd_Fated_Holy_Knight,Draconic Aura,—,4
+Sigurd_Fated_Holy_Knight,Holy-Knight Aura,—,5
+Sigurd_Fated_Holy_Knight,Holy-Knight II,—,5
+Michalis_Ambitious_King,Rising Thunder,4,3
+Michalis_Ambitious_King,Blazing Thunder,—,4
+Minerva_Red_Dragoon,Holy Vestments,4,3
+Minerva_Red_Dragoon,Sacred Cowl,—,4
+Tibarn_Lord_of_the_Air,Dragon Gaze,4,3
+Tibarn_Lord_of_the_Air,Draconic Aura,—,4
+Kjelle_Fair_Fighter,Dragon Gaze,4,3
+Kjelle_Fair_Fighter,Draconic Aura,—,4
+Dithorba_Cutting_Knight,Chilling Wind,4,3
+Dithorba_Cutting_Knight,Glacies,—,4
+Gunnthra_Years_First_Dream,Night Sky,4,3
+Gunnthra_Years_First_Dream,Glimmer,—,4
+Hinata_Wild_Samurai,Buckler,4,3
+Hinata_Wild_Samurai,Pavise,—,4
+Hinoka_Warrior_Princess,Rising Wind,4,3
+Hinoka_Warrior_Princess,Blazing Wind,—,4
+Veronica_Brave_Princess,Imbue,4,2
+Veronica_Brave_Princess,Kindled-Fire Balm,5,3
+Veronica_Brave_Princess,Windfire Balm,—,4
+Veronica_Brave_Princess,Windfire Balm+,—,5
+Flora_Cold_as_Ice,Chilling Wind,4,3
+Flora_Cold_as_Ice,Iceberg,—,4
+Ullr_The_Bowmaster,Night Sky,4,3
+Ullr_The_Bowmaster,Glimmer,—,4
+Ullr_The_Bowmaster,Deadeye,—,5
+Seliph_Enduring_Legacy,New Moon,4,3
+Seliph_Enduring_Legacy,Luna,—,4
+Ash_Retainer_to_Askr,Glowing Ember,4,3
+Ash_Retainer_to_Askr,Bonfire,—,4
+Sedgar_Coyotes_Dutiful,Rising Wind,4,3
+Sedgar_Coyotes_Dutiful,Blazing Wind,—,4
+Nott_Moons_Elegance,Dragon Gaze,4,3
+Nott_Moons_Elegance,Dragon Fang,—,4
+Bernadetta_Frosty_Shut-In,New Moon,4,3
+Bernadetta_Frosty_Shut-In,Moonbow,—,4
+Petra_Princess_of_Brigid,New Moon,4,3
+Petra_Princess_of_Brigid,Luna,—,4
+Legault_The_Hurricane,Night Sky,4,3
+Legault_The_Hurricane,Glimmer,—,4
+Heath_Wandering_Knight,Dragon Gaze,4,3
+Heath_Wandering_Knight,Dragon Fang,—,4
+Iago_Nohrs_Tactician,Rising Wind,4,3
+Iago_Nohrs_Tactician,Blazing Wind,—,4
+Marianne_Adopted_Daughter,Chilling Wind,4,3
+Marianne_Adopted_Daughter,Iceberg,—,4
+Thea_Stormy_Flier,Glowing Ember,4,3
+Thea_Stormy_Flier,Ignis,—,4
+Thrasir_Omnicidal_Witch,New Moon,4,3
+Thrasir_Omnicidal_Witch,Moonbow,—,4
+Alfonse_Askran_Duo,Glowing Ember,4,3
+Alfonse_Askran_Duo,Bonfire,—,4
+Alfonse_Askran_Duo,Open the Future,—,5
+Gharnef_Dark_Pontifex,Glowing Ember,4,3
+Gharnef_Dark_Pontifex,Ignis,—,4
+Byleth_Sublime_Light,Dragon Gaze,4,3
+Byleth_Sublime_Light,Draconic Aura,—,4
+Byleth_Sublime_Light,Divine Pulse,—,5
+Boey_Skillful_Survivor,Glowing Ember,4,3
+Boey_Skillful_Survivor,Ignis,—,4
+Libra_Fetching_Friar,Daylight,4,3
+Libra_Fetching_Friar,Noontime,—,4
+LArachel_Princess_of_Light,Rising Light,4,3
+LArachel_Princess_of_Light,Growing Light,—,4
+Kagero_Honorable_Ninja,Retribution,4,3
+Kagero_Honorable_Ninja,Reprisal,—,4
+Kaze_Easygoing_Ninja,Chilling Wind,4,3
+Kaze_Easygoing_Ninja,Iceberg,—,4
+Berkut_Purgatorial_Prince,Retribution,4,3
+Berkut_Purgatorial_Prince,Reprisal,—,4
+Nanna_Beloved_Princess,Miracle,4,3
+Larcei_Keen_Kin,Night Sky,4,3
+Larcei_Keen_Kin,Astra,—,4
+Larcei_Keen_Kin,Regnal Astra,—,5
+Laslow_Dancing_Duelist,Daylight,4,3
+Laslow_Dancing_Duelist,Noontime,—,4
+Fjorm_Princess_of_Ice,Holy Vestments,4,3
+Fjorm_Princess_of_Ice,Sacred Cowl,—,4
+Fjorm_Princess_of_Ice,Ice Mirror,—,5
+Fjorm_Princess_of_Ice,Ice Mirror II,—,5
+Gangrel_Plegias_Mad_King,Chilling Wind,4,3
+Gangrel_Plegias_Mad_King,Glacies,—,4
+Leif_Prince_of_Leonster,Rising Light,4,3
+Leif_Prince_of_Leonster,Blazing Light,—,4
+Caineghis_Gallias_Lion_King,Glowing Ember,4,3
+Caineghis_Gallias_Lion_King,Bonfire,—,4
+Julius_Scion_of_Darkness,Dragon Gaze,4,3
+Julius_Scion_of_Darkness,Draconic Aura,—,4
+Clive_Idealistic_Knight,Buckler,4,3
+Clive_Idealistic_Knight,Escutcheon,—,4
+Finn_Lance_of_Legend,Miracle,4,3
+Ingrid_Galateas_Heir,New Moon,4,3
+Ingrid_Galateas_Heir,Moonbow,—,4
+Alm_Saint-King,New Moon,4,3
+Alm_Saint-King,Moonbow,—,4
+Alm_Saint-King,Lunar Flash,—,5
+Alm_Saint-King,Lunar Flash II,—,5
+Eir_Merciful_Death,Chilling Wind,4,3
+Eir_Merciful_Death,Iceberg,—,4
+Reginn_Bearing_Hope,Glowing Ember,4,3
+Reginn_Bearing_Hope,Ignis,—,4
+Reginn_Bearing_Hope,Seiðr Shell,—,5
+Reginn_Bearing_Hope,Seiðr Shell+,—,5
+Hector_Brave_Warrior,Glowing Ember,4,3
+Hector_Brave_Warrior,Ignis,—,4
+Mareeta_Sword_of_Stars,New Moon,4,3
+Mareeta_Sword_of_Stars,Luna,—,4
+Conrad_Masked_Knight,Chilling Wind,4,3
+Conrad_Masked_Knight,Glacies,—,4
+Leif_Unifier_of_Thracia,Night Sky,4,3
+Leif_Unifier_of_Thracia,Astra,—,4
+Leif_Unifier_of_Thracia,Njörun's Zeal,—,5
+Leif_Unifier_of_Thracia,Njörun's Zeal II,—,5
+Reinhardt_Thunders_Sword,Buckler,4,3
+Reinhardt_Thunders_Sword,Pavise,—,4
+Gatrie_Armored_Amour,New Moon,4,3
+Gatrie_Armored_Amour,Moonbow,—,4
+Astram_Midias_Hero,Glowing Ember,4,3
+Astram_Midias_Hero,Bonfire,—,4
+Mamori_Microwavin_Idol,Glowing Ember,4,3
+Mamori_Microwavin_Idol,Bonfire,—,4
+Itsuki_Finding_a_Path,Daylight,4,3
+Itsuki_Finding_a_Path,Sol,—,4
+Tsubasa_Madcap_Idol,New Moon,4,3
+Tsubasa_Madcap_Idol,Moonbow,—,4
+Kiria_Cool_Facade,Chilling Wind,4,3
+Kiria_Cool_Facade,Iceberg,—,4
+Owain_Chosen_One,Glowing Ember,4,3
+Owain_Chosen_One,Bonfire,—,4
+Owain_Chosen_One,Blue Flame,—,5
+Ishtar_Thunder_Goddess,New Moon,4,3
+Ishtar_Thunder_Goddess,Moonbow,—,4
+Dimitri_King_of_Faerghus,Daylight,4,3
+Dimitri_King_of_Faerghus,Noontime,—,4
+Robin_Fall_Vessel,Daylight,4,3
+Robin_Fall_Vessel,Noontime,—,4
+Lyn_Brave_Lady,Dragon Gaze,4,3
+Lyn_Brave_Lady,Draconic Aura,—,4
+Eldigan_Lionheart,Rising Light,4,3
+Eldigan_Lionheart,Growing Light,—,4
+Julia_Nagas_Blood,Dragon Gaze,4,3
+Julia_Nagas_Blood,Dragon Fang,—,4
+Lyon_Shadow_Prince,Retribution,4,3
+Lyon_Shadow_Prince,Vengeance,—,4
+Fir_Sword_Student,Retribution,4,3
+Fir_Sword_Student,Reprisal,—,4
+Karel_Sword_Demon,Chilling Wind,4,3
+Karel_Sword_Demon,Glacies,—,4
+Selkie_New_Years_Spirit,Chilling Wind,4,3
+Selkie_New_Years_Spirit,Iceberg,—,4
+Innes_Regal_Strategician,Chilling Wind,4,3
+Innes_Regal_Strategician,Iceberg,—,4
+Freyja_Lady_of_Nightmare,New Moon,4,3
+Freyja_Lady_of_Nightmare,Luna,—,4
+Niles_Cruel_to_Be_Kind,Chilling Wind,4,3
+Niles_Cruel_to_Be_Kind,Iceberg,—,4
+Laegjarn_Sheathed_Steel,Glowing Ember,4,3
+Laegjarn_Sheathed_Steel,Bonfire,—,4
+Anna_Commander,Night Sky,2,2
+Anna_Commander,Astra,—,4
+Dimitri_The_Protector,Retribution,4,3
+Dimitri_The_Protector,Vengeance,—,4
+Duessel_Obsidian,Glowing Ember,4,3
+Duessel_Obsidian,Bonfire,—,4
+Odin_Potent_Force,New Moon,4,3
+Odin_Potent_Force,Moonbow,—,4
+Nah_Little_Miss,Glowing Ember,4,3
+Nah_Little_Miss,Bonfire,—,4
+Ashera_Order_Goddess,Chilling Wind,4,3
+Ashera_Order_Goddess,Glacies,—,4
+Abel_The_Panther,Holy Vestments,4,3
+Abel_The_Panther,Aegis,—,4
+Jeorge_Perfect_Shot,Rising Flame,4,3
+Jeorge_Perfect_Shot,Blazing Flame,—,4
+Peri_Playful_Slayer,Night Sky,4,3
+Peri_Playful_Slayer,Glimmer,—,4
+Sothe_Zephyr,Night Sky,4,3
+Sothe_Zephyr,Glimmer,—,4
+Veld_Manfroys_Rock,Chilling Wind,4,3
+Veld_Manfroys_Rock,Glacies,—,4
+Marianne_Serene_Adherent,Chilling Wind,4,3
+Marianne_Serene_Adherent,Glacies,—,4
+Marianne_Serene_Adherent,Requiem Dance,—,5
+Mustafa_Plegian_Champion,Glowing Ember,4,3
+Mustafa_Plegian_Champion,Bonfire,—,4
+Corrin_Child_of_Dusk,Dragon Gaze,4,3
+Corrin_Child_of_Dusk,Dragon Fang,—,4
+Corrin_Child_of_Dusk,Negating Fang,—,5
+Corrin_Child_of_Dusk,Negating Fang II,—,5
+Perceval_Knightly_Ideal,New Moon,4,3
+Perceval_Knightly_Ideal,Luna,—,4
+Byleth_The_Fodlan_Light,Dragon Gaze,4,3
+Byleth_The_Fodlan_Light,Draconic Aura,—,4
+Byleth_The_Fodlan_Light,Ruptured Sky,—,5
+Byleth_The_Fodlan_Star,Dragon Gaze,4,3
+Byleth_The_Fodlan_Star,Draconic Aura,—,4
+Byleth_The_Fodlan_Star,Sublime Heaven,—,5
+Byleth_The_Fodlan_Star,Sublime Heaven II,—,5
+Fernand_Traitorous_Knight,Rising Thunder,4,3
+Fernand_Traitorous_Knight,Blazing Thunder,—,4
+Maribelle_Dire_Damsel,Imbue,4,2
+Maribelle_Dire_Damsel,Miracle,5,3
+Ewan_Eager_Student,Chilling Wind,4,3
+Ewan_Eager_Student,Glacies,—,4
+Sue_Doe_of_the_Plains,New Moon,4,3
+Sue_Doe_of_the_Plains,Moonbow,—,4
+Celica_Caring_Princess,Rising Light,4,3
+Celica_Caring_Princess,Blazing Light,—,4
+Altina_Cross-Time_Duo,Chilling Wind,4,3
+Altina_Cross-Time_Duo,Iceberg,—,4
+Altina_Cross-Time_Duo,Twin Blades,—,5
+Altina_Dawns_Trueblade,Chilling Wind,4,3
+Altina_Dawns_Trueblade,Iceberg,—,4
+Altina_Dawns_Trueblade,Twin Blades,—,5
+Ike_Vanguard_Legend,Daylight,4,3
+Ike_Vanguard_Legend,Sol,—,4
+Ike_Vanguard_Legend,Radiant Aether,—,5
+Ike_Vanguard_Legend,Radiant Aether II,—,5
+Ike_Young_Mercenary,New Moon,4,3
+Ike_Young_Mercenary,Luna,—,4
+Ike_Young_Mercenary,Aether,—,5
+Ryoma_Peerless_Samurai,Night Sky,4,3
+Ryoma_Peerless_Samurai,Glimmer,—,4
+Ryoma_Supreme_Samurai,Night Sky,4,3
+Ryoma_Supreme_Samurai,Astra,—,4
+Naesala_Skys_Shadow,Rising Wind,4,3
+Naesala_Skys_Shadow,Blazing Wind,—,4
+Tiki_Torpid_Dragon,Glowing Ember,4,3
+Tiki_Torpid_Dragon,Ignis,—,4
+Luthier_Odd_Wayfarer,Night Sky,4,3
+Luthier_Odd_Wayfarer,Glimmer,—,4
+Katarina_Wayward_One,Chilling Wind,4,3
+Katarina_Wayward_One,Glacies,—,4
+Lloyd_White_Wolf,Chilling Wind,4,3
+Lloyd_White_Wolf,Iceberg,—,4
+Ephraim_Dynastic_Duo,Dragon Gaze,4,3
+Ephraim_Dynastic_Duo,Draconic Aura,—,4
+Tiki_Fated_Divinity,Night Sky,4,3
+Tiki_Fated_Divinity,Glimmer,—,4
+Velouria_Renewed_Wolfpup,Daylight,4,3
+Velouria_Renewed_Wolfpup,Sol,—,4
+Mia_Lady_of_Blades,New Moon,4,3
+Mia_Lady_of_Blades,Luna,—,4
+Hubert_Sinister_Servant,Rising Thunder,4,3
+Hubert_Sinister_Servant,Growing Thunder,—,4
+Cormag_Aloof_Lanceman,Glowing Ember,4,3
+Cormag_Aloof_Lanceman,Ignis,—,4
+Rinkah_Scion_of_Flame,Glowing Ember,4,3
+Rinkah_Scion_of_Flame,Bonfire,—,4
+Luke_Rowdy_Squire,Glowing Ember,4,3
+Luke_Rowdy_Squire,Bonfire,—,4
+Celica_Warrior_Priestess,Night Sky,4,3
+Celica_Warrior_Priestess,Astra,—,4
+Celica_Warrior_Priestess,Galeforce,—,5
+Narcian_Wyvern_General,Retribution,4,3
+Narcian_Wyvern_General,Vengeance,—,4
+Sirius_Mysterious_Knight,New Moon,4,3
+Sirius_Mysterious_Knight,Luna,—,4
+Rath_Wolf_of_Sacae,Night Sky,4,3
+Rath_Wolf_of_Sacae,Glimmer,—,4
+Kliff_Curious_Spirit,Rising Light,4,3
+Kliff_Curious_Spirit,Growing Light,—,4
+Celica_Queen_of_Valentia,Miracle,4,3
+Corrin_Wailing_Soul,Dragon Gaze,4,3
+Corrin_Wailing_Soul,Dragon Fang,—,4
+Flora_Signature_Dish,Chilling Wind,4,3
+Flora_Signature_Dish,Iceberg,—,4
+Navarre_Scarlet_Sword,Rising Wind,4,3
+Navarre_Scarlet_Sword,Blazing Wind,—,4
+Alm_Lovebird_Duo,New Moon,4,3
+Alm_Lovebird_Duo,Moonbow,—,4
+Alm_Lovebird_Duo,Lunar Flash,—,5
+Death_Knight_The_Reaper,Rising Flame,4,3
+Death_Knight_The_Reaper,Blazing Flame,—,4
+Chrom_Knight_Exalt,New Moon,4,3
+Chrom_Knight_Exalt,Luna,—,4
+Chrom_Knight_Exalt,Aether,—,5
+Mareeta_The_Blades_Pawn,New Moon,4,3
+Mareeta_The_Blades_Pawn,Luna,—,4
+Marisa_Crimson_Flash,Night Sky,4,3
+Marisa_Crimson_Flash,Glimmer,—,4
+Shanna_Sprightly_Flier,Chilling Wind,4,3
+Shanna_Sprightly_Flier,Iceberg,—,4
+Xander_Paragon_Knight,Rising Light,4,3
+Xander_Paragon_Knight,Blazing Light,—,4
+Ephraim_Restoration_Lord,New Moon,4,3
+Ephraim_Restoration_Lord,Moonbow,—,4
+Takumi_Empty_Vessel,Retribution,4,3
+Takumi_Empty_Vessel,Vengeance,—,4
+Dagr_Suns_Radiance,Dragon Gaze,4,3
+Dagr_Suns_Radiance,Dragon Fang,—,4
+Tibarn_Shipless_Pirate,Night Sky,4,3
+Tibarn_Shipless_Pirate,Astra,—,4
+Tibarn_Shipless_Pirate,Galeforce,—,5
+Legion_Masked_Maniac,Retribution,4,3
+Legion_Masked_Maniac,Reprisal,—,4
+Python_Apathetic_Archer,New Moon,4,3
+Python_Apathetic_Archer,Moonbow,—,4
+Clarisse_Sniper_in_the_Dark,Night Sky,4,3
+Clarisse_Sniper_in_the_Dark,Glimmer,—,4
+Sothis_Silver_Specter,Daylight,4,3
+Sothis_Silver_Specter,Noontime,—,4
+Sothis_Silver_Specter,Sirius,—,5
+Lif_Lethal_Swordsman,Glowing Ember,4,3
+Lif_Lethal_Swordsman,Bonfire,—,4
+Lif_Lethal_Swordsman,Open the Future,—,5
+Lyn_Lady_of_the_Plains,Night Sky,4,3
+Lyn_Lady_of_the_Plains,Astra,—,4
+Lyn_Lady_of_the_Plains,Galeforce,—,5
+Forsyth_Loyal_Lieutenant,Glowing Ember,4,3
+Forsyth_Loyal_Lieutenant,Bonfire,—,4
+Soleil_Adorable_Adorer,Rising Wind,4,3
+Soleil_Adorable_Adorer,Blazing Wind,—,4
+Lonqu_Solitary_Blade,Night Sky,4,3
+Lonqu_Solitary_Blade,Glimmer,—,4
+Kris_Unsung_Hero,New Moon,4,3
+Kris_Unsung_Hero,Moonbow,—,4
+Myrrh_Spooky_Monster,Glowing Ember,4,3
+Myrrh_Spooky_Monster,Bonfire,—,4
+Deirdre_Fated_Saint,Chilling Wind,4,3
+Deirdre_Fated_Saint,Iceberg,—,4
+Deirdre_Fated_Saint,Circlet of Balance,—,5
+Deirdre_Fated_Saint,Balance Circlet II,—,5
+Genny_Endearing_Ally,Imbue,4,2
+Genny_Endearing_Ally,Heavenly Light,5,3
+Nina_Eye_Spy,New Moon,4,3
+Nina_Eye_Spy,Moonbow,—,4
+Silque_Adherent_of_Mila,Imbue,4,2
+Silque_Adherent_of_Mila,Solid-Earth Balm,5,3
+Silque_Adherent_of_Mila,Earthfire Balm,—,4
+Silque_Adherent_of_Mila,Earthfire Balm+,—,5
+Draug_Gentle_Giant,Buckler,4,3
+Draug_Gentle_Giant,Pavise,—,4
+Ingrid_Solstice_Knight,New Moon,4,3
+Ingrid_Solstice_Knight,Moonbow,—,4
+Eirika_Graceful_Resolve,New Moon,4,3
+Eirika_Graceful_Resolve,Moonbow,—,4
+Dorcas_Serene_Warrior,Dragon Gaze,4,3
+Dorcas_Serene_Warrior,Draconic Aura,—,4
+Lilina_Firelight_Leader,Rising Flame,4,3
+Lilina_Firelight_Leader,Blazing Flame,—,4
+Lilina_Firelight_Leader,Gifted Magic,—,5
+Lilina_Firelight_Leader,Gifted Magic II,—,5
+Sothis_Girl_on_the_Throne,Daylight,4,3
+Sothis_Girl_on_the_Throne,Noontime,—,4
+Sothis_Girl_on_the_Throne,Sirius,—,5
+Sothis_Girl_on_the_Throne,Sirius+,—,5
+Tiki_Beachside_Scion,New Moon,4,3
+Tiki_Beachside_Scion,Moonbow,—,4
+Kana_Dragon_Princess,Dragon Gaze,4,3
+Kana_Dragon_Princess,Draconic Aura,—,4
+Byleth_Fell_Stars_Duo,Dragon Gaze,4,3
+Byleth_Fell_Stars_Duo,Draconic Aura,—,4
+Byleth_Fell_Stars_Duo,Ruptured Sky,—,5
+Shamir_Archer_Apart,New Moon,4,3
+Shamir_Archer_Apart,Moonbow,—,4
+Ylgr_Fresh_Snowfall,Night Sky,4,3
+Ylgr_Fresh_Snowfall,Glimmer,—,4
+Dedue_Dimitris_Vassal,Buckler,4,3
+Dedue_Dimitris_Vassal,Pavise,—,4
+Robin_High_Deliverer,Glowing Ember,4,3
+Robin_High_Deliverer,Bonfire,—,4
+Robin_Mystery_Tactician,Glowing Ember,4,3
+Robin_Mystery_Tactician,Ignis,—,4
+Panne_Proud_Taguel,Night Sky,4,3
+Panne_Proud_Taguel,Astra,—,4
+Lyn_Ninja-Friend_Duo,New Moon,4,3
+Lyn_Ninja-Friend_Duo,Moonbow,—,4
+Jill_Fiery_Dracoknight,New Moon,4,3
+Jill_Fiery_Dracoknight,Moonbow,—,4
+Marth_Royal_Altean_Duo,Dragon Gaze,4,3
+Marth_Royal_Altean_Duo,Draconic Aura,—,4
+Marth_Royal_Altean_Duo,Fire Emblem,—,5
+Tharja_Dark_Shadow,Retribution,4,3
+Tharja_Dark_Shadow,Vengeance,—,4
+Julian_Tender_Thief,New Moon,4,3
+Julian_Tender_Thief,Moonbow,—,4
+Loki_The_Trickster,Imbue,4,2
+Loki_The_Trickster,Still-Water Balm,5,3
+Loki_The_Trickster,Earthwater Balm,—,4
+Loki_The_Trickster,Earthwater Balm+,—,5
+Rudolf_Emperor_of_Rigel,Glowing Ember,4,3
+Rudolf_Emperor_of_Rigel,Bonfire,—,4
+Travant_King_of_Thracia,Glowing Ember,4,3
+Travant_King_of_Thracia,Ignis,—,4
+Hector_Marquess_of_Ostia,Dragon Gaze,4,3
+Hector_Marquess_of_Ostia,Draconic Aura,—,4
+Catherine_Thunder_Knight,Dragon Gaze,4,3
+Catherine_Thunder_Knight,Draconic Aura,—,4
+Olwen_Righteous_Knight,Rising Wind,4,3
+Olwen_Righteous_Knight,Blazing Wind,—,4
+Caellach_Tiger_Eye,Dragon Gaze,4,3
+Caellach_Tiger_Eye,Dragon Fang,—,4
+Dieck_Wounded_Tiger,New Moon,4,3
+Dieck_Wounded_Tiger,Luna,—,4
+Morgan_Fated_Darkness,Chilling Wind,4,3
+Morgan_Fated_Darkness,Iceberg,—,4
+Oliver_Admirer_of_Beauty,Rising Light,4,3
+Oliver_Admirer_of_Beauty,Blazing Light,—,4
+Arete_Requiems_Beauty,Chilling Wind,4,3
+Arete_Requiems_Beauty,Glacies,—,4
+Pent_Mage_General,Night Sky,4,3
+Pent_Mage_General,Glimmer,—,4
+Laevatein_Ninja_of_Muspell,Miracle,4,3
+Edelgard_Hegemon_Husk,Glowing Ember,4,3
+Edelgard_Hegemon_Husk,Bonfire,—,4
+Ike_Brave_Mercenary,New Moon,4,3
+Ike_Brave_Mercenary,Luna,—,4
+Ike_Brave_Mercenary,Aether,—,5
+Valbar_Open_and_Honest,Retribution,4,3
+Valbar_Open_and_Honest,Vengeance,—,4
+Arvis_Emperor_of_Flame,Rising Flame,4,3
+Arvis_Emperor_of_Flame,Growing Flame,—,4
+Karla_Sword_Vassal,Dragon Gaze,4,3
+Karla_Sword_Vassal,Draconic Aura,—,4
+Veronica_Spring_Princess,Night Sky,4,3
+Veronica_Spring_Princess,Glimmer,—,4
+Dimitri_Savage_Boar,Night Sky,4,3
+Dimitri_Savage_Boar,Glimmer,—,4
+Kempf_Conniving_General,Holy Vestments,4,3
+Kempf_Conniving_General,Aegis,—,4
+Jagen_Veteran_Knight,Holy Vestments,4,3
+Jagen_Veteran_Knight,Aegis,—,4
+Edelgard_The_Future,New Moon,4,3
+Edelgard_The_Future,Luna,—,4
+Tana_Winged_Princess,New Moon,4,3
+Tana_Winged_Princess,Moonbow,—,4
+Julia_Crusader_of_Light,Dragon Gaze,4,3
+Julia_Crusader_of_Light,Dragon Fang,—,4
+Seliph_Scion_of_Light,Glowing Ember,4,3
+Seliph_Scion_of_Light,Ignis,—,4
+Pelleas_Ashnards_Orphan,Miracle,4,3
+Bramimond_The_Enigma,New Moon,4,3
+Bramimond_The_Enigma,Luna,—,4
+Osian_Scolded_Soldier,Daylight,4,3
+Osian_Scolded_Soldier,Noontime,—,4
+Rutger_Lone_Swordsman,Retribution,4,3
+Rutger_Lone_Swordsman,Vengeance,—,4
+Thorr_War_God,Glowing Ember,4,3
+Thorr_War_God,Bonfire,—,4
+Saias_Bishop_of_Flame,Chilling Wind,4,3
+Saias_Bishop_of_Flame,Glacies,—,4
+Hinoka_Blue_Sky_Warrior,New Moon,4,3
+Hinoka_Blue_Sky_Warrior,Luna,—,4
+Gwendolyn_Adorable_Knight,Buckler,4,3
+Gwendolyn_Adorable_Knight,Escutcheon,—,4
+Echidna_Unyielding_Idealist,Daylight,4,3
+Echidna_Unyielding_Idealist,Sol,—,4
+Palla_Eldest_Whitewing,New Moon,4,3
+Palla_Eldest_Whitewing,Moonbow,—,4
+Catria_Middle_Whitewing,New Moon,4,3
+Catria_Middle_Whitewing,Luna,—,4
+Claude_Almyras_King,New Moon,4,3
+Claude_Almyras_King,Moonbow,—,4
+Soren_Shrewd_Strategist,Rising Wind,4,3
+Soren_Shrewd_Strategist,Growing Wind,—,4
+Merric_Changing_Winds,Night Sky,4,3
+Merric_Changing_Winds,Glimmer,—,4
+Merric_Changing_Winds,Righteous Wind,—,5
+Ced_Hero_on_the_Wind,New Moon,4,3
+Ced_Hero_on_the_Wind,Luna,—,4
+Caeda_Beloved_Queen,New Moon,4,3
+Caeda_Beloved_Queen,Moonbow,—,4
+Bantu_Tikis_Guardian,Dragon Gaze,4,3
+Bantu_Tikis_Guardian,Dragon Fang,—,4
+Walhart_The_Conqueror,New Moon,4,3
+Walhart_The_Conqueror,Luna,—,4
+Nailah_Unflinching_Eye,New Moon,4,3
+Nailah_Unflinching_Eye,Moonbow,—,4
+Velouria_Wolf_Cub,New Moon,4,3
+Velouria_Wolf_Cub,Luna,—,4
+Keaton_Lupine_Collector,Dragon Gaze,4,3
+Keaton_Lupine_Collector,Draconic Aura,—,4
+Galle_Azure_Rider,Dragon Gaze,4,3
+Galle_Azure_Rider,Dragon Fang,—,4
+Corrin_Fateful_Prince,Dragon Gaze,4,3
+Corrin_Fateful_Prince,Dragon Fang,—,4

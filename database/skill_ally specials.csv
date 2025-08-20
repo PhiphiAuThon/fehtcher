@@ -1,4 +1,0 @@
-Name,Cooldown,Description,SP
-Glowing Ember,4,Boosts damage by 50% of unit's Def.,100
-Ignis,4,Boosts damage by 80% of unit's Def.,200
-Seiðr Burst,3,"Boosts damage by 50% of unit's Spd and calculates damage using the lower of foe's Def or Res when Special triggers.On turns 1 through 4, grants Special cooldown count-2 to unit before unit's first attack and grants Special cooldown count-2 to unit before unit's first follow-up attack during combat.If unit's or foe's Special is ready or triggered before or during this combat, reduces damage from foe's next attack by 40% (once per combat; excluding area-of-effect Specials).",500
